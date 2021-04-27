@@ -28,6 +28,7 @@ app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 #This header specifies which dashboard objects are considered as input and output for our next function
 @app.callback(
     [Output('scatterPlot', 'figure'),
+    Output('paracoorPlot', 'figure'),
     Output('table','data')],
     [Input('attOptions', 'value'),
     Input('yearSlider', 'value')])
@@ -130,12 +131,9 @@ scatterContent = dbc.Container([
 ])
 
 #========================================== Code for Parallel Coordinates Page ======================================
-@app.callback(
-    [Output('paracoorPlot', 'figure'),
-    Output('table','data')])
 
 paracoorContent = dbc.Container([
-    html.H1('Models Showing the Trend'),
+    html.H1('Features of Phones through Years'),
     html.Hr(),
     dbc.Row([
         dbc.Col(dcc.Graph(id='paracoorPlot'), md=8)
@@ -168,7 +166,7 @@ sidebar = html.Div([
     html.Hr(),
     dbc.Nav([
         dbc.NavLink('Home', href='/', active='exact'),
-        dbc.NavLink('Scatter Plots', href='/scatter', active='exact')
+        dbc.NavLink('Scatter Plots', href='/scatter', active='exact'),
         dbc.NavLink('Parallel Coordinate Plot', href='/paracoor', active='exact')
     ])
 ], style=sidebarStyle)
