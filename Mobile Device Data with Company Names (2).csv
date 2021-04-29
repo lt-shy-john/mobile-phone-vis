@@ -1,0 +1,2845 @@
+,Model,Company_ID,Company Name
+1,Casio Cassiopeia E-3000,26.0,Casio
+3,Coxion WebBook Mobile Computer,35.0,Coxion
+5,CyberBank POZ 0850,61.0,HTC
+7,Medion MDPPC 100 (MD7200),84.0,MiTAC International Corp
+9,MiTAC Mio 728 PDA Phone,84.0,MiTAC International Corp
+11,Samsung NEXiO S160 / NEXiO S165,113.0,Samsung
+13,Sony Clie PEG-NZ90 / PEG-NZ90U,123.0,Sony Corporation
+15,Symbol PPT 8800,152.0,Zebra Technologies
+17,Yakumo PDA Delta 200,84.0,MiTAC International Corp
+19,Kyocera 7135,74.0,Kyocera Corporation
+21,Motorola A760,87.0,Motorola
+25,E-TEN InfoTouch P600,43.0,"E-TEN Information Systems Co., Ltd"
+27,Nokia 3600,92.0,Nokia Corporation
+29,Samsung SPH-i330,113.0,Samsung
+31,Samsung SPH-i700,113.0,Samsung
+33,Sony Clie PEG-SJ22 / PEG-SJ22U / PEG-SJ2E,123.0,Sony Corporation
+35,Sony Clie PEG-TG50 / PEG-TG50U,123.0,Sony Corporation
+37,Toshiba e750 / e755,136.0,Toshiba Corporation
+39,Toshiba Genio e350,136.0,Toshiba Corporation
+41,Acer n20,3.0,Acer
+43,Acer n20w,3.0,Acer
+45,Casio Cassiopeia IT-500 M30,26.0,Casio
+47,Casio Cassiopeia IT-500 M30B,26.0,Casio
+49,Casio Cassiopeia IT-500 M30CB,26.0,Casio
+51,Casio Cassiopeia IT-500 M30CR,26.0,Casio
+53,Casio Cassiopeia IT-500 M30R,26.0,Casio
+55,Orange SPV E100 (HTC Tanager),100.0,Orange UK
+57,Palm Tungsten C,102.0,Palm
+59,I-Mate Smartphone (HTC Tanager),64.0,I-Mate
+61,MiTAC Mio 339 Digi-Walker,84.0,MiTAC International Corp
+63,MiTAC Mio 8380 Digi-Walker,84.0,MiTAC International Corp
+65,NEC MobilePro 900,91.0,NEC Corporationæ
+67,Panasonic Toughbook CF-P1,103.0,Panasonic
+69,Asus MyPal A620,14.0,Asus
+71,CyberBank POZ 0870,61.0,HTC
+73,E-TEN InfoTouch P603,43.0,"E-TEN Information Systems Co., Ltd"
+75,Hewlett-Packard iPAQ H1940 / H1945 (HTC Kiwi),58.0,Hewlett-Packard
+77,Hewlett-Packard iPAQ H2210 / H2212 / H2212e / H2215 (HTC Great Wall),58.0,Hewlett-Packard
+79,MiTAC Mio 338 Plus Digi-Walker,84.0,MiTAC International Corp
+81,MiTAC Mio 558 Digi-Walker,84.0,MiTAC International Corp
+83,NTT DoCoMo Sigmarion III.,94.0,"NTT DOCOMO, Inc"
+85,Qtek 7070 (HTC Tanager),61.0,HTC
+87,Sony Clie PEG-NX73V,123.0,Sony Corporation
+89,Sony Clie PEG-NX80V,123.0,Sony Corporation
+91,Symbol PPT 8800w,152.0,Zebra Technologies
+93,ViewSonic Pocket PC V36,145.0,ViewSonic
+95,Hewlett-Packard iPAQ H5150 / H5155,58.0,Hewlett-Packard
+97,Hewlett-Packard iPAQ H5550 / H5555,58.0,Hewlett-Packard
+99,Hitachi SH-G1000,59.0,"Hitachi, Ltd"
+101,Palm Tungsten T2,102.0,Palm
+103,CyberBank Triton  0885 / 1880,61.0,HTC
+105,CyberBank Triton 0880,61.0,HTC
+107,Samsung SCH-M400,113.0,Samsung
+109,T-Mobile MDA II (HTC Himalaya),128.0,T-Mobile
+111,Dell Axim X3 Advanced,39.0,Dell
+113,Dell Axim X3 Basic,39.0,Dell
+115,Dell Axim X3i,39.0,Dell
+117,E-TEN InfoTouch P300,43.0,"E-TEN Information Systems Co., Ltd"
+119,Handspring Treo 600 CDMA,56.0,Handspring Inc
+121,Handspring Treo 600 GSM,56.0,Handspring Inc
+123,Hewlett-Packard iPAQ H1930 / H1935 (HTC Kiwi),58.0,Hewlett-Packard
+125,Hewlett-Packard iPAQ H1937 (HTC Kiwi),58.0,Hewlett-Packard
+127,I-Mate Pocket PC Phone Edition (HTC Himalaya),64.0,I-Mate
+129,O2 XDA II (HTC Himalaya),95.0,O2
+131,Sony Clie PEG-NX73VE,123.0,Sony Corporation
+133,Sony Clie PEG-UX40 / PEG-UX40U / PEG-UX40E,123.0,Sony Corporation
+135,Sony Clie PEG-UX50 / PEG-UX50U / PEG-UX50E,123.0,Sony Corporation
+137,Asus MyPal A620BT,14.0,Asus
+139,CyberBank Triton 1880 KW,61.0,HTC
+141,Fujitsu-Siemens Pocket LOOX 610BT/WLAN,50.0,Fujitsu Ltd
+143,Hewlett-Packard iPAQ H4150 / H4155,58.0,Hewlett-Packard
+145,Hewlett-Packard iPAQ H4350 / H4355 (HTC Dextrous),58.0,Hewlett-Packard
+147,Nokia 6600 (Nokia Calimero),92.0,Nokia Corporation
+149,Nokia N-Gage (Nokia Starship),92.0,Nokia Corporation
+151,Psion Teklogix netBook Pro,152.0,Zebra Technologies
+153,RoverPC P5+,111.0,RoverComputers
+155,Samsung SCH-i600 / SPH-i600,113.0,Samsung
+157,Sony Clie PEG-TJ35,123.0,Sony Corporation
+159,Toshiba e400,136.0,Toshiba Corporation
+161,Typhoon MyGuide 5500 XL,61.0,HTC
+163,Yakumo PDA Delta 400,84.0,MiTAC International Corp
+165,Acer n10,3.0,Acer
+167,Audiovox PPC-5050 (HTC Falcon),61.0,HTC
+169,Dopod 696 / 696i (HTC Himalaya),61.0,HTC
+171,E-TEN InfoTouch P610,43.0,"E-TEN Information Systems Co., Ltd"
+173,Fujitsu-Siemens Pocket LOOX 610BT,50.0,Fujitsu Ltd
+175,Motorola A920,87.0,Motorola
+177,Motorola MPx200,87.0,Motorola
+179,PalmOne Treo 600 CDMA,102.0,Palm
+181,PalmOne Treo 600 GSM,102.0,Palm
+183,Qtek 2060 (HTC Himalaya),61.0,HTC
+185,RIM BlackBerry 7280,21.0,BlackBerry Limited
+187,Sendo X,114.0,Sendo
+189,Toshiba e800 / e805,136.0,Toshiba Corporation
+191,Asus MyPal A716,14.0,Asus
+193,Bsquare Power Handheld,24.0,Bsquare Corporation
+195,CyberBank POZ 1870,61.0,HTC
+197,Medion MDPNA 100 (MD95025),84.0,MiTAC International Corp
+199,MiTAC Mio 168 Digi-Walker,84.0,MiTAC International Corp
+201,MiTAC Mio 168RS Digi-Walker,84.0,MiTAC International Corp
+203,Orange SPV E200 (HTC Voyager),100.0,Orange UK
+205,RoverPC P1,111.0,RoverComputers
+207,RoverPC P3+,111.0,RoverComputers
+209,RoverPC S1,111.0,RoverComputers
+211,Siemens SX1,117.0,SiemensæAG
+213,Abocom X-Pilot II,2.0,AboCom Systems
+215,Airis NC05 / NC05A,4.0,Airis
+217,Airis T900,4.0,Airis
+219,AnexTEK SP230,148.0,Wistron Corporation
+221,CyberBank POZ 2470,61.0,HTC
+223,Dopod 535 (HTC Voyager),61.0,HTC
+225,Krome Navigator F1 (HTC Himalaya),61.0,HTC
+227,Medion MDPPC 150 (MD95459),84.0,MiTAC International Corp
+229,MiTAC Mio 336 Digi-Walker,84.0,MiTAC International Corp
+231,Qtek 2020 (HTC Himalaya),61.0,HTC
+233,Qtek 8060 (HTC Voyager),61.0,HTC
+235,RoverPC P7,111.0,RoverComputers
+239,Toshiba e800w,136.0,Toshiba Corporation
+241,Typhoon MyGuide 2500,61.0,HTC
+243,Yakumo PDA Delta 300 GPS,84.0,MiTAC International Corp
+245,Airis N509,4.0,Airis
+247,E-TEN InfoTouch P700,43.0,"E-TEN Information Systems Co., Ltd"
+249,MiTAC Mio 8390 Digi-Walker,84.0,MiTAC International Corp
+251,Sony Clie PEG-TH55 / PEG-TH55E,123.0,Sony Corporation
+255,ViewSonic Pocket PC V37,145.0,ViewSonic
+257,NEC MobilePro 900C,91.0,NEC Corporationæ
+259,Orange SPV M1000 (HTC Himalaya),100.0,Orange UK
+261,I-Mate Smartphone2 (HTC Voyager),64.0,I-Mate
+263,PalmOne Zire 31,102.0,Palm
+265,PalmOne Zire 72,102.0,Palm
+267,Panasonic Toughbook CF-P1 Mk. 2,103.0,Panasonic
+269,Typhoon MyGuide 3500 XL,61.0,HTC
+271,Acer n30,3.0,Acer
+273,Dell Axim X30 Advanced,39.0,Dell
+275,Dell Axim X30 Basic,39.0,Dell
+277,Dell Axim X30i,39.0,Dell
+279,E-TEN InfoTouch P300B,43.0,"E-TEN Information Systems Co., Ltd"
+281,Fujitsu-Siemens Pocket LOOX 410,50.0,Fujitsu Ltd
+283,Fujitsu-Siemens Pocket LOOX 420,50.0,Fujitsu Ltd
+285,Medion MDPPC 250 (MD41800),84.0,MiTAC International Corp
+287,Psion Teklogix WORKABOUT PRO C,152.0,Zebra Technologies
+289,Psion Teklogix WORKABOUT PRO M,152.0,Zebra Technologies
+291,Psion Teklogix WORKABOUT PRO S,152.0,Zebra Technologies
+293,RoverPC P4,111.0,RoverComputers
+295,Samsung NEXiO XP30,113.0,Samsung
+297,Asus MyPal A730,14.0,Asus
+299,Audiovox PPC-4100,61.0,HTC
+301,Lenovo ET560,76.0,Lenovo
+303,Mobile Compia M3 MC-6200S,61.0,HTC
+305,Nokia 7610 (Nokia Catalina),92.0,Nokia Corporation
+307,O2 Xphone (HTC Voyager),95.0,O2
+309,Sierra Wireless Voq Professional A10,118.0,Sierra Wireless
+311,Sierra Wireless Voq Professional A11,118.0,Sierra Wireless
+313,Tapwave Zodiac 1,129.0,Tapwave
+315,Tapwave Zodiac 2,129.0,Tapwave
+317,Hewlett-Packard iPAQ H6310 / H6315 / H6320 / H6325 / H6365,58.0,Hewlett-Packard
+319,Hewlett-Packard iPAQ H6340 / H6345,58.0,Hewlett-Packard
+321,Hewlett-Packard iPAQ hx4700 / hx4705 (HTC Roadster),58.0,Hewlett-Packard
+323,Hewlett-Packard iPAQ rx3115,58.0,Hewlett-Packard
+325,Hewlett-Packard iPAQ rx3415,58.0,Hewlett-Packard
+327,Hewlett-Packard iPAQ rx3417,58.0,Hewlett-Packard
+329,Hewlett-Packard iPAQ rx3715,58.0,Hewlett-Packard
+331,Hewlett-Packard iPAQ rz1710 / rz1715,58.0,Hewlett-Packard
+333,Hewlett-Packard iPAQ rz1717,58.0,Hewlett-Packard
+335,Krome Intellekt iQ200 (HTC Voyager),61.0,HTC
+337,CyberBank Majesty,61.0,HTC
+339,Fujitsu-Siemens Loox V70,50.0,Fujitsu Ltd
+341,Qtek 8080 (HTC Voyager),61.0,HTC
+343,RoverPC S2,111.0,RoverComputers
+345,Bluebird Pidion BIP-1200,23.0,Bluebird Soft Inc
+347,CyberBank POZ X301,61.0,HTC
+349,Data Evolution Cathena,37.0,Data Evolution Corp
+351,Fujitsu-Siemens Pocket LOOX 710 (HTC Bali),50.0,Fujitsu Ltd
+353,Fujitsu-Siemens Pocket LOOX 720 (HTC Bali),50.0,Fujitsu Ltd
+355,MiTAC Mio 336BT Digi-Walker,84.0,MiTAC International Corp
+357,Motorola E680 / E680g,87.0,Motorola
+359,Nokia 6260,92.0,Nokia Corporation
+361,Qtek 9090 (HTC Blue Angel),61.0,HTC
+363,Samsung SGH-D710,113.0,Samsung
+365,Sony Clie PEG-VZ90,123.0,Sony Corporation
+367,T-Mobile MDA III (HTC Blue Angel),128.0,T-Mobile
+369,Toshiba e830,136.0,Toshiba Corporation
+371,BenQ P30,20.0,BenQ
+373,DAP MICROFLEX CE5000B,110.0,Roper Technologies
+375,DAP MICROFLEX CE5000BWE,110.0,Roper Technologies
+377,Dell Axim X50 Advanced,39.0,Dell
+379,Dell Axim X50 Basic,39.0,Dell
+381,Dell Axim X50v,39.0,Dell
+383,I-Mate PDA2k (HTC Blue Angel),64.0,I-Mate
+385,I-Mate SP3 (HTC Typhoon),64.0,I-Mate
+387,Nokia 6670 NAM,92.0,Nokia Corporation
+389,Orange SPV C500 (HTC Typhoon),100.0,Orange UK
+391,Panasonic Toughbook CF-P2 Mk. 1,103.0,Panasonic
+393,Qtek 8010 (HTC Typhoon),61.0,HTC
+395,Sagem myS-7,84.0,MiTAC International Corp
+399,Symbol MC1000,152.0,Zebra Technologies
+401,Typhoon MyGuide 3500 mobile,61.0,HTC
+403,Audiovox PPC-6600 (HTC Harrier),61.0,HTC
+405,Audiovox PPC-6601 (HTC Harrier),61.0,HTC
+407,Audiovox SMT-5600 (HTC Typhoon),61.0,HTC
+409,Casio Cassiopeia IT-10 M20,26.0,Casio
+411,Casio Cassiopeia IT-10 M20BR,26.0,Casio
+413,Casio Cassiopeia IT-10 M30BR,26.0,Casio
+415,Dopod 700 (HTC Blue Angel),61.0,HTC
+417,Fujitsu-Siemens Pocket LOOX 718 (HTC Bali),50.0,Fujitsu Ltd
+419,O2 XDA IIs / XDA III (HTC Blue Angel),95.0,O2
+421,PalmOne Tungsten T5,102.0,Palm
+423,Psion Teklogix 7530,152.0,Zebra Technologies
+425,Psion Teklogix 7535,152.0,Zebra Technologies
+429,Sprint PPC-6600 (HTC Harrier),126.0,Sprint Corporation
+431,Sprint PPC-6601 (HTC Harrier),126.0,Sprint Corporation
+433,Typhoon MyGuide 3500 GO,61.0,HTC
+435,Verizon XV6600 (HTC Harrier),143.0,Verizon Communications
+437,Acer n35,3.0,Acer
+439,Acer n50,3.0,Acer
+441,Asus MyPal A730w,14.0,Asus
+443,Axia A108,16.0,Axia
+445,DAP MICROFLEX CE3240B,110.0,Roper Technologies
+447,DAP MICROFLEX CE3240BWE,110.0,Roper Technologies
+449,Dopod 565 (HTC Typhoon),61.0,HTC
+451,I-Mate JAM (HTC Magician),64.0,I-Mate
+453,I-Mate SP3i (HTC Feeler),64.0,I-Mate
+455,Krome Intellekt iQ700 (HTC Typhoon),61.0,HTC
+457,MiTAC Mio 8870 Digi-Walker,84.0,MiTAC International Corp
+459,Motorola A1000,87.0,Motorola
+461,Motorola MPx220,87.0,Motorola
+463,Nokia 7710,92.0,Nokia Corporation
+465,O2 Xphone II (HTC Feeler),95.0,O2
+467,O2 Xphone IIm (HTC Amadeus),95.0,O2
+469,Orange SPV M2000  (HTC Blue Angel),100.0,Orange UK
+471,PalmOne Treo 650 CDMA,102.0,Palm
+473,Panasonic X700,103.0,Panasonic
+475,Qtek 8020 (HTC Feeler),61.0,HTC
+477,Siemens SX66 (HTC Blue Angel),117.0,SiemensæAG
+481,T-Mobile SDA (HTC Sonata),128.0,T-Mobile
+483,T-Mobile SDA Music (HTC Amadeus),128.0,T-Mobile
+485,Archos PMA400,11.0,Archos
+487,Arima U300,13.0,Arima Communications
+489,Bluebird Pidion BIP-1250,23.0,Bluebird Soft Inc
+491,Bluebird Pidion BIP-2010,23.0,Bluebird Soft Inc
+493,Dopod 575 (HTC Feeler),61.0,HTC
+495,Dopod 585 (HTC Amadeus),61.0,HTC
+497,Dopod 818 (HTC Magician),61.0,HTC
+499,E-TEN InfoTouch M500,43.0,"E-TEN Information Systems Co., Ltd"
+501,Hewlett-Packard iPAQ hx2110 / hx2115,58.0,Hewlett-Packard
+503,Hewlett-Packard iPAQ hx2410 / hx2415,58.0,Hewlett-Packard
+505,Hewlett-Packard iPAQ hx2750 / hx2755,58.0,Hewlett-Packard
+507,Intermec CK30A,68.0,Intermec
+509,Intermec CK30B,68.0,Intermec
+511,Intermec CK30C,68.0,Intermec
+513,Medion MDSP 150 (MD95282),84.0,MiTAC International Corp
+515,Mio 269 Plus Digi-Walker,84.0,MiTAC International Corp
+517,MiTAC Mio 268 Digi-Walker,84.0,MiTAC International Corp
+519,MiTAC Mio 269 Digi-Walker,84.0,MiTAC International Corp
+521,Mobile Compia M2,61.0,HTC
+523,Nokia 3230,92.0,Nokia Corporation
+525,O2 XDA II mini (HTC Magician),95.0,O2
+527,Symbol MC3070 Color,152.0,Zebra Technologies
+529,Symbol MC3070 Monochrome,152.0,Zebra Technologies
+531,T-Mobile MDA Compact (HTC Magician),128.0,T-Mobile
+533,Typhoon MyGuide 2500 GO,61.0,HTC
+535,CyberBank POZ X310,61.0,HTC
+537,Daxian CU928 (HTC Harrier),61.0,HTC
+539,O2 XDA IIi (HTC Alpine),95.0,O2
+541,Typhoon MyGuide M500,61.0,HTC
+543,Dopod 699 (HTC Alpine),61.0,HTC
+545,Hitachi FLORA-ie MX1,59.0,"Hitachi, Ltd"
+547,Lenovo ET960,76.0,Lenovo
+549,Nokia 6682,92.0,Nokia Corporation
+551,Olympus R1000 TDA,96.0,Olympus Corporation
+553,PalmOne Treo 650 GSM,102.0,Palm
+555,Symbol MC50 NAV,152.0,Zebra Technologies
+557,Symbol MC50 QWERTY,152.0,Zebra Technologies
+559,Yakumo PDA deltaX GPS,84.0,MiTAC International Corp
+561,Asus P505,14.0,Asus
+563,Data Evolution Clio NXT,37.0,Data Evolution Corp
+565,PalmOne Tungsten E2,102.0,Palm
+567,Qtek S100 (HTC Magician),61.0,HTC
+569,Yakumo PDA deltaX 5 BT,84.0,MiTAC International Corp
+571,I-Mate PDA2 Pocket PC (HTC Alpine),64.0,I-Mate
+573,Intermec 730 I-Safe,68.0,Intermec
+575,Motorola E680i,87.0,Motorola
+577,PalmOne LifeDrive,102.0,Palm
+579,Qtek 2020i (HTC Alpine),61.0,HTC
+581,Samsung SGH-D720,113.0,Samsung
+583,Trimble Recon,137.0,Trimble Navigation
+585,Vodafone VPA Compact (HTC Magician Refresh),146.0,Vodafone
+587,Vodafone VPA III (HTC Gemini),146.0,Vodafone
+589,Airis T470i,4.0,Airis
+591,Asus MyPal A636N,14.0,Asus
+593,BenQ P31,20.0,BenQ
+595,CyberBank POZ B300,61.0,HTC
+597,DAP MICROFLEX CE8640B,110.0,Roper Technologies
+599,DAP MICROFLEX CE8640BWE,110.0,Roper Technologies
+601,Dopod 828+ (HTC Magician Refresh),61.0,HTC
+603,I-Mate PDA2k EVDO (HTC Harrier),64.0,I-Mate
+605,MiTAC Mio 169 Digi-Walker,84.0,MiTAC International Corp
+607,Navigon PNA Transonic 4000,88.0,Navigon GmbH
+609,Trimble Recon GPS XB / XC,137.0,Trimble Navigation
+611,Vodafone VDA (HTC Feeler),146.0,Vodafone
+613,Garmin iQue M5,51.0,Garmin Ltd
+615,Motorola A910 / A910i (Motorola Martinique),87.0,Motorola
+617,Orange SPV C550 (HTC Hurricane),100.0,Orange UK
+619,Orange SPV M2500 (HTC Alpine),100.0,Orange UK
+621,Orange SPV M500 (HTC Magician),100.0,Orange UK
+623,RoverPC M1,111.0,RoverComputers
+625,Samsung SCH-i730,113.0,Samsung
+627,Vodafone v1620 (HTC Blue Angel Refresh),146.0,Vodafone
+629,Dopod 566 / 586 (HTC Hurricane),61.0,HTC
+631,Garmin iQue M3,51.0,Garmin Ltd
+633,Hewlett-Packard iPAQ hw6515 (HTC Beetles),58.0,Hewlett-Packard
+635,I-Mate New JAM / JAM Limited Edition (HTC Magician),64.0,I-Mate
+637,Intermec 730B,68.0,Intermec
+639,Intermec CN2,68.0,Intermec
+641,Intermec CN2B,68.0,Intermec
+643,Krome Spy (HTC Magician Refresh),61.0,HTC
+645,Mobile Crossing WayPoint 100,61.0,HTC
+647,Mobile Crossing WayPoint 200,61.0,HTC
+649,NEC Pocket@i EX,91.0,NEC Corporationæ
+651,Panasonic X800,103.0,Panasonic
+653,Qtek S110 (HTC Magician),61.0,HTC
+655,Samsung NEXiO XP40,113.0,Samsung
+657,TORQ P100,135.0,TORQ
+659,Yakumo PDA alphaX GPS,84.0,MiTAC International Corp
+661,Dell Axim X51 Advanced,39.0,Dell
+663,Dell Axim X51 Basic,39.0,Dell
+665,Dell Axim X51v,39.0,Dell
+667,I-Mate JASJAR (HTC Universal),64.0,I-Mate
+669,Qtek 8200 (HTC Hurricane),61.0,HTC
+671,Athesi M3 Red,85.0,Mobile Compia
+673,Casio Cassiopeia DT-5200 M50,26.0,Casio
+675,Casio Cassiopeia DT-5200 M50C,26.0,Casio
+677,Casio Cassiopeia DT-5200 M50S,26.0,Casio
+679,Casio Cassiopeia DT-5200 M50SC,26.0,Casio
+681,Dopod 900 (HTC Universal),61.0,HTC
+683,Fourier Nova5000BX,48.0,Fourier Systems
+685,Fourier Nova5000EX,48.0,Fourier Systems
+687,Fourier Nova5000SX,48.0,Fourier Systems
+689,Hewlett-Packard iPAQ hw6510 (HTC Beetles),58.0,Hewlett-Packard
+691,Hewlett-Packard iPAQ hx2190 / hx2195,58.0,Hewlett-Packard
+693,Hewlett-Packard iPAQ hx2490 / hx2495,58.0,Hewlett-Packard
+695,Hewlett-Packard iPAQ hx2790 / hx2795,58.0,Hewlett-Packard
+697,Hewlett-Packard iPAQ rx1950 / rx1955,58.0,Hewlett-Packard
+699,I-Mate K-JAM (HTC Wizard 200),64.0,I-Mate
+701,I-Mate SP5 (HTC Tornado Noble),64.0,I-Mate
+703,I-Mate SP5m (HTC Tornado Tempo),64.0,I-Mate
+705,Intermec 741B / 751B / 761B,68.0,Intermec
+707,Motorola A1010,87.0,Motorola
+709,Motorola i930,87.0,Motorola
+711,O2 XDA Exec (HTC Universal),95.0,O2
+713,O2 XDA II mini Black (HTC Magician),95.0,O2
+715,O2 XDA Orion (HTC Tornado Noble),95.0,O2
+717,Palm Z22,102.0,Palm
+719,RIM BlackBerry 7105t,21.0,BlackBerry Limited
+721,Samsung SGH-D730,113.0,Samsung
+723,Silicon-i i800,119.0,Silicon-i
+725,Sprint PPC-6700 (HTC Apache),126.0,Sprint Corporation
+727,T-Mobile MDA Pro (HTC Universal),128.0,T-Mobile
+729,Asus MyPal A632,14.0,Asus
+731,Asus MyPal A636,14.0,Asus
+733,Bluebird Pidion BM-150,23.0,Bluebird Soft Inc
+735,CyberBank POZ X501,61.0,HTC
+737,Data Evolution Clio C-1050,37.0,Data Evolution Corp
+739,Dopod 577W (HTC Tornado Noble),61.0,HTC
+741,Dopod 586W (HTC Tornado Tempo),61.0,HTC
+743,Fujitsu-Siemens Pocket LOOX N500,50.0,Fujitsu Ltd
+745,Garmin iQue M4,51.0,Garmin Ltd
+747,Krome Mega M900i,61.0,HTC
+749,Nokia N90 (Nokia Gromit),92.0,Nokia Corporation
+751,O2 XDA mini PRO (HTC Wizard 200),95.0,O2
+753,O2 XDA mini S (HTC Wizard 200),95.0,O2
+755,Orange SPV C600 (HTC Faraday),100.0,Orange UK
+757,Orange SPV M3000 (HTC Wizard 200),100.0,Orange UK
+759,Orange SPV M5000 (HTC Universal),100.0,Orange UK
+761,Qtek 8300 (HTC Tornado Tempo),61.0,HTC
+763,Qtek 8310 (HTC Tornado Noble),61.0,HTC
+765,Qtek 9000 (HTC Universal),61.0,HTC
+767,Qtek 9100 (HTC Wizard 200),61.0,HTC
+769,RIM BlackBerry 7130e,21.0,BlackBerry Limited
+771,RIM BlackBerry 8700r (RIM Electron),21.0,BlackBerry Limited
+773,Samsung SCH-M600,113.0,Samsung
+775,T-Mobile SDA II Music (HTC Hurricane),128.0,T-Mobile
+777,TORQ P100w,135.0,TORQ
+779,Acer n300,3.0,Acer
+781,Acer n311,3.0,Acer
+783,Dopod 830 / 818 Pro (HTC Prophet),61.0,HTC
+785,Dopod P100 (HTC Galaxy 100),61.0,HTC
+787,Fujitsu-Siemens Pocket LOOX N520,50.0,Fujitsu Ltd
+789,I-Mate SP4m (HTC Douton),64.0,I-Mate
+791,iDO S600,73.0,"Kinpo Electronics, Inc"
+793,Intermec CK31,68.0,Intermec
+795,Nokia 6708,92.0,Nokia Corporation
+797,O2 XDA Phone (HTC Douton),95.0,O2
+799,Qool QDA Oh!,73.0,"Kinpo Electronics, Inc"
+801,Qtek G100 (HTC Galaxy 100),61.0,HTC
+803,Samsung SGH-i300,113.0,Samsung
+805,Symbol MC3090 Color,152.0,Zebra Technologies
+807,Symbol MC3090 Monochrome,152.0,Zebra Technologies
+809,Altina A600,139.0,Union Rich Development Corp
+811,Audiovox XV6700 (HTC Apache),61.0,HTC
+813,BenQ P50,20.0,BenQ
+815,Bluebird Pidion BIP-2000 CDMA,23.0,Bluebird Soft Inc
+817,Bluebird Pidion BIP-2000 GSM,23.0,Bluebird Soft Inc
+819,Cingular 8100 (HTC Wizard 100),61.0,HTC
+821,Cingular 8125 (HTC Wizard 110),61.0,HTC
+823,DAP MICROFLEX CE8800B / CE8810B,110.0,Roper Technologies
+825,DAP MICROFLEX CE8800BWE / CE8810BWE,110.0,Roper Technologies
+827,DAP MICROFLEX CE8820B,110.0,Roper Technologies
+829,DAP MICROFLEX CE8820BWE,110.0,Roper Technologies
+831,Dopod 838 (HTC Wizard 110),61.0,HTC
+833,HTC P4300 (HTC Wizard 110),61.0,HTC
+835,Medion MDPNA 1500 (MD96700),84.0,MiTAC International Corp
+837,Mio A201 Digi-Walker,84.0,MiTAC International Corp
+839,Motorola i920,87.0,Motorola
+841,Navigon PNA Transonic 5000,88.0,Navigon GmbH
+843,O2 XDA Atom,95.0,O2
+845,Pharos Traveler GPS 505,71.0,Inventec Corporation
+847,RIM BlackBerry 8700g / 8705g (RIM Electron),21.0,BlackBerry Limited
+849,Siemens P50,117.0,SiemensæAG
+851,Symbol MC70,152.0,Zebra Technologies
+853,Symbol MC70 GSM,152.0,Zebra Technologies
+855,Typhoon MyGuide 3210 GO,61.0,HTC
+857,Typhoon MyGuide 4320 GO,61.0,HTC
+859,Typhoon MyGuide 7000 XL,61.0,HTC
+861,Typhoon MyGuide 7500 XL,61.0,HTC
+863,Typhoon MyPhone M500,61.0,HTC
+865,UTStarcom PPC6700 (HTC Apache),61.0,HTC
+867,Vodafone v1240 (HTC Tornado Noble),146.0,Vodafone
+869,Vodafone VDA II (HTC Tornado Noble),146.0,Vodafone
+871,Vodafone VPA Compact II (HTC Wizard 110),146.0,Vodafone
+873,CyberBank POZ G300 (HTC Galaxy 100),61.0,HTC
+875,Datalogic Mobile Scorpio GUN Wndows CE,110.0,Roper Technologies
+877,Datalogic Mobile Scorpio Wndows CE,110.0,Roper Technologies
+879,Grundig GR980 (HTC Universal),61.0,HTC
+881,Hyundai A200,148.0,Wistron Corporation
+883,I-Mate JAMin (HTC Prophet),64.0,I-Mate
+885,I-Mate PDA-N (HTC Galaxy 100),64.0,I-Mate
+887,Intermec CK60,68.0,Intermec
+889,Mio A700 Digi-Walker,84.0,MiTAC International Corp
+891,Pharos Traveler GPS 525 (HTC Galaxy 100),71.0,Inventec Corporation
+893,Sharp W-ZERO3 WS003SH,115.0,Sharp Corporation
+897,T-Mobile MDA US (HTC Wizard 200),128.0,T-Mobile
+899,T-Mobile MDA Vario (HTC Wizard 200),128.0,T-Mobile
+901,T-Mobile SDA US (HTC Tornado Tempo),128.0,T-Mobile
+903,Typhoon MyGuide 7500,61.0,HTC
+905,Verizon XV6700 (HTC Apache),143.0,Verizon Communications
+907,AnexTEK moboDA 3360,148.0,Wistron Corporation
+909,Cingular 2125 / 2100 (HTC Faraday),61.0,HTC
+911,Fujitsu-Siemens Pocket LOOX C550,50.0,Fujitsu Ltd
+913,Fujitsu-Siemens Pocket LOOX N560,50.0,Fujitsu Ltd
+915,Gigabyte g-Smart,53.0,Gigabyte Technology
+917,Intermec CN30,68.0,Intermec
+919,Mio A701 Digi-Walker,84.0,MiTAC International Corp
+921,MiTAC Mio 180 Digi-Walker,84.0,MiTAC International Corp
+923,Motorola MING A1200 / A1200i / A1200r (Motorola Hainan),87.0,Motorola
+925,Nokia 3250 (Nokia Thunder),92.0,Nokia Corporation
+927,Orange SPV M600 (HTC Prophet),100.0,Orange UK
+929,Qtek A9100 (HTC Wizard 110),61.0,HTC
+931,Qtek S200 (HTC Prophet),61.0,HTC
+933,Samsung SGH-i750,113.0,Samsung
+935,Swisscom XPA v1240 (HTC Tornado Noble),61.0,HTC
+937,T-Mobile MDA Compact II (HTC Charmer),128.0,T-Mobile
+939,TORQ P120,135.0,TORQ
+941,Typhoon MyGuide 3610 GO,61.0,HTC
+943,Airis T605,4.0,Airis
+945,Hewlett-Packard iPAQ hw6910 / hw6920 / hw6940 (HTC Sable),58.0,Hewlett-Packard
+947,Hewlett-Packard iPAQ hw6915 / hw6925 / hw6945 / hw6965 (HTC Sable),58.0,Hewlett-Packard
+949,Lenovo ET980,76.0,Lenovo
+951,LG PM80,77.0,LG Electronics
+953,O2 XDA Neo (HTC Prophet),95.0,O2
+955,Samsung SGH-i300x,113.0,Samsung
+957,Vodafone VPA IV / v1640 (HTC Universal),146.0,Vodafone
+959,Amoi E850,8.0,"Amoi Technology Co., Ltd"
+961,Dopod 710 / StrTrk S300 (HTC Startrek 160),61.0,HTC
+963,Hewlett-Packard iPAQ rw6828,58.0,Hewlett-Packard
+965,i-teq Bond,76.0,Lenovo
+967,Mio C210 Digi-Walker,84.0,MiTAC International Corp
+969,Mio C310 Digi-Walker,84.0,MiTAC International Corp
+971,Mio C311 Digi-Walker,84.0,MiTAC International Corp
+973,Mio C710 Digi-Walker,84.0,MiTAC International Corp
+975,Mio P350 Digi-Walker,84.0,MiTAC International Corp
+977,Motorola HC700-G,87.0,Motorola
+979,Motorola HC700-L,87.0,Motorola
+981,O2 XDA Atom Pure,95.0,O2
+983,O2 XDA IQ (HTC Tornado Noble),95.0,O2
+985,RIM BlackBerry 8707v,21.0,BlackBerry Limited
+987,RoverPC S5,111.0,RoverComputers
+989,RoverPC W5 (Kinpo Tin),111.0,RoverComputers
+991,RoyalTek Empus RTW-1000,112.0,RoyalTek
+993,RoyalTek Empus RTW-2000,112.0,RoyalTek
+995,Swisscom XPA S200 (HTC Prophet),61.0,HTC
+997,TORQ N100,135.0,TORQ
+999,Typhoon MyGuide Smartphone SP 700,61.0,HTC
+1001,AnexTEK moboDA G610,148.0,Wistron Corporation
+1003,Asus MyPal A632N,14.0,Asus
+1005,E-TEN InfoTouch M550,43.0,"E-TEN Information Systems Co., Ltd"
+1007,E-TEN InfoTouch M600+,43.0,"E-TEN Information Systems Co., Ltd"
+1009,Fujitsu-Siemens RPDA N560c,50.0,Fujitsu Ltd
+1011,Fujitsu-Siemens RPDA N560p,50.0,Fujitsu Ltd
+1013,Hewlett-Packard iPAQ rw6818,58.0,Hewlett-Packard
+1015,HTC TyTN P4500 (HTC Hermes 200),61.0,HTC
+1017,I-Mate Smartflip (HTC Startrek 100),64.0,I-Mate
+1019,Mio P550 Digi-Walker,84.0,MiTAC International Corp
+1021,Motorola ROKR E2 (Motorola Sumatra),87.0,Motorola
+1023,Navigon PNA Transonic 6000,88.0,Navigon GmbH
+1025,Nokia N72,92.0,Nokia Corporation
+1027,Samsung SGH-Z600,113.0,Samsung
+1031,TELE System TS8.1PND,86.0,Mobile TeleSystems
+1033,Typhoon MyGuide Pocket Star,61.0,HTC
+1035,UBiQUiO 401,131.0,TechFaith Wirelessæ
+1037,Vodafone VPA Compact S (HTC Prophet),146.0,Vodafone
+1039,Airis T920 / T920E,4.0,Airis
+1041,Axia A308,16.0,Axia
+1043,Dopod 595 (HTC Breeze 160),61.0,HTC
+1045,Dopod CHT 9000 (HTC Hermes 200),61.0,HTC
+1047,HTC MTeoR (HTC Breeze 100),61.0,HTC
+1049,Mio C810 Digi-Walker,84.0,MiTAC International Corp
+1051,Mobile Compia M3 Green MC-6410,61.0,HTC
+1053,Nokia N93,92.0,Nokia Corporation
+1055,NTT DoCoMo hTc Z (HTC Hermes 100),94.0,"NTT DOCOMO, Inc"
+1057,O2 XDA Trion (HTC Hermes 100),95.0,O2
+1059,Qtek 8500 (HTC Startrek 160),61.0,HTC
+1061,RoverPC M5,111.0,RoverComputers
+1063,Samsung SGH-i320,113.0,Samsung
+1067,Swisscom XPA v1605 (HTC Hermes 200),61.0,HTC
+1069,Tatung M1,130.0,Tatung Company
+1071,Typhoon MyGuide 3000,61.0,HTC
+1073,Dopod 838 Pro (HTC Hermes 100),61.0,HTC
+1075,E-TEN InfoTouch G500+,43.0,"E-TEN Information Systems Co., Ltd"
+1077,Fujitsu-Siemens Pocket LOOX N100 (HTC Eden),50.0,Fujitsu Ltd
+1079,Fujitsu-Siemens Pocket LOOX N110,50.0,Fujitsu Ltd
+1081,HTC S411 (HTC Startrek 160),61.0,HTC
+1083,I-Mate JAQ,64.0,I-Mate
+1085,I-Mate JASJAM (HTC Hermes 100),64.0,I-Mate
+1087,iDO S601 (Kinpo Neon),73.0,"Kinpo Electronics, Inc"
+1089,iDO S630 (Kinpo Tin),73.0,"Kinpo Electronics, Inc"
+1091,LG PM800,77.0,LG Electronics
+1093,Mio C510 / C510E Digi-Walker,84.0,MiTAC International Corp
+1095,Navigon PNA Transonic 6000T,88.0,Navigon GmbH
+1097,O2 XDA Atom Exec,95.0,O2
+1099,Orange SPV C100 (HTC Oxygen),100.0,Orange UK
+1101,Orange SPV M3100 (HTC Hermes 100),100.0,Orange UK
+1103,Palm Treo 700wx,102.0,Palm
+1105,RIM BlackBerry 7130v,21.0,BlackBerry Limited
+1107,RIM BlackBerry 8707g,21.0,BlackBerry Limited
+1111,Swisscom XPA v1405 (HTC Breeze 100),61.0,HTC
+1113,T-Mobile MDA Vario II (HTC Hermes 300),128.0,T-Mobile
+1115,Typhoon SilverGuide 5000,61.0,HTC
+1117,Vodafone v1605 / VPA Compact III (HTC Hermes 200),146.0,Vodafone
+1119,Arima U308,13.0,Arima Communications
+1121,Asus P525,14.0,Asus
+1123,Cingular 3125 (HTC Startrek 100),61.0,HTC
+1125,CipherLab CPT-9500PPC,29.0,CipherLab
+1127,Fujitsu-Siemens RPDA N520c,50.0,Fujitsu Ltd
+1129,Fujitsu-Siemens RPDA N520p,50.0,Fujitsu Ltd
+1131,Gigabyte g-Smart i128,53.0,Gigabyte Technology
+1133,HTC P3600 (HTC Trinity 100),61.0,HTC
+1135,HTC S310 (HTC Oxygen),61.0,HTC
+1137,I-Mate SP JAS (HTC Breeze 160),64.0,I-Mate
+1139,i-teq X-Bond,76.0,Lenovo
+1141,Intermec CV30,68.0,Intermec
+1143,Nokia E70-2,92.0,Nokia Corporation
+1145,O2 XDA Stealth,95.0,O2
+1147,Palm Treo 750v (HTC Cheetah),102.0,Palm
+1149,RIM BlackBerry 8703e,21.0,BlackBerry Limited
+1151,RIM BlackBerry Pearl 8100,21.0,BlackBerry Limited
+1153,Samsung SGH-i310,113.0,Samsung
+1155,Sharp W-ZERO3 [es] WS007SH,115.0,Sharp Corporation
+1157,Sharp W-ZERO3 WS004SH,115.0,Sharp Corporation
+1159,Tatung M1A,130.0,Tatung Company
+1161,TELE System TS8.3PND,86.0,Mobile TeleSystems
+1163,Airis T470 / T470E,4.0,Airis
+1165,Airis T610,4.0,Airis
+1167,Airis T620,4.0,Airis
+1169,Amoi E70,8.0,"Amoi Technology Co., Ltd"
+1171,AnexTEK moboDA G620,148.0,Wistron Corporation
+1173,Asus MyPal A639,14.0,Asus
+1175,Athesi M3 Green,85.0,Mobile Compia
+1177,Bluebird Pidion BM-300,23.0,Bluebird Soft Inc
+1179,Cowon N2,34.0,"Cowon Systems, Inc"
+1181,Fujitsu-Siemens Pocket LOOX T810,50.0,Fujitsu Ltd
+1183,Fujitsu-Siemens Pocket LOOX T830,50.0,Fujitsu Ltd
+1185,Hewlett-Packard iPAQ rw6815,58.0,Hewlett-Packard
+1187,HTC P3300 (HTC Artemis 100),61.0,HTC
+1189,HTC S620 (HTC Excalibur 100),61.0,HTC
+1191,I-Mate SPL (TechFaith SPL),64.0,I-Mate
+1193,Intermec CN3,68.0,Intermec
+1195,Lobster 700 TV (HTC Monet),61.0,HTC
+1197,Mio H610 Digi-Walker,84.0,MiTAC International Corp
+1199,Mobile Compia M3 Green MC-6510,61.0,HTC
+1201,Mobile Compia M3 Green MC-6520,61.0,HTC
+1203,Mobile Compia M3 Green MC-6530,61.0,HTC
+1205,Navigon PNA Transonic 7000T,88.0,Navigon GmbH
+1207,Nokia 5500,92.0,Nokia Corporation
+1209,ORSiO n725 / n725 GPS,131.0,TechFaith Wirelessæ
+1211,Samsung SGH-i320n,113.0,Samsung
+1213,SoftBank X01HT (HTC Hermes 200),122.0,SoftBank
+1217,T-Mobile Dash (HTC Excalibur 160),128.0,T-Mobile
+1219,T-Mobile MDA Compact III (HTC Artemis 110),128.0,T-Mobile
+1221,Cingular 8525 (HTC Hermes 100),61.0,HTC
+1223,Dopod 310 (HTC Oxygen),61.0,HTC
+1225,Hewlett-Packard iPAQ rx4240,58.0,Hewlett-Packard
+1227,Hewlett-Packard iPAQ rx4540,58.0,Hewlett-Packard
+1229,Hewlett-Packard iPAQ rx5730 / rx5735,58.0,Hewlett-Packard
+1231,Hewlett-Packard iPAQ rx5900 / rx5915 / rx5935 / rx5965,58.0,Hewlett-Packard
+1233,I-Mate JAQ3 (TechFaith Perai 850),64.0,I-Mate
+1235,I-Mate PDA-L (TechFaith PDA-L),64.0,I-Mate
+1237,Mobile Compia M7,61.0,HTC
+1239,Motorola ROKR E6 (Motorola Macau),87.0,Motorola
+1241,Nokia E60,92.0,Nokia Corporation
+1243,Nokia E62,92.0,Nokia Corporation
+1245,O2 XDA Cosmo (HTC Excalibur 100),95.0,O2
+1247,Orange SPV F600 (HTC Startrek 100),100.0,Orange UK
+1249,Palm Treo 680 (Palm Lowrider),102.0,Palm
+1251,QiGi i8 (TechFaith Pebble),107.0,QiGi
+1253,Samsung SGH-i607 BlackJack,113.0,Samsung
+1257,UBiQUiO 501,131.0,TechFaith Wirelessæ
+1259,Acer c530,3.0,Acer
+1261,Acer d155 / d156,3.0,Acer
+1263,Dopod C720W (HTC Excalibur 100),61.0,HTC
+1265,Dopod C800 / C858 (HTC Herald 100),61.0,HTC
+1267,Dopod D810 (HTC Trinity 100),61.0,HTC
+1269,Dopod P800 (HTC Artemis 110),61.0,HTC
+1271,Dopod P800W (HTC Artemis 100),61.0,HTC
+1273,E-TEN Glofiish M700,43.0,"E-TEN Information Systems Co., Ltd"
+1275,Fly IQ-110 (TechFaith SPL),131.0,TechFaith Wirelessæ
+1277,Fujitsu-Siemens RPDA N560e,50.0,Fujitsu Ltd
+1279,HTC P4350 (HTC Herald 100),61.0,HTC
+1281,Mio C250 Digi-Walker,84.0,MiTAC International Corp
+1283,Nokia 330,92.0,Nokia Corporation
+1285,Nokia E50 Metal Black,92.0,Nokia Corporation
+1287,Nokia N91 8GB (Nokia Nemo),92.0,Nokia Corporation
+1289,Nokia N92,92.0,Nokia Corporation
+1291,O2 XDA Orbit (HTC Artemis 200),95.0,O2
+1293,Okwap K868,71.0,Inventec Corporation
+1295,Orange SPV C700 (HTC Breeze 100),100.0,Orange UK
+1297,Pharos Drive GPS 140,71.0,Inventec Corporation
+1299,RoverPC G5,111.0,RoverComputers
+1301,TELE System TS8.2PND,86.0,Mobile TeleSystems
+1303,Vodafone VPA Compact IV (HTC Herald),146.0,Vodafone
+1305,Athesi AT-C5000,85.0,Mobile Compia
+1307,CipherLab CPT-9500CE,29.0,CipherLab
+1309,CipherLab CPT-9570CE,29.0,CipherLab
+1311,CipherLab CPT-9580CE,29.0,CipherLab
+1313,CipherLab CPT-9590CE,29.0,CipherLab
+1315,Datalogic Mobile Falcon 4410,110.0,Roper Technologies
+1317,Datalogic Mobile Falcon GUN 4420,110.0,Roper Technologies
+1319,Datalogic Mobile Kyman GUN Wndows CE,110.0,Roper Technologies
+1321,Datalogic Mobile Kyman Wndows CE,110.0,Roper Technologies
+1323,Dopod CHT 9100 (HTC Trinity 100),61.0,HTC
+1325,Dopod M700 (HTC Love),61.0,HTC
+1327,Fly PC100 (TechFaith PDA-L),131.0,TechFaith Wirelessæ
+1329,HTC P3301 (HTC Artemis 200),61.0,HTC
+1331,HTC P6000 Census,61.0,HTC
+1333,I-Mate JAMA 201,64.0,I-Mate
+1335,LG LN500 / LN505 / LN510 / LN515,77.0,LG Electronics
+1337,Mobile Compia M3 Green MC-6100,61.0,HTC
+1339,Mobile Compia M3 Green MC-6300,61.0,HTC
+1341,Mobile Compia M3 Green MC-6400,61.0,HTC
+1343,Mobile Compia M3 Green MC-6600,61.0,HTC
+1345,Nokia N800 Internet Tablet (Nokia Gagarin),92.0,Nokia Corporation
+1347,Okwap K728,71.0,Inventec Corporation
+1349,SoftBank 705NK,122.0,SoftBank
+1351,Vodafone v1210 / VDA IV / SP 1210 (Asus Halley),146.0,Vodafone
+1353,WayteQ N350,147.0,Wayteq Technology
+1355,WayteQ N710,147.0,Wayteq Technology
+1357,Amoi E72,8.0,"Amoi Technology Co., Ltd"
+1359,Amoi E75,8.0,"Amoi Technology Co., Ltd"
+1361,Amoi E76,8.0,"Amoi Technology Co., Ltd"
+1363,Asus P535,14.0,Asus
+1365,Hewlett-Packard iPAQ rw6828 Titanium Black,58.0,Hewlett-Packard
+1367,HTC S320 (HTC Monet),61.0,HTC
+1369,O2 XDA Graphite (Asus Jupiter),95.0,O2
+1371,Orange M650 (HTC Artemis 100),100.0,Orange UK
+1373,Orange SPV M700 (HTC Trinity 100),100.0,Orange UK
+1375,Palm Treo 750 (HTC Cheetah),102.0,Palm
+1377,Pharos Traveler 600 / 600e GPS Phone,71.0,Inventec Corporation
+1379,RIM BlackBerry 8800,21.0,BlackBerry Limited
+1381,RoverPC Q5 (Kinpo Saturn),111.0,RoverComputers
+1383,Samsung SGH-i600 HSDPA,113.0,Samsung
+1385,Sony Clie PEG-SJ33 / PEG-SJ33U / PEG-SJ33E,123.0,Sony Corporation
+1387,Swisscom XPA v1510 (HTC Trinity 100),61.0,HTC
+1389,T-Mobile MDA Mail (HTC Excalibur 160),128.0,T-Mobile
+1391,TELE System TS8.2BT,86.0,Mobile TeleSystems
+1393,Amoi E78,8.0,"Amoi Technology Co., Ltd"
+1395,BenQ-Siemens P51,20.0,BenQ
+1397,Dopod D600 (HTC Gene 100),61.0,HTC
+1399,Dopod U1000 (HTC Athena 100),61.0,HTC
+1401,Gigabyte g-Smart i+,53.0,Gigabyte Technology
+1403,Gigabyte g-Smart i120,53.0,Gigabyte Technology
+1405,HTC Advantage X7500 (HTC Athena 100),61.0,HTC
+1407,HTC P3350 (HTC Love),61.0,HTC
+1409,HTC P3400 (HTC Gene 100),61.0,HTC
+1411,iDO P890 (Kinpo Saturn),73.0,"Kinpo Electronics, Inc"
+1413,Mio C220 Digi-Walker,84.0,MiTAC International Corp
+1415,Mio C320 Digi-Walker,84.0,MiTAC International Corp
+1417,Mio P340 Digi-Walker,84.0,MiTAC International Corp
+1419,Mio P550m Digi-Walker,84.0,MiTAC International Corp
+1421,Mobile Compia M3 Plus MC-6500S,61.0,HTC
+1423,Nokia N93i,92.0,Nokia Corporation
+1425,O2 XDA Atom Life (Apollo),95.0,O2
+1427,O2 XDA Zinc (Asus Mars II),95.0,O2
+1429,Okwap S868,71.0,Inventec Corporation
+1431,T-Mobile MDA Ameo (HTC Athena 100),128.0,T-Mobile
+1433,TORQ P175,135.0,TORQ
+1435,Amoi E860,8.0,"Amoi Technology Co., Ltd"
+1437,Asus MyPal A626,14.0,Asus
+1439,Asus MyPal A686,14.0,Asus
+1441,Asus MyPal A696,14.0,Asus
+1443,Dopod D802 (HTC Love),61.0,HTC
+1445,Gigabyte g-Smart i300,53.0,Gigabyte Technology
+1447,HTC P3401 (HTC Gene),61.0,HTC
+1449,HTC S710 / S711 (HTC Vox),61.0,HTC
+1451,I-Mate JAQ4,64.0,I-Mate
+1453,LG LN730,77.0,LG Electronics
+1455,LG LN735,77.0,LG Electronics
+1457,LG LN740,77.0,LG Electronics
+1459,Mio C323 Digi-Walker,84.0,MiTAC International Corp
+1461,Mio C520 Digi-Walker,84.0,MiTAC International Corp
+1463,Mio C520t Digi-Walker,84.0,MiTAC International Corp
+1465,Mio C720 Digi-Walker,84.0,MiTAC International Corp
+1467,Orange SPV E600 (HTC Excalibur 160),100.0,Orange UK
+1469,Orange SPV E650 (HTC Vox),100.0,Orange UK
+1471,RoverPC R5,111.0,RoverComputers
+1473,Samsung SGH-i520 / SGH-i520v,113.0,Samsung
+1475,Samsung SPH-M8100,113.0,Samsung
+1477,Toshiba Portege G500,136.0,Toshiba Corporation
+1479,Vodafone VPA Compact GPS (HTC Trinity 100),146.0,Vodafone
+1481,Asus P735,14.0,Asus
+1483,Dopod C500 (HTC Vox),61.0,HTC
+1485,Gigabyte GSmart q60,53.0,Gigabyte Technology
+1487,Gigabyte GSmart t600,53.0,Gigabyte Technology
+1489,LG KS10,77.0,LG Electronics
+1491,LG LN550 / LN555,77.0,LG Electronics
+1493,O2 XDA Argon (HTC Panda),95.0,O2
+1495,O2 XDA Flame,95.0,O2
+1497,O2 XDA Terra (HTC Herald 100),95.0,O2
+1499,ORSiO g735,131.0,TechFaith Wirelessæ
+1501,Palm Treo 755p,102.0,Palm
+1503,Psion Teklogix 8515,152.0,Zebra Technologies
+1505,Psion Teklogix 8525 G2,152.0,Zebra Technologies
+1507,Psion Teklogix 8530 G2,152.0,Zebra Technologies
+1509,RIM BlackBerry 8830 World Edition,21.0,BlackBerry Limited
+1511,RIM BlackBerry 8830 World Edition ,21.0,BlackBerry Limited
+1513,RIM BlackBerry Curve 8300,21.0,BlackBerry Limited
+1515,Sharp EM-ONE S01SH,115.0,Sharp Corporation
+1517,Socket Mobile SoMo 650,121.0,"Socket Mobile, Inc"
+1519,Socket Mobile SoMo 650 HS,121.0,"Socket Mobile, Inc"
+1521,T-Mobile Wing US (HTC Herald 110),128.0,T-Mobile
+1523,Trimble Juno ST,137.0,Trimble Navigation
+1525,Vodafone v1415 (HTC Vox),146.0,Vodafone
+1527,Vodafone VDA V (HTC Vox),146.0,Vodafone
+1529,Airis T480 / T480E,4.0,Airis
+1531,"Apple iPhone 8GB (Apple iPhone 1,1)",10.0,Apple Inc
+1533,Asus P526 (Asus Pegasus),14.0,Asus
+1535,Athesi M3 Sky,85.0,Mobile Compia
+1537,Dopod C730 (HTC Cavalier),61.0,HTC
+1539,Dopod D600 - Enhanced Version,61.0,HTC
+1541,Dopod E806c (HTC Wave),61.0,HTC
+1543,E-TEN Glofiish X500+,43.0,"E-TEN Information Systems Co., Ltd"
+1545,Hewlett-Packard iPAQ 500 / 510 / 512 / 514 (Foxconn Bell),58.0,Hewlett-Packard
+1547,HTC P4000 (HTC Titan 100),61.0,HTC
+1549,HTC P4351 (HTC Herald),61.0,HTC
+1551,HTC S621 (HTC Excalibur),61.0,HTC
+1553,HTC S720 (HTC Libra 100),61.0,HTC
+1555,HTC Touch P3450 (HTC Elf 100),61.0,HTC
+1557,I-Mate JAMA,64.0,I-Mate
+1559,Mio A501 Digi-Walker,84.0,MiTAC International Corp
+1561,Nokia 6110 Navigator,92.0,Nokia Corporation
+1563,Nokia E65,92.0,Nokia Corporation
+1565,Nokia E90 Communicator,92.0,Nokia Corporation
+1567,Nokia N77,92.0,Nokia Corporation
+1569,O2 XDA Nova (HTC Elf 200),95.0,O2
+1571,Pharos Drive GPS 200,71.0,Inventec Corporation
+1573,RIM BlackBerry 8707h,21.0,BlackBerry Limited
+1575,Sprint Mogul PPC-6800 (HTC Titan 100),126.0,Sprint Corporation
+1577,Toshiba Portege G900,136.0,Toshiba Corporation
+1579,Altina A680 / A680S,139.0,Union Rich Development Corp
+1581,Bell HTC 6800 (HTC Titan 100),61.0,HTC
+1583,Datalogic Mobile Memor WAN Windows CE,110.0,Roper Technologies
+1585,Datalogic Mobile Memor Windows CE,110.0,Roper Technologies
+1587,Datalogic Mobile Pegaso Windows CE,110.0,Roper Technologies
+1589,Dopod S1 (HTC Elf 100),61.0,HTC
+1591,HTC P6300 (HTC Panda),61.0,HTC
+1593,HTC S630 (HTC Cavalier 100),61.0,HTC
+1595,LG LN800,77.0,LG Electronics
+1597,LG LN800T,77.0,LG Electronics
+1599,Motorola RAZR2 V8,87.0,Motorola
+1601,Motorola RIZR Z8,87.0,Motorola
+1603,Orange SPV C200,100.0,Orange UK
+1605,RIM BlackBerry Curve 8310,21.0,BlackBerry Limited
+1607,RoverPC S6,111.0,RoverComputers
+1609,Samsung SCH-M620,113.0,Samsung
+1611,Samsung SPH-M6200 Ultra Messaging,113.0,Samsung
+1613,Sharp W-ZERO3 [es] WS011SH,115.0,Sharp Corporation
+1615,SoftBank X01T,122.0,SoftBank
+1619,T-Mobile MDA Touch (HTC Elf 300),128.0,T-Mobile
+1621,Zenum Opus,153.0,Zenum
+1623,Blaupunkt TravelPilot Lucca 3.3,22.0,Blaupunkt
+1625,Blaupunkt TravelPilot Lucca 3.4,22.0,Blaupunkt
+1627,Blaupunkt TravelPilot Lucca 5.2,22.0,Blaupunkt
+1629,Dopod CHT 9110,61.0,HTC
+1631,Dopod D818c (HTC Wave),61.0,HTC
+1633,Dopod E616 (HTC Panda),61.0,HTC
+1635,DreimGO DG100,41.0,DreimGO
+1637,DreimGO DG100BT,41.0,DreimGO
+1639,HTC Advantage X7501 (HTC Athena),61.0,HTC
+1641,HTC P3000 (HTC Wave),61.0,HTC
+1643,i-teq Laser,76.0,Lenovo
+1645,Lenovo ET600,76.0,Lenovo
+1647,LG KC1,77.0,LG Electronics
+1649,Motorola MOTO Q Music 9m (Motorola Nelson),87.0,Motorola
+1651,Okwap K868 Plus,71.0,Inventec Corporation
+1653,RIM BlackBerry 8820,21.0,BlackBerry Limited
+1655,SoftBank X02HT (HTC Cavalier),122.0,SoftBank
+1657,ThinkNavi UZ,133.0,ThinkNavi 
+1659,UBiQUiO 503G (TechFaith Perai H),131.0,TechFaith Wirelessæ
+1661,Apple iPod touch 1st Generation 16GB,10.0,Apple Inc
+1663,Bluebird Pidion BIP-1300 CDMA,23.0,Bluebird Soft Inc
+1665,Bluebird Pidion BIP-1300 GSM,23.0,Bluebird Soft Inc
+1667,Bluebird Pidion BIP-5300,23.0,Bluebird Soft Inc
+1669,Bluebird Pidion BM-500 CDMA,23.0,Bluebird Soft Inc
+1671,Bluebird Pidion BM-500 GSM,23.0,Bluebird Soft Inc
+1673,HTC 5800 (HTC Libra 100),61.0,HTC
+1675,HTC P3600i,61.0,HTC
+1677,HTC TyTN II P4550 (HTC Kaiser 120),61.0,HTC
+1679,I-Mate Ultimate 6150,64.0,I-Mate
+1681,I-Mate Ultimate 8150,64.0,I-Mate
+1683,Mio A702 Digi-Walker,84.0,MiTAC International Corp
+1685,Mio P360 DigiWalker,84.0,MiTAC International Corp
+1687,Mio P560 DigiWalker,84.0,MiTAC International Corp
+1689,Motorola MOTO Q 9h (Q9h),87.0,Motorola
+1691,Nokia 5700 XpressMusic,92.0,Nokia Corporation
+1693,Nokia 6121 classic,92.0,Nokia Corporation
+1695,Nokia N95-3 NAM,92.0,Nokia Corporation
+1697,O2 XDA Comet,95.0,O2
+1699,RIM BlackBerry Curve 8320,21.0,BlackBerry Limited
+1701,RoverPC E5,111.0,RoverComputers
+1703,Samsung SGH-i400,113.0,Samsung
+1705,Samsung SGH-i710,113.0,Samsung
+1707,Samsung SGH-i718,113.0,Samsung
+1711,T-Mobile MDA Vario III (HTC Kaiser 120),128.0,T-Mobile
+1713,Vodafone VPA Compact V (HTC Kaiser 120),146.0,Vodafone
+1715,WayteQ N410,147.0,Wayteq Technology
+1717,WayteQ X5 (TechFaith Lampson),147.0,Wayteq Technology
+1719,Airo A25,5.0,"AIRO WIRELESS, LLC"
+1721,Asus M530w (Asus Aries),14.0,Asus
+1723,Asus R600,14.0,Asus
+1725,AT_T HTC Tilt 8900 (HTC Kaiser 110),15.0,AT&T
+1727,AT_T HTC Tilt 8925 (HTC Kaiser 160),15.0,AT&T
+1729,Bell HTC 5800 (HTC Libra 100),61.0,HTC
+1731,Fly PC200 (TechFaith Lampson),131.0,TechFaith Wirelessæ
+1733,HTC Touch Dual P5500 (HTC Nike 100),61.0,HTC
+1735,Mio C230 Digi-Walker,84.0,MiTAC International Corp
+1737,Mobile Compia M3 Plus MC-7500S,61.0,HTC
+1739,Mobile Compia M3 Plus MC-7700S,61.0,HTC
+1741,Nokia N81 8GB,92.0,Nokia Corporation
+1743,Nokia N95 8GB,92.0,Nokia Corporation
+1745,ORSiO p745,131.0,TechFaith Wirelessæ
+1747,Palm Centro 690p CDMA,102.0,Palm
+1749,Palm Treo 500v (Palm Otto),102.0,Palm
+1751,Psion Teklogix 7530 G2,152.0,Zebra Technologies
+1753,Psion Teklogix 7535 G2,152.0,Zebra Technologies
+1755,RIM BlackBerry Pearl 8120,21.0,BlackBerry Limited
+1757,RoverPC G6,111.0,RoverComputers
+1759,RoverPC Q6,111.0,RoverComputers
+1761,Samsung SCH-i760,113.0,Samsung
+1763,Samsung SGH-i620,113.0,Samsung
+1765,Samsung SGH-i760,113.0,Samsung
+1767,Sharp EM-ONE S01SH2,115.0,Sharp Corporation
+1769,Sprint Touch (HTC Vogue 100),126.0,Sprint Corporation
+1771,T-Mobile Shadow (HTC Kii 100),128.0,T-Mobile
+1773,Tibo XRoad V4100,134.0,Tibo
+1775,Tibo XRoad V4150,134.0,Tibo
+1777,Vodafone v1615 (HTC Kaiser 120),146.0,Vodafone
+1779,Asus R300,14.0,Asus
+1781,BenQ T80,20.0,BenQ
+1783,Clearview Infinity miPC,30.0,Clearview Technology
+1785,Cowon Q5W 40GB,34.0,"Cowon Systems, Inc"
+1787,Cowon Q5W 60GB,34.0,"Cowon Systems, Inc"
+1789,Cowon Q5W 80GB,34.0,"Cowon Systems, Inc"
+1791,E-TEN Glofiish X600,43.0,"E-TEN Information Systems Co., Ltd"
+1793,E-TEN Glofiish X800,43.0,"E-TEN Information Systems Co., Ltd"
+1795,Hewlett-Packard iPAQ 100 / 110 / 111 / 112,58.0,Hewlett-Packard
+1797,HTC S640 (HTC Iris 100),61.0,HTC
+1799,HTC Ted Baker Needle (HTC Elf 200),61.0,HTC
+1801,HTC Touch P3050 (HTC Vogue 100),61.0,HTC
+1803,HTC Touch P3452 - Enhanced Version (HTC Elfin 100),61.0,HTC
+1805,I-Mate JAMA 101,64.0,I-Mate
+1807,Motorola MOTO Q9c,87.0,Motorola
+1809,Motorola MOTO Q9h Global,87.0,Motorola
+1811,NDrive S300 (TechFaith Lampson),90.0,NDrive
+1813,Nokia E51,92.0,Nokia Corporation
+1815,Nokia N810 Internet Tablet,92.0,Nokia Corporation
+1817,O2 XDA Star (HTC Nike 300),95.0,O2
+1819,O2 XDA Stellar (HTC Kaiser 120),95.0,O2
+1821,Panasonic Strada CN-GP50N,103.0,Panasonic
+1823,RoverPC N6,111.0,RoverComputers
+1825,Samsung SGH-i617 BlackJack II,113.0,Samsung
+1827,T-Mobile MDA Touch 256 (HTC Elfin 300),128.0,T-Mobile
+1829,Vodafone 920 (HTC Kii),146.0,Vodafone
+1831,Amoi N8,8.0,"Amoi Technology Co., Ltd"
+1833,Amoi N800,8.0,"Amoi Technology Co., Ltd"
+1835,Amoi N810 (Amoi N810),8.0,"Amoi Technology Co., Ltd"
+1837,AnyDATA ASP-500GA,9.0,Anydata Corporation
+1839,Asus P527,14.0,Asus
+1841,Asus P550 (Asus Solaris),14.0,Asus
+1843,Asus P750,14.0,Asus
+1845,BenQ E72,20.0,BenQ
+1847,Blaupunkt TravelPilot Lucca 5.3,22.0,Blaupunkt
+1849,Dopod S1 - Enhanced Version (HTC Elfin 100),61.0,HTC
+1851,Dopod S500 (HTC Vogue 200),61.0,HTC
+1853,DreimGO DG110,41.0,DreimGO
+1855,E-TEN Glofiish M800,43.0,"E-TEN Information Systems Co., Ltd"
+1857,Fly IQ-120,131.0,TechFaith Wirelessæ
+1859,HTC S730 (HTC Wings 100),61.0,HTC
+1861,Mio A502 Digi-Walker,84.0,MiTAC International Corp
+1863,Nokia 6120c-5 classic,92.0,Nokia Corporation
+1865,Nokia N82,92.0,Nokia Corporation
+1867,Pharos Drive GPS 150,71.0,Inventec Corporation
+1869,Pharos Drive GPS 250,71.0,Inventec Corporation
+1871,Psion Teklogix Ikon 7505,152.0,Zebra Technologies
+1873,Psion Teklogix Ikon 7505 QWERTY ,152.0,Zebra Technologies
+1875,Psion Teklogix Ikon 7505 WWAN,152.0,Zebra Technologies
+1877,Psion Teklogix Ikon 7505 WWAN QWERTY ,152.0,Zebra Technologies
+1879,RoverPC C6 / P6,111.0,RoverComputers
+1881,RoverPC N7 (Amoi N810),111.0,RoverComputers
+1883,Samsung SPH-M4650 Multi-Touch,113.0,Samsung
+1887,TELE System TS8.4PND,86.0,Mobile TeleSystems
+1889,Verizon XV6800 (HTC Titan 100),143.0,Verizon Communications
+1891,WayteQ T880 (TechFaith Cynthia 850),147.0,Wayteq Technology
+1893,Blaupunkt TravelPilot Lucca 3.5,22.0,Blaupunkt
+1895,Blaupunkt TravelPilot Lucca 3.5 Edition,22.0,Blaupunkt
+1897,CipherLab CPT-9400,29.0,CipherLab
+1899,CipherLab CPT-9400 VGA,29.0,CipherLab
+1901,CipherLab CPT-9470,29.0,CipherLab
+1903,CipherLab CPT-9470 VGA,29.0,CipherLab
+1905,CipherLab CPT-9480,29.0,CipherLab
+1907,CipherLab CPT-9480 VGA,29.0,CipherLab
+1909,CipherLab CPT-9490,29.0,CipherLab
+1911,CipherLab CPT-9490 VGA,29.0,CipherLab
+1913,Hewlett-Packard iPAQ 200 / 210 / 211 / 212 / 214 (Foxconn Sterling),58.0,Hewlett-Packard
+1915,Hewlett-Packard iPAQ 300 / 310 / 312 / 314,58.0,Hewlett-Packard
+1917,HTC Touch Cruise P3650 (HTC Polaris 100),61.0,HTC
+1919,Mio C620 Digi-Walker,84.0,MiTAC International Corp
+1921,Mio C620T Digi-Walker,84.0,MiTAC International Corp
+1923,Motorola MC35,87.0,Motorola
+1925,Motorola MC70,87.0,Motorola
+1927,Pharos Traveler 535e / 535PB / 535+,71.0,Inventec Corporation
+1929,Pharos Traveler 535x / 535XB / 535v,71.0,Inventec Corporation
+1931,Prestigio GeoVision 135,11.0,Archos
+1933,RIM BlackBerry Pearl 8110,21.0,BlackBerry Limited
+1935,Samsung SGH-i450,113.0,Samsung
+1937,Samsung SGH-i608,113.0,Samsung
+1939,Samsung SGH-i617 Jack,113.0,Samsung
+1941,Samsung SGH-i780,113.0,Samsung
+1943,T-Mobile MDA Touch Plus (HTC Nike 200),128.0,T-Mobile
+1945,Unitech HT660,140.0,Unitech Electronics Co Ltd
+1947,Verizon SMT5800 / XV5800 (HTC Libra 100),143.0,Verizon Communications
+1949,Airis T940E / T940I / T940EI,4.0,Airis
+1951,Airis T940T / T940T1 / T940T2,4.0,Airis
+1953,"Apple iPhone 16GB (Apple iPhone 1,1)",10.0,Apple Inc
+1955,DreimGO DG220GC,41.0,DreimGO
+1957,E-TEN Glofiish X650,43.0,"E-TEN Information Systems Co., Ltd"
+1959,Gigabyte GSmart MW998,53.0,Gigabyte Technology
+1961,Hewlett-Packard iPAQ 610c / 612c / 614c,58.0,Hewlett-Packard
+1963,HTC P3470 (HTC Pharos 100),61.0,HTC
+1965,HTC S730 US (HTC Wings 200),61.0,HTC
+1967,Motorola MC70 CDMA,87.0,Motorola
+1969,Motorola MC70 GSM,87.0,Motorola
+1971,NDrive G50,90.0,NDrive
+1973,O2 XDA Orbit 2 (HTC Polaris 200),95.0,O2
+1975,Orange SPV-E610,100.0,Orange UK
+1977,Palm Centro 685 GSM,102.0,Palm
+1979,Palm Treo 500 (Palm Otto),102.0,Palm
+1981,QiGi i3 (Techfaith Vista 850),107.0,QiGi
+1983,QiGi i55 / i55P (TechFaith Cynthia 850),107.0,QiGi
+1985,Samsung SGH-i640 / SGH-i640v,113.0,Samsung
+1987,Sharper Image 101TSI (Amoi N810),8.0,"Amoi Technology Co., Ltd"
+1991,TechFaith i5 (TechFaith Lampson II),131.0,TechFaith Wirelessæ
+1993,TechFaith Moffett,131.0,TechFaith Wirelessæ
+1995,Asus R700,14.0,Asus
+1997,Asus R700t,14.0,Asus
+1999,Dopod C750,61.0,HTC
+2001,Dopod P860 (HTC Polaris 100),61.0,HTC
+2003,Emobile Emonster S11HT (HTC Kaiser 120),62.0,Huawei
+2005,General Mobile DSTW1 (TechFaith Cynthia 850),131.0,TechFaith Wirelessæ
+2007,HTC Advantage X7510 (HTC Athena 400),61.0,HTC
+2009,MWg Zinc II,43.0,"E-TEN Information Systems Co., Ltd"
+2011,NDrive G400,90.0,NDrive
+2013,Nokia 500 GPS,92.0,Nokia Corporation
+2015,Nokia E51-2,92.0,Nokia Corporation
+2017,Nokia N95 8GB NAM,92.0,Nokia Corporation
+2019,O2 XDA Atmos (HTC Wings 100),95.0,O2
+2021,Prestigio GeoVision 350,11.0,Archos
+2023,Prestigio GeoVision 400,11.0,Archos
+2025,Prestigio GeoVision 430,11.0,Archos
+2027,QiGi i5 / i5P (TechFaith Lampson II),107.0,QiGi
+2029,Vodafone v1520 (Asus Solaris),146.0,Vodafone
+2031,Vodafone VPA Touch (HTC Elf 100),146.0,Vodafone
+2033,Airis T482 (SIM N3),4.0,Airis
+2035,Blaupunkt TravelPilot 100,22.0,Blaupunkt
+2037,Blaupunkt TravelPilot 200,22.0,Blaupunkt
+2039,Blaupunkt TravelPilot 300,22.0,Blaupunkt
+2041,DAP MICROFLEX 2240X 2008,110.0,Roper Technologies
+2043,DAP MICROFLEX 2240X Wireless Edition 2008,110.0,Roper Technologies
+2045,Dopod P660 (HTC Pharos),61.0,HTC
+2047,Dopod S600 (HTC Nike 200),61.0,HTC
+2049,Gigabyte GSmart MS804 (Gigabyte Helen),53.0,Gigabyte Technology
+2051,HKC G1000 (TechFaith Cynthia 850),131.0,TechFaith Wirelessæ
+2053,HKC W1000 (TechFaith Gallic),131.0,TechFaith Wirelessæ
+2055,HTC P6500 (HTC Sedna 100),61.0,HTC
+2057,I-Mate Ultimate 8502,64.0,I-Mate
+2059,I-Mate Ultimate 9502,64.0,I-Mate
+2061,QiGi i55C (TechFaith Gallic),107.0,QiGi
+2063,RIM BlackBerry Curve 8330,21.0,BlackBerry Limited
+2065,RoverPC S7,111.0,RoverComputers
+2067,Samsung SGH-i326 Black,113.0,Samsung
+2069,Samsung SGH-i560 / SGH-i560v,113.0,Samsung
+2071,Samsung SGH-i616,113.0,Samsung
+2073,Sitronics SDC-106 (TechFaith Cynthia 850),131.0,TechFaith Wirelessæ
+2075,SoftBank X02NK,122.0,SoftBank
+2077,TELE System TS8600PND,86.0,Mobile TeleSystems
+2079,Verizon Touch XV6900 (HTC Vogue 200),143.0,Verizon Communications
+2081,Vodafone VDA GPS,146.0,Vodafone
+2083,Asus M930,14.0,Asus
+2085,Datalogic Mobile Pegaso,110.0,Roper Technologies
+2087,DreimGO DG120,41.0,DreimGO
+2089,DreimGO DG200BT,41.0,DreimGO
+2091,E-TEN Glofiish M750,43.0,"E-TEN Information Systems Co., Ltd"
+2093,E-TEN Glofiish M810,43.0,"E-TEN Information Systems Co., Ltd"
+2095,Gigabyte GSmart MS800,53.0,Gigabyte Technology
+2097,Gigabyte GSmart MW700,53.0,Gigabyte Technology
+2099,HKC G801 (TechFaith Lampson II),131.0,TechFaith Wirelessæ
+2101,HTC Touch Diamond GSM (HTC Diamond 140),61.0,HTC
+2103,JoinTech JPro Mini Laptop JL7200,72.0,Join Technology
+2105,Mio C317 / C317G Digi-Walker,84.0,MiTAC International Corp
+2107,Mio C517 Digi-Walker,84.0,MiTAC International Corp
+2109,Mio Moov 200 / 200e,84.0,MiTAC International Corp
+2111,Mio Moov 200u / Moov 210,84.0,MiTAC International Corp
+2113,Mio Moov 300 / Moov 310,84.0,MiTAC International Corp
+2115,Mio Moov 330 / 330e,84.0,MiTAC International Corp
+2117,Mio Moov 330u,84.0,MiTAC International Corp
+2119,Mio Moov 360u / Moov 370,84.0,MiTAC International Corp
+2121,Motorola MOTO Z10,87.0,Motorola
+2123,Nokia 6124 classic,92.0,Nokia Corporation
+2125,Panasonic Strada CN-GP50TC,103.0,Panasonic
+2127,Samsung SGH-i200,113.0,Samsung
+2129,Samsung SGH-i550,113.0,Samsung
+2131,Samsung SGH-i788,113.0,Samsung
+2133,TELE System TS8500PND,86.0,Mobile TeleSystems
+2135,Toshiba Portege G710,136.0,Toshiba Corporation
+2137,Toshiba Portege G910,136.0,Toshiba Corporation
+2139,UTStarcom MP6900 (HTC Vogue),61.0,HTC
+2141,Verzio Envii,144.0,Verzio Mobile
+2143,Asus P320 (Asus Galaxy Mini),14.0,Asus
+2145,Datalogic Mobile Kyman,110.0,Roper Technologies
+2147,Datalogic Mobile Kyman GUN,110.0,Roper Technologies
+2149,Dopod S505,61.0,HTC
+2151,Dopod S700 (HTC Fuwa),61.0,HTC
+2153,Dopod Touch Diamond S900 (HTC Diamond 100),61.0,HTC
+2155,DreimGO DG210,41.0,DreimGO
+2157,Hewlett-Packard iPAQ 600 / 610 / 612 / 614,58.0,Hewlett-Packard
+2159,HTC Touch Diamond P3700 (HTC Diamond 100),61.0,HTC
+2161,HTC Touch Dual US (HTC Neon 300),61.0,HTC
+2163,HTC Touch Find (HTC Polaris 200),61.0,HTC
+2165,Mio Moov 301 / Moov 350,84.0,MiTAC International Corp
+2167,Mio Moov 380,84.0,MiTAC International Corp
+2169,Motorola MC75 CDMA,87.0,Motorola
+2171,Motorola MC75 GSM,87.0,Motorola
+2173,NDrive G800 / G800R / G800S,90.0,NDrive
+2175,Nokia E66 (Nokia Dora),92.0,Nokia Corporation
+2177,Nokia E71,92.0,Nokia Corporation
+2179,NTT DoCoMo FOMA HT1100 (HTC Nike),94.0,"NTT DOCOMO, Inc"
+2181,Prestigio GeoVision 100,11.0,Archos
+2183,RoverPC evo X7 (SIM Wacke),111.0,RoverComputers
+2185,RoverPC new P7 (SIM N5),111.0,RoverComputers
+2187,Samsung SGH-i550w,113.0,Samsung
+2191,TELE System TS8800PND,86.0,Mobile TeleSystems
+2193,ThinkNavi T7,133.0,ThinkNavi 
+2195,Toshiba Portege G810,136.0,Toshiba Corporation
+2197,WayteQ N720,147.0,Wayteq Technology
+2199,ZTE e760,156.0,ZTE
+2201,"Apple iPhone 3G 16GB (Apple iPhone 1,2)",10.0,Apple Inc
+2203,"Apple iPhone 3G 8GB (Apple iPhone 1,2)",10.0,Apple Inc
+2205,Cowon P5 60GB,34.0,"Cowon Systems, Inc"
+2207,Cowon P5 80GB,34.0,"Cowon Systems, Inc"
+2209,Cowon P5 Study 40GB,34.0,"Cowon Systems, Inc"
+2211,Cowon P5 Study 60GB,34.0,"Cowon Systems, Inc"
+2213,Cowon P5 Study 80GB,34.0,"Cowon Systems, Inc"
+2215,Emobile Emonster lite S12HT (HTC Nike),62.0,Huawei
+2217,Hewlett-Packard iPAQ 910 / 912 / 914,58.0,Hewlett-Packard
+2219,HTC P3400i,61.0,HTC
+2221,HTC Touch Diamond P3702 Victor (HTC Diamond 200),61.0,HTC
+2223,Mio C725 Digi-Walker,84.0,MiTAC International Corp
+2225,Motorola ZINE ZN5,87.0,Motorola
+2227,Nokia 5320 XpressMusic,92.0,Nokia Corporation
+2229,Nokia 6220 classic,92.0,Nokia Corporation
+2231,Nokia 6650 fold,92.0,Nokia Corporation
+2233,Nokia N810 Internet Tablet WiMAX Edition,92.0,Nokia Corporation
+2235,Palm Treo 800w,102.0,Palm
+2237,Sharp 03 WS020SH,115.0,Sharp Corporation
+2239,Simvalley Mobile Smartphone XP-25,120.0,Simvalley Mobile
+2241,T-Mobile Ameo 16GB (HTC Athena 400),128.0,T-Mobile
+2243,T-Mobile MDA Compact IV (HTC Diamond 200),128.0,T-Mobile
+2245,HKC G901 (TechFaith Bono),131.0,TechFaith Wirelessæ
+2247,HTC Touch Diamond CDMA P3051 (HTC Diamond),61.0,HTC
+2249,HTC Touch Dual 850 (HTC Neon),61.0,HTC
+2251,HTC Touch Pro T7272 (HTC Raphael 100),61.0,HTC
+2253,JoinTech eBook JE100,72.0,Join Technology
+2255,Nokia 6210 Navigator,92.0,Nokia Corporation
+2257,Opticon H16,98.0,Opticon Inc
+2259,Opticon H16B,98.0,Opticon Inc
+2261,Opticon H19,98.0,Opticon Inc
+2263,Opticon H19B,98.0,Opticon Inc
+2265,Samsung SGH-i740,113.0,Samsung
+2267,Samsung SGH-i900 / SGH-i900V Omnia 8GB,113.0,Samsung
+2269,Samsung SGH-i900 / SGH-i908 Omnia 16GB,113.0,Samsung
+2271,Samsung SGH-L870,113.0,Samsung
+2273,Tibo XRoad A4050,134.0,Tibo
+2275,WayteQ N300,147.0,Wayteq Technology
+2277,WayteQ N700H,147.0,Wayteq Technology
+2279,Asus P552w,14.0,Asus
+2281,Bluebird Pidion BIP-5000,23.0,Bluebird Soft Inc
+2283,Detailed Technical Datasheet of Bluebird Pidion BIP-5000,23.0,Bluebird Soft Inc
+2285,E-TEN Glofiish V900,43.0,"E-TEN Information Systems Co., Ltd"
+2287,E-TEN Glofiish X610,43.0,"E-TEN Information Systems Co., Ltd"
+2289,Gigabyte GSmart MW702,53.0,Gigabyte Technology
+2291,HTC Touch Diamond US (HTC Diamond 110),61.0,HTC
+2293,HTC Touch Dual P5310 (HTC Neon 400),61.0,HTC
+2295,ICD Velocity Mobile 103,71.0,Inventec Corporation
+2297,JoinTech JPro Mini Laptop JL7100,72.0,Join Technology
+2299,Mio Knight Rider GPS,84.0,MiTAC International Corp
+2301,Mio Leap G50 (Mio Lovebird),84.0,MiTAC International Corp
+2303,Mio Leap K1,84.0,MiTAC International Corp
+2305,Navigon 2110 max,88.0,Navigon GmbH
+2307,Navigon 2150 max,88.0,Navigon GmbH
+2309,NDrive G280R,90.0,NDrive
+2311,Nokia E66-2 (Nokia Dora),92.0,Nokia Corporation
+2313,Nokia E66-3 (Nokia Dora),92.0,Nokia Corporation
+2315,Nokia N96,92.0,Nokia Corporation
+2317,O2 Xda Diamond / Xda Ignito (HTC Diamond 300),95.0,O2
+2319,Palm Treo Pro,102.0,Palm
+2321,Palm Treo Pro ,102.0,Palm
+2323,Prestigio GeoVision 150,11.0,Archos
+2325,Prestigio GeoVision 450,11.0,Archos
+2327,Prestigio GeoVision 450BT,11.0,Archos
+2329,Psion Teklogix Neo,152.0,Zebra Technologies
+2331,Psion Teklogix Neo Alphanumeric,152.0,Zebra Technologies
+2333,QiGi i9 / i9P (TechFaith Bono),107.0,QiGi
+2335,Samsung SGH-i908E,113.0,Samsung
+2337,Samsung SPH-M4655 Multi-Touch II,113.0,Samsung
+2339,Sprint Touch Diamond (HTC Diamond 500),126.0,Sprint Corporation
+2341,T-Mobile MDA Vario IV (HTC Raphael 300),128.0,T-Mobile
+2343,Tibo A1550i,134.0,Tibo
+2345,Airis T483 / T483L,4.0,Airis
+2347,Emobile Touch Diamond S21HT (HTC Diamond 210),62.0,Huawei
+2349,Gigabyte GSmart MS802,53.0,Gigabyte Technology
+2351,HKC C880 (TechFaith Moffett),131.0,TechFaith Wirelessæ
+2353,HTC Touch HD T8282 (HTC Blackstone 100),61.0,HTC
+2355,iconX G300,66.0,iconX
+2357,iconX G400,66.0,iconX
+2359,Mio Moov 150,84.0,MiTAC International Corp
+2361,Mio Moov 500,84.0,MiTAC International Corp
+2363,Mio Moov 510,84.0,MiTAC International Corp
+2365,Mio Moov 560,84.0,MiTAC International Corp
+2367,Mio Moov 580,84.0,MiTAC International Corp
+2369,Nokia 5800 / 5800d-1 XpressMusic (Nokia Tube),92.0,Nokia Corporation
+2371,Nokia N85,92.0,Nokia Corporation
+2373,O2 XDA Mantle (HTC Sedna 100),95.0,O2
+2375,Palm Centro 690 CDMA,102.0,Palm
+2377,RIM BlackBerry Pearl Flip 8220 (RIM Kickstart),21.0,BlackBerry Limited
+2379,Samsung GT-i8510 INNOV8 8GB,113.0,Samsung
+2381,Samsung SGH-i740C,113.0,Samsung
+2383,Samsung SGH-i900L,113.0,Samsung
+2385,Samsung SGH-i907 Epix,113.0,Samsung
+2389,T-Mobile G1 (HTC Dream 100),128.0,T-Mobile
+2391,TechFaith Pebble,131.0,TechFaith Wirelessæ
+2393,AnyDATA ASP-505A,9.0,Anydata Corporation
+2395,AT_T HTC Fuze (HTC Raphael 110),15.0,AT&T
+2397,Dopod Touch T3238 (HTC Jade 100),61.0,HTC
+2399,Dopod Touch Viva T2222 (HTC Opal 100),61.0,HTC
+2401,Hewlett-Packard iPAQ Data Messenger,58.0,Hewlett-Packard
+2403,Hewlett-Packard iPAQ Voice Messenger (HP Silver),58.0,Hewlett-Packard
+2405,HTC MAX 4G T8290 (HTC Quartz),61.0,HTC
+2407,HTC MAX 4G T8290 (HTC Quartz) ,61.0,HTC
+2409,HTC S740 (HTC Rose 100),61.0,HTC
+2411,HTC Touch 3G T3232 (HTC Jade 100),61.0,HTC
+2413,HTC Touch Viva T2223 (HTC Opal 100),61.0,HTC
+2415,ICD Velocity Mobile 111,71.0,Inventec Corporation
+2417,Mio C728 Digi-Walker,84.0,MiTAC International Corp
+2419,Navon N250,89.0,Navon MIZU
+2421,Navon N450,89.0,Navon MIZU
+2423,Navon N460,89.0,Navon MIZU
+2425,Navon N550,89.0,Navon MIZU
+2427,NDrive G280S,90.0,NDrive
+2429,Nokia 6650-2 fold,92.0,Nokia Corporation
+2431,Nokia E63,92.0,Nokia Corporation
+2433,Nokia N96-3 NAM,92.0,Nokia Corporation
+2435,Nokia N96c,92.0,Nokia Corporation
+2437,NTT DoCoMo PRO series HT-01A (HTC Raphael 600),94.0,"NTT DOCOMO, Inc"
+2439,O2 Xda Diamond Pro / Xda Serra (HTC Raphael 100),95.0,O2
+2441,O2 XDA Zest ( Asus Crystal),95.0,O2
+2443,Pharos Traveler 117,71.0,Inventec Corporation
+2445,Pharos Traveler 127,71.0,Inventec Corporation
+2447,Pharos Traveler 619,71.0,Inventec Corporation
+2449,RealAegis  Armor 1000 Series,108.0,Real Aegis Technology Group Limited
+2451,RIM BlackBerry Curve 8900 (RIM Javelin),21.0,BlackBerry Limited
+2453,RIM BlackBerry Storm 9530 / 9530T (RIM Thunder),21.0,BlackBerry Limited
+2455,Samsung GT-i7110,113.0,Samsung
+2457,Samsung GT-i8510 INNOV8 16GB,113.0,Samsung
+2459,Samsung SCH-i770 Saga,113.0,Samsung
+2461,Samsung SCH-M490 T*OMNIA,113.0,Samsung
+2463,Samsung SCH-M495 T*OMNIA,113.0,Samsung
+2465,Samsung SGH-i617T,113.0,Samsung
+2467,Samsung SPH-M4800 Ultra Messaging II,113.0,Samsung
+2469,Simvalley Mobile Smartphone XP-45,120.0,Simvalley Mobile
+2471,Simvalley Mobile Smartphone XP-65,120.0,Simvalley Mobile
+2473,SoftBank 930SC Omnia,122.0,SoftBank
+2475,SoftBank X04HT Touch Diamond (HTC Diamond),122.0,SoftBank
+2477,Sprint Touch Pro (HTC Raphael 800),126.0,Sprint Corporation
+2479,Verizon Touch Pro XV6850 (HTC Raphael 500),143.0,Verizon Communications
+2481,Blaupunkt TravelPilot 500,22.0,Blaupunkt
+2483,Datalogic Mobile R Series-10 (R10),110.0,Roper Technologies
+2485,Datalogic Mobile R Series-12 (R12),110.0,Roper Technologies
+2487,Datalogic Mobile R Series-7 (R7),110.0,Roper Technologies
+2489,E-TEN Glofiish DX900,43.0,"E-TEN Information Systems Co., Ltd"
+2491,E-TEN Glofiish X900,43.0,"E-TEN Information Systems Co., Ltd"
+2493,Emobile Dual Diamond S22HT (HTC Rose),62.0,Huawei
+2495,HKC G920 (SIM Wacke),131.0,TechFaith Wirelessæ
+2497,HTC Touch HD T8285 (HTC Blackstone),61.0,HTC
+2499,LG Incite CT810,77.0,LG Electronics
+2501,Meizu M8 miniOne 8GB,80.0,"Meizu Technology Co., Ltd"
+2503,Motorola MOTO VE66,87.0,Motorola
+2505,Navon N350,89.0,Navon MIZU
+2507,Navon N360,89.0,Navon MIZU
+2509,Nokia N85-2 NAM,92.0,Nokia Corporation
+2511,NTT DoCoMo PRO series HT-02A (HTC Diamond),94.0,"NTT DOCOMO, Inc"
+2513,QiGi i7,107.0,QiGi
+2515,RIM BlackBerry Curve 8350i,21.0,BlackBerry Limited
+2517,RoverPC evo V7 (SIM V1),111.0,RoverComputers
+2519,RoverPC pro G7 (SIM U1),111.0,RoverComputers
+2521,RoverPC Q7 (TechFaith Bono),111.0,RoverComputers
+2523,Samsung GT-i8510L 8GB,113.0,Samsung
+2525,Samsung SGH-i777 Saga,113.0,Samsung
+2527,SoftBank X05HT Touch Pro (HTC Raphael),122.0,SoftBank
+2529,Trimble Juno SB,137.0,Trimble Navigation
+2531,Trimble Juno SC,137.0,Trimble Navigation
+2533,Asus P565,14.0,Asus
+2535,Athesi M3 Black,85.0,Mobile Compia
+2537,Blaupunkt TravelPilot 700,22.0,Blaupunkt
+2539,Bluebird Pidion BM-150R CDMA,23.0,Bluebird Soft Inc
+2541,Bluebird Pidion BM-150R GSM,23.0,Bluebird Soft Inc
+2543,Dopod S610 (HTC Nike),61.0,HTC
+2545,HKC Mopad 8,131.0,TechFaith Wirelessæ
+2547,Meizu M8 miniOne 16GB,80.0,"Meizu Technology Co., Ltd"
+2549,NDrive S400 (SIM U1),90.0,NDrive
+2551,NDrive Touch,90.0,NDrive
+2553,NDrive Touch XL,90.0,NDrive
+2555,Nokia N79 Eco,92.0,Nokia Corporation
+2557,O2 XDA Flint (HTC Athena 400),95.0,O2
+2559,Pharos Traveler 137 (Inventec Montblance 338),71.0,Inventec Corporation
+2561,T-Mobile Shadow 2009 (HTC Converse 100),128.0,T-Mobile
+2563,Unitech PA968,140.0,Unitech Electronics Co Ltd
+2565,Dopod Touch HD (HTC Blackstone),61.0,HTC
+2567,Dopod Touch Pro (HTC Raphael),61.0,HTC
+2569,HKC G908 (SIM V1),131.0,TechFaith Wirelessæ
+2571,HKC Mopad 8E,131.0,TechFaith Wirelessæ
+2573,HTC S743 US (HTC Rose),61.0,HTC
+2575,Motorola FR6000,87.0,Motorola
+2577,Motorola FR68,87.0,Motorola
+2579,Nokia 5800 NAM / 5800d-1b XpressMusic (Nokia Tube),92.0,Nokia Corporation
+2581,Nokia N85-3,92.0,Nokia Corporation
+2583,Palm Treo Pro CDMA (Palm Monk),102.0,Palm
+2585,QiGi U6 / U6P,107.0,QiGi
+2587,T-Mobile MDA Basic (HTC Opal),128.0,T-Mobile
+2589,AnyDATA ASP-210C,9.0,Anydata Corporation
+2591,Asus P835 (Asus Galaxy 7),14.0,Asus
+2593,HTC Touch Cruise 2009 T4242 (HTC Iolite 100),61.0,HTC
+2595,Huawei C8100,62.0,Huawei
+2597,Mobile Compia M3 Black MC-1000,61.0,HTC
+2599,Mobinnova ICE 5420,49.0,Foxconn Technology Group
+2601,Motorola MC5574,87.0,Motorola
+2603,Motorola MC5590,87.0,Motorola
+2605,O2 XDA Guide (HTC Iolite),95.0,O2
+2607,QiGi i6 Win / i6P Win (TechFaith Lancer),107.0,QiGi
+2609,Samsung GT-C6625 Valencia,113.0,Samsung
+2611,WayteQ N470,147.0,Wayteq Technology
+2613,WayteQ X-Phone (TechFaith Lancer),147.0,Wayteq Technology
+2615,WayteQ X-Phone Android (TechFaith Lancer),147.0,Wayteq Technology
+2617,Acer Tempo X960,3.0,Acer
+2619,Bluebird Pidion BIP-6000,23.0,Bluebird Soft Inc
+2621,Dopod S900c (HTC Diamond 500),61.0,HTC
+2623,HKC Pearl (TechFaith Lancer),131.0,TechFaith Wirelessæ
+2625,HTC Dream (HTC Dream 210),61.0,HTC
+2627,HTC Touch Diamond2 T5353 (HTC Topaz 100),61.0,HTC
+2629,I-Mate 810-F / 810F (Hummer),64.0,I-Mate
+2631,JoinTech JPro Mini Laptop JL7220,72.0,Join Technology
+2633,Mio C523 V2 Digi-Walker,84.0,MiTAC International Corp
+2635,QiGi AK007,107.0,QiGi
+2637,QiGi AK007C,107.0,QiGi
+2639,QiGi i6 Goal (TechFaith Lancer),107.0,QiGi
+2641,QiGi i6C,107.0,QiGi
+2643,Samsung GT-B7300C (Samsung Buckingham),113.0,Samsung
+2645,Samsung SGH-i627 Propel Pro,113.0,Samsung
+2647,Verizon Touch Diamond XV6950 (HTC Diamond 400),143.0,Verizon Communications
+2649,Acer M900 / Tempo  M900,3.0,Acer
+2651,Acer Tempo F900,3.0,Acer
+2653,Datalogic Mobile Scorpio,110.0,Roper Technologies
+2655,Datalogic Mobile Scorpio GUN,110.0,Roper Technologies
+2657,Dopod Touch Cruise T4288 (HTC Iolite),61.0,HTC
+2659,Getac PS535F,84.0,MiTAC International Corp
+2661,HTC Magic (HTC Sapphire 100),61.0,HTC
+2663,HTC Snap S521 / Captain (HTC Maple 100),61.0,HTC
+2665,HTC Touch Pro2 T7373 (HTC Rhodium 100),61.0,HTC
+2667,iconX A410,66.0,iconX
+2669,iconX G310,66.0,iconX
+2671,Mio Moov 700,84.0,MiTAC International Corp
+2673,Mobinnova ICE US,49.0,Foxconn Technology Group
+2675,Navigon 7300 / 7310,88.0,Navigon GmbH
+2677,Nokia E71x,92.0,Nokia Corporation
+2679,QiGi U8 / U8P,107.0,QiGi
+2681,RIM BlackBerry Pearl Flip 8230 (RIM Apex),21.0,BlackBerry Limited
+2683,Samsung GT-i8910 HD 8GB,113.0,Samsung
+2685,Samsung SGH-i637 Jack,113.0,Samsung
+2687,"Apple iPhone 3G CU (Apple iPhone 1,2)",10.0,Apple Inc
+2689,"Apple iPhone 3GS 32GB (Apple iPhone 2,1)",10.0,Apple Inc
+2691,Datalogic Mobile Memor,110.0,Roper Technologies
+2693,Datalogic Mobile Memor WAN,110.0,Roper Technologies
+2695,Google Ion A6161 (HTC Sapphire),54.0,Google
+2697,HKC Prado,131.0,TechFaith Wirelessæ
+2699,HTC Dream (HTC Dream 110),61.0,HTC
+2701,Mio Explora K70,84.0,MiTAC International Corp
+2703,Mio Moov S300 / Spirit 300,84.0,MiTAC International Corp
+2705,Mio Moov S401,84.0,MiTAC International Corp
+2707,Mio Moov S500 / S505 / Spirit 500,84.0,MiTAC International Corp
+2709,Mio Moov S501,84.0,MiTAC International Corp
+2711,Mio Moov S555 / S556,84.0,MiTAC International Corp
+2713,Mio Moov S568,84.0,MiTAC International Corp
+2715,Mio Moov S760 / Spirit 760,84.0,MiTAC International Corp
+2717,Navigon 8300 / 8310,88.0,Navigon GmbH
+2719,Nokia 5630 XpressMusic,92.0,Nokia Corporation
+2721,Nokia 6730 classic,92.0,Nokia Corporation
+2723,Nokia N86 8MP,92.0,Nokia Corporation
+2725,NTT DoCoMo PRO series HT-03A (HTC Sapphire),94.0,"NTT DOCOMO, Inc"
+2727,O2 Xda Diamond 2 (HTC Topaz 100),95.0,O2
+2729,Palm Pre (Palm Castle C),102.0,Palm
+2731,QiGi U96,107.0,QiGi
+2733,Samsung GT-i7500 Galaxy,113.0,Samsung
+2735,Sprint HTC Snap S511 (HTC Cedar 200),126.0,Sprint Corporation
+2737,Verizon HTC Ozone XV6175 (HTC Chief),143.0,Verizon Communications
+2739,"Apple iPhone 3GS CU (Apple iPhone 2,1)",10.0,Apple Inc
+2741,Dopod Magic A6188 (HTC Sapphire),61.0,HTC
+2743,Dopod Magic A6188w (HTC Sapphire),61.0,HTC
+2745,Gigabyte GSmart S1200,53.0,Gigabyte Technology
+2747,HTC Hero A6262 (HTC Hero 100),61.0,HTC
+2749,HTC Touch Pro2 CDMA (HTC Rhodium 500),61.0,HTC
+2751,LG GT500 / GT505,77.0,LG Electronics
+2753,MENQ EasyPC E720 / EasyPC E790,81.0,MENQ International Limited
+2755,Mio Moov M300,84.0,MiTAC International Corp
+2757,Mio Moov M400,84.0,MiTAC International Corp
+2759,Mio Moov M400 2GB,84.0,MiTAC International Corp
+2761,Mio Spirit V505 TV,84.0,MiTAC International Corp
+2763,Mio Spirit V735 TV,84.0,MiTAC International Corp
+2765,Navigon 1300 / 1310,88.0,Navigon GmbH
+2767,Navigon 2310,88.0,Navigon GmbH
+2769,Navigon 3300 max / 3310 max,88.0,Navigon GmbH
+2771,Navigon 4310 max / 4350 max,88.0,Navigon GmbH
+2773,Navon N260,89.0,Navon MIZU
+2775,Navon N470,89.0,Navon MIZU
+2777,Navon N560,89.0,Navon MIZU
+2779,Nokia 6720 classic,92.0,Nokia Corporation
+2781,Nokia N97c,92.0,Nokia Corporation
+2783,NTT DoCoMo PRO series T-01A (Toshiba Tsunagi),94.0,"NTT DOCOMO, Inc"
+2785,O2 Xda Venn (Pantech Mustang 2),95.0,O2
+2787,RIM BlackBerry Tour 9630 (RIM Niagara),21.0,BlackBerry Limited
+2789,RIM BlackBerry Tour 9630 without camera (RIM Niagara),21.0,BlackBerry Limited
+2791,Samsung GT-C6625v,113.0,Samsung
+2793,Samsung GT-i8910 16GB / Omnia HD,113.0,Samsung
+2795,"Stuart Hughes iPhone 3GS 22ct Solid Gold (Apple iPhone 2,1)",49.0,Foxconn Technology Group
+2797,T-Mobile Dash 3G (HTC Maple 100),128.0,T-Mobile
+2799,T-Mobile G2 Touch (HTC Hero 100),128.0,T-Mobile
+2801,Telstra HTC Touch Pro2 T7381 (HTC Rhodium),61.0,HTC
+2803,The Medical Phone iCEphone,79.0,Medical Phone Ltd
+2805,TMN Bluebelt (ZTE Xiang),156.0,ZTE
+2807,Toshiba TG01 (Toshiba Tsunagi),136.0,Toshiba Corporation
+2809,Unitech HT680,140.0,Unitech Electronics Co Ltd
+2811,Dopod Hero A6288 (HTC Hero 100),61.0,HTC
+2813,Dopod Touch Diamond S910 (HTC Diamond),61.0,HTC
+2815,Garmin-Asus nuvifone M20 4GB,51.0,Garmin Ltd
+2817,HTC Hero A6265 (HTC Hero 130),61.0,HTC
+2819,Navon N650,89.0,Navon MIZU
+2821,Samsung GT-i8000 Omnia II M16 16GB,113.0,Samsung
+2823,Samsung GT-i8000 Omnia II M2 2GB,113.0,Samsung
+2825,T-Mobile HTC Touch Pro 2 US / Wing II (HTC Rhodium 210),128.0,T-Mobile
+2827,T-Mobile MDA Compact V (HTC Topaz),128.0,T-Mobile
+2829,T-Mobile MDA Vario V (HTC Rhodium 100),128.0,T-Mobile
+2831,T-Mobile myTouch 3G (HTC Sapphire 300),128.0,T-Mobile
+2833,AnyDATA ASP-705W,9.0,Anydata Corporation
+2835,Casio Cassiopeia DT-5300 M50S,26.0,Casio
+2837,Casio Cassiopeia DT-5300 M50SC,26.0,Casio
+2839,Casio Cassiopeia DT-5300 M52S,26.0,Casio
+2841,Casio Cassiopeia DT-5300 M52SC,26.0,Casio
+2843,Datalogic Mobile J Series,110.0,Roper Technologies
+2845,Datalogic Mobile J Series Windows CE,110.0,Roper Technologies
+2847,General Mobile DSTL1 Imaginary,131.0,TechFaith Wirelessæ
+2849,Getac PS236,84.0,MiTAC International Corp
+2851,Getac PS236 WWAN,84.0,MiTAC International Corp
+2853,HTC Snap CDMA (HTC Cedar),61.0,HTC
+2855,Lenovo Mobile O1 / Miro O1,76.0,Lenovo
+2857,Mio Moov V500,84.0,MiTAC International Corp
+2859,Mio Moov V700,84.0,MiTAC International Corp
+2861,Motorola MC9500-K CDMA,87.0,Motorola
+2863,Motorola MC9500-K GSM,87.0,Motorola
+2865,Nokia 5530 XpressMusic,92.0,Nokia Corporation
+2867,Nokia N86-2 8MP,92.0,Nokia Corporation
+2869,QiGi U86,107.0,QiGi
+2871,QiGi V96,107.0,QiGi
+2873,QiGi W96,107.0,QiGi
+2875,QiGi W96 B,107.0,QiGi
+2877,RoverPC Evo X8 (QiGi U86),111.0,RoverComputers
+2879,Sprint Touch Pro2 T7380 (HTC Rhodium W),126.0,Sprint Corporation
+2881,Stuart Hughes BlackBerry Bold 9000 Diamond,49.0,Foxconn Technology Group
+2883,"Stuart Hughes iPhone 3GS 18ct Soild Rose Gold Diamond (Apple iPhone 2,1)",49.0,Foxconn Technology Group
+2885,"Stuart Hughes iPhone 3GS Platinum & Diamond (Apple iPhone 2,1)",49.0,Foxconn Technology Group
+2887,Verizon Touch Pro2 XV6875 (HTC Rhodium 500),143.0,Verizon Communications
+2889,Vodafone 360 H1,146.0,Vodafone
+2891,Acer beTouch E100 (Acer C1),3.0,Acer
+2893,Acer beTouch E100 B (Acer C1),3.0,Acer
+2895,Acer beTouch E101 (Acer E1),3.0,Acer
+2897,Acer beTouch E200 (Acer L1),3.0,Acer
+2899,Acer beTouch E200 B (Acer L1),3.0,Acer
+2901,Acer neoTouch S200 (Acer F1),3.0,Acer
+2903,Archos 5 Internet Tablet 160GB,11.0,Archos
+2905,AT_T HTC Pure (HTC Topaz 210),15.0,AT&T
+2907,AT_T HTC Tilt2 T7377 (HTC Rhodium 300),15.0,AT&T
+2909,Casio Cassiopeia DT-5300 M30S,26.0,Casio
+2911,Casio Cassiopeia DT-5300 M30SC,26.0,Casio
+2913,Garmin-Asus nuvifone M20 4GB NA,51.0,Garmin Ltd
+2915,Highscreen PP5420,49.0,Foxconn Technology Group
+2917,HTC Snap US S522 (HTC Maple 120),61.0,HTC
+2919,HTC Tattoo A3232 (HTC Click 100),61.0,HTC
+2921,HTC Touch2 T3333 (HTC Mega 100),61.0,HTC
+2923,Huawei U8230,62.0,Huawei
+2925,LG GM750 (LG Layla),77.0,LG Electronics
+2927,Mobile Compia MM3 MC-8000,61.0,HTC
+2929,Nokia 5230,92.0,Nokia Corporation
+2931,Prestigio GeoVision 110,11.0,Archos
+2933,Prestigio GeoVision 360,11.0,Archos
+2935,Samsung GT-B7300 OmniaLITE (Samsung Buckingham),113.0,Samsung
+2937,Samsung GT-B7320 OmniaPRO,113.0,Samsung
+2939,Samsung GT-B7330 OmniaPRO,113.0,Samsung
+2941,Samsung GT-B7610 OmniaPRO (Samsung Louvre),113.0,Samsung
+2943,Samsung GT-B7620 Giorgio Armani,113.0,Samsung
+2945,Samsung GT-i7500L Galaxy,113.0,Samsung
+2947,Samsung GT-i8000L Omnia II M16 16GB,113.0,Samsung
+2949,Samsung GT-i8000U M2 2GB,113.0,Samsung
+2951,Samsung SPH-i350 Intrepid,113.0,Samsung
+2955,Sprint HTC Hero A6277 (HTC Hero 200),126.0,Sprint Corporation
+2957,Stuart Hughes iPod Touch Supreme,49.0,Foxconn Technology Group
+2959,T-Mobile Pulse (Huawei U8220),128.0,T-Mobile
+2961,TMN Bluebelt II,156.0,ZTE
+2963,TMN Silverbelt (ZTE Raise),156.0,ZTE
+2965,Verizon HTC Imagio XV6975 (HTC Whitestone 100),143.0,Verizon Communications
+2967,Acer neoTouch S200 B (Acer F1),3.0,Acer
+2969,AT_T BlackBerry Bold 9700 (RIM Onyx),15.0,AT&T
+2971,Highscreen Zeus (Geeksphone One),49.0,Foxconn Technology Group
+2973,HTC Droid Eris A6376,61.0,HTC
+2975,HTC HD2 T8585 (HTC Leo 100),61.0,HTC
+2977,LG GM730f,77.0,LG Electronics
+2979,Motorola Droid A855 / Tao  (Motorola Sholes),87.0,Motorola
+2981,Nokia X6 / X6-00 32GB (Nokia Alvin),92.0,Nokia Corporation
+2983,Prestigio GeoVision 3100,11.0,Archos
+2985,Prestigio GeoVision 4100,11.0,Archos
+2987,QiGi AK008,107.0,QiGi
+2989,QiGi AK008C,107.0,QiGi
+2991,QiGi AK008W,107.0,QiGi
+2993,QiGi AK008W B,107.0,QiGi
+2995,QiGi Smartbook U1000,107.0,QiGi
+2997,RIM BlackBerry Bold 9700 (RIM Onyx),21.0,BlackBerry Limited
+2999,RIM BlackBerry Storm 2 9550 (RIM Odin),21.0,BlackBerry Limited
+3001,Samsung GT-B7320L OmniaPRO,113.0,Samsung
+3003,Samsung GT-i5700 Galaxy Spica,113.0,Samsung
+3005,Samsung GT-i6410 M1,113.0,Samsung
+3007,Samsung GT-i8000L Omnia II M8 8GB,113.0,Samsung
+3009,Samsung GT-i8000T Omnia Icon M8 8GB,113.0,Samsung
+3011,Samsung GT-i8320 Protector,113.0,Samsung
+3013,Samsung SCH-i329,113.0,Samsung
+3015,Samsung SCH-M510,113.0,Samsung
+3017,Samsung SGH-t939 Behold II,113.0,Samsung
+3019,Samsung SPH-M7350 OZ Omnia,113.0,Samsung
+3021,Samsung SPH-M900 Moment,113.0,Samsung
+3023,SoftBank X01SC OmniaPRO,122.0,SoftBank
+3025,T-Mobile BlackBerry Bold 9700 (RIM Onyx),128.0,T-Mobile
+3027,Verizon HTC Hero (HTC Hero),143.0,Verizon Communications
+3029,Vodafone 360 M1,146.0,Vodafone
+3031,Acer Liquid S100 (Acer A1),3.0,Acer
+3033,Camangi WebStation WS171,25.0,Camangi
+3035,Dopod A3288 (HTC Click 100),61.0,HTC
+3037,Dopod T5399 (HTC Twin 10000),61.0,HTC
+3039,Dopod T8388 (HTC Qilin),61.0,HTC
+3041,Hewlett-Packard iPAQ K3 Glisten (Pegatron Obsidian),58.0,Hewlett-Packard
+3043,HTC HD2 GSM (HTC Leo),61.0,HTC
+3045,LG GW820 eXpo (LG Monaco),77.0,LG Electronics
+3047,LG GW825 IQ (LG Monaco) ,77.0,LG Electronics
+3049,Mobile Compia M3 POS MC-8800,61.0,HTC
+3051,Navigon 6310 / 6350 Live,88.0,Navigon GmbH
+3053,Nokia 5800 NAM Navigation Edition (Nokia Tube),92.0,Nokia Corporation
+3055,Nokia E72-2 NAM,92.0,Nokia Corporation
+3057,Palm Pixi GSM EU,102.0,Palm
+3059,QiGi Smartbook U2000,107.0,QiGi
+3061,RoverPC pro G8,111.0,RoverComputers
+3063,RoverPC S8,111.0,RoverComputers
+3065,Samsung SCH-M710 T*OMNIA II,113.0,Samsung
+3067,Samsung SCH-M715 T*OMNIA II,113.0,Samsung
+3069,Samsung SCH-M720 OMNIA Pop / SCH-M7200,113.0,Samsung
+3071,Samsung SPH-M8400 Show OMNIA,113.0,Samsung
+3073,Sunno S880 Windows Mobile,127.0,Sunno
+3075,Argox PT-6010 / PT-6310,12.0,Argox
+3077,Argox PT-6020 / PT-6320,12.0,Argox
+3079,Google Nexus One (HTC Passion),54.0,Google
+3081,LG InTouch Max GW620 (LG Etna),77.0,LG Electronics
+3083,Motorola BACKFLIP ME600 (Motorola Motus),87.0,Motorola
+3085,Motorola MT710 Zhiling,87.0,Motorola
+3087,Motorola XT800 Zhisang (Motorola Zeppelin),87.0,Motorola
+3089,Nokia 5530 XpressMusic Games Edition,92.0,Nokia Corporation
+3091,Nokia 6788 / 6788i,92.0,Nokia Corporation
+3093,Nokia E52-2,92.0,Nokia Corporation
+3095,Palm Pixi Plus,102.0,Palm
+3097,Palm Pre Plus (Palm Castle C),102.0,Palm
+3099,Prestigio GeoVision 3120,11.0,Archos
+3101,Prestigio GeoVision 3200,11.0,Archos
+3103,Prestigio GeoVision 4120 / 4200,11.0,Archos
+3105,Prestigio GeoVision 4120BT / 4200BT,11.0,Archos
+3107,Prestigio GeoVision 5120,11.0,Archos
+3109,Prestigio GeoVision 5120BT / 5200BT,11.0,Archos
+3111,Rogers HTC Magic Plus (HTC Sapphire),109.0,Rogers Wireless
+3113,Samsung GT-i5700 Galaxy Portal,113.0,Samsung
+3115,Telstra HTC HD2 T9193 (HTC Leo),61.0,HTC
+3117,Dopod Touch Diamond 2 T5388w (HTC Topaz),61.0,HTC
+3119,Garmin-Asus nuvifone M10,51.0,Garmin Ltd
+3121,LG GW620f (LG Etna),77.0,LG Electronics
+3123,M3Mobile M3 Sky AlphaNumeric MC-7100S,85.0,Mobile Compia
+3125,M3Mobile M3 Sky MC-7500,85.0,Mobile Compia
+3127,M3Mobile M3 Sky MC-7700,85.0,Mobile Compia
+3129,M3Mobile M3 Sky QWERTY MC-7100S,85.0,Mobile Compia
+3131,Motorola MOTOROI XT720 (Motorola Sholes Tablet),87.0,Motorola
+3133,Nokia 5232,92.0,Nokia Corporation
+3135,Nokia 5233,92.0,Nokia Corporation
+3137,Nokia 6700 slide,92.0,Nokia Corporation
+3139,NTT DoCoMo PRO series SC-01B,94.0,"NTT DOCOMO, Inc"
+3141,Philips D908,105.0,Philips
+3143,T-Mobile Pulse Mini (Huawei U8110),128.0,T-Mobile
+3145,Acer beTouch E110,3.0,Acer
+3147,Acer neoTouch P300 (Geeksphone One),3.0,Acer
+3149,Datalogic Mobile Elf QVGA Numeric,110.0,Roper Technologies
+3151,Datalogic Mobile Elf QVGA QWERTY,110.0,Roper Technologies
+3153,Datalogic Mobile Elf VGA Numeric,110.0,Roper Technologies
+3155,Datalogic Mobile Elf VGA QWERTY,110.0,Roper Technologies
+3157,Dopod F3188 (HTC Rome),61.0,HTC
+3159,enTourage eDGe,45.0,enTourage
+3161,Google Nexus One US (HTC Passion),54.0,Google
+3163,HTC Smart (HTC Rome),61.0,HTC
+3165,LG InTouch Max GW620 US (LG Etna),77.0,LG Electronics
+3167,LG SU210 / KU2100 / SU2100,77.0,LG Electronics
+3169,Motorola BACKFLIP MB300 (Motorola Motus),87.0,Motorola
+3171,Motorola CLIQ XT MB501,87.0,Motorola
+3173,Motorola DEVOUR A555 (Motorola Calgary),87.0,Motorola
+3175,Nokia 5230 Nuron,92.0,Nokia Corporation
+3177,Nokia X6 16GB (Nokia Alvin),92.0,Nokia Corporation
+3179,Palm Pixi GSM NA,102.0,Palm
+3181,Psion Teklogix WORKABOUT PRO 3 C,152.0,Zebra Technologies
+3183,Psion Teklogix WORKABOUT PRO 3 S,152.0,Zebra Technologies
+3185,Psion Teklogix WORKABOUT PRO 3 S QWERTY,152.0,Zebra Technologies
+3187,RoverPC S8 Lite,111.0,RoverComputers
+3197,T-Mobile HTC HD2 (HTC Leo),128.0,T-Mobile
+3199,Toshiba dynapocket IS02 (Toshiba K01),136.0,Toshiba Corporation
+3201,WellcoM A88 3G (Commtiva Z71),62.0,Huawei
+3203,Acer beTouch E400,3.0,Acer
+3205,Acer Liquid E (Acer A1E),3.0,Acer
+3207,AnyDATA ASP-318,9.0,Anydata Corporation
+3209,"Apple iPad 3G 16GB (Apple iPad 1, 1)",10.0,Apple Inc
+3211,"Apple iPad 3G 32GB (Apple iPad 1,1)",10.0,Apple Inc
+3213,"Apple iPad 3G 64GB (Apple iPad 1,1)",10.0,Apple Inc
+3215,"Apple iPad WiFi 16GB (Apple iPad 1,1)",10.0,Apple Inc
+3217,"Apple iPad WiFi 32GB (Apple iPad 1,1)",10.0,Apple Inc
+3219,Cincinnati Bell Huawei U8100,28.0,Cincinnati Bell
+3221,Dell Mini 3iX,39.0,Dell
+3223,Dopod HD2 T8588 (HTC Leo 100),61.0,HTC
+3225,HOTT MD500 16GB,60.0,Hongfutai E-Tech (Shenzhen) Co. Ltd
+3227,HOTT MD700 32GB,60.0,Hongfutai E-Tech (Shenzhen) Co. Ltd
+3229,HTC Desire A8181 (HTC Bravo),61.0,HTC
+3231,HTC HD Mini T5555 (HTC Photon),61.0,HTC
+3233,Huawei U8100,62.0,Huawei
+3235,Kyocera Zio M6000,74.0,Kyocera Corporation
+3237,Lenovo LePhone,76.0,Lenovo
+3239,Nokia 5235 Comes with Music,92.0,Nokia Corporation
+3241,Nokia N97 Mini Gold Edition,92.0,Nokia Corporation
+3243,NTT DoCoMo Xperia SO-01B (SE Rachael),94.0,"NTT DOCOMO, Inc"
+3245,Palm Pixi Plus GSM EU,102.0,Palm
+3247,Palm Pre Plus GSM EU (Palm Castle G),102.0,Palm
+3249,QiGi V808,107.0,QiGi
+3251,QiGi W86,107.0,QiGi
+3253,QiGi W86 B,107.0,QiGi
+3255,Samsung GT-S8500 Wave 8GB,113.0,Samsung
+3257,Samsung SCH-i225 Exec,113.0,Samsung
+3261,Sprint HTC EVO 4G A9292 (HTC Supersonic),126.0,Sprint Corporation
+3263,Telstra HTC Desire A8183 (HTC Bravo),61.0,HTC
+3265,Verizon HTC Droid Incredible ADR6300 (HTC Incredible C),143.0,Verizon Communications
+3267,Ziss Soho 3,154.0,Ziss HongKong
+3269,Acer beTouch E110 B,3.0,Acer
+3271,Acer neoTouch P400,3.0,Acer
+3273,AnyDATA ASP-518,9.0,Anydata Corporation
+3275,Cincinnati Bell Blaze (Commtiva Z71),28.0,Cincinnati Bell
+3277,Dell Aero,39.0,Dell
+3279,Dopod A8188 (HTC Dragon),61.0,HTC
+3281,Garmin-Asus nuvifone A50,51.0,Garmin Ltd
+3283,ICD Ultra,71.0,Inventec Corporation
+3285,LG LU2300 Optimus Q,77.0,LG Electronics
+3287,M3Mobile M3 T MC-6700S,85.0,Mobile Compia
+3289,Microsoft KIN TWO / KIN TWOm,83.0,Microsoft
+3291,Nokia C5-00,92.0,Nokia Corporation
+3293,Nokia C6-00,92.0,Nokia Corporation
+3295,Palm Pixi Plus GSM NA,102.0,Palm
+3297,Palm Pre Plus GSM NA (Palm Castle G),102.0,Palm
+3299,QiGi W700,107.0,QiGi
+3301,QiGi W700 B,107.0,QiGi
+3303,RIM BlackBerry Bold 9650 (RIM Essex),21.0,BlackBerry Limited
+3305,Samsung SGH-T959P Fascinate 4G,113.0,Samsung
+3313,Sprint Google Nexus One (HTC Passion),126.0,Sprint Corporation
+3315,T-Mobile Garminfone A50,128.0,T-Mobile
+3317,Toshiba dynapocket KG01 (Toshiba K01),136.0,Toshiba Corporation
+3319,Acer neoTouch P400 B,3.0,Acer
+3321,Alcatel One Touch OT-S988W (Geeksphone One),6.0,Alcatel-Lucent
+3323,"Apple iPhone 4 16GB (Apple iPhone 3,1)",10.0,Apple Inc
+3325,Babiken Vefone V1,17.0,Babiken
+3327,Dell Streak EU (Dell Mini 5),39.0,Dell
+3329,Eken M001,44.0,EKEN Electronic
+3331,Eken M003,44.0,EKEN Electronic
+3333,Gigabyte GSmart S1205 Cougar,53.0,Gigabyte Technology
+3335,Google Nexus One KT (HTC Passion),54.0,Google
+3337,HTC Aria A6366 (HTC Liberty),61.0,HTC
+3339,HTC Legend A6365 Bell,61.0,HTC
+3341,ICD Vega,71.0,Inventec Corporation
+3343,MAG iMiTO iM7,78.0,MAG Digital
+3345,MENQ EasyPC E790 Android,81.0,MENQ International Limited
+3347,Mio Explora K75,84.0,MiTAC International Corp
+3349,Mio Moov V780,84.0,MiTAC International Corp
+3351,Mobile Compia M3 Sky White MC-7100S,61.0,HTC
+3353,Motorola Milestone A854,87.0,Motorola
+3355,Motorola Milestone XT720 (Motorola Sholes Tablet),87.0,Motorola
+3357,Nokia E73 Mode,92.0,Nokia Corporation
+3359,Nokia X5-00,92.0,Nokia Corporation
+3361,Nokia X6-00m 32GB,92.0,Nokia Corporation
+3363,NTT DoCoMo dynapocket T-01B,94.0,"NTT DOCOMO, Inc"
+3365,Orange Boston (Commtiva Z71),100.0,Orange UK
+3367,RIM BlackBerry Pearl 3G 9100 (RIM Stratus),21.0,BlackBerry Limited
+3369,RIM BlackBerry Pearl 3G 9105 (RIM Stratus),21.0,BlackBerry Limited
+3371,Rogers BlackBerry Pearl 9100 (RIM Stratus),109.0,Rogers Wireless
+3373,Samsung GT-i9000 Galaxy S 16GB,113.0,Samsung
+3375,Samsung GT-i9000 Galaxy S 8GB,113.0,Samsung
+3383,T-Mobile myTouch2 3G Slide (HTC Espresso),128.0,T-Mobile
+3385,Telstra BlackBerry Pearl 9100 (RIM Stratus),61.0,HTC
+3387,WellcoM A68,62.0,Huawei
+3389,Ziss Cube MID,154.0,Ziss HongKong
+3391,1und1 SmartPad,141.0,United Internet
+3393,FirstOne F910,47.0,FirstOne Technology
+3395,FirstOne F910 B,47.0,FirstOne Technology
+3397,Gigabyte GSmart G1305 Codfish (Commtiva Z71),53.0,Gigabyte Technology
+3399,HP Compaq AirLife 100,58.0,Hewlett-Packard
+3401,HTC Aria A6380 (HTC Liberty),61.0,HTC
+3403,Huawei U8110,62.0,Huawei
+3405,Inventec N18 / N18C Dr. eye,71.0,Inventec Corporation
+3407,LG KU9500 / SU950 Optimus Z,77.0,LG Electronics
+3409,Motorola DROID X MB810 / Droid Xtreme (Motorola Shadow),87.0,Motorola
+3411,Motorola MOTO ME501,87.0,Motorola
+3413,Motorola QRTY A853,87.0,Motorola
+3415,Nokia C6-00.1,92.0,Nokia Corporation
+3417,Optimus Boston (Commtiva Z71),31.0,Commtiva
+3419,QiGi A1,107.0,QiGi
+3421,QiGi Smartbook III U3000,107.0,QiGi
+3423,QiGi Smartbook III V3000,107.0,QiGi
+3425,QiGi W900 ,107.0,QiGi
+3427,Red Bull Mobile RBM2 (Huawei U8230),62.0,Huawei
+3429,Samsung GT-i8520 Galaxy Beam 16GB / Halo,113.0,Samsung
+3431,Samsung GT-i8520 Galaxy Beam 16GB / Halo ,113.0,Samsung
+3433,Samsung SCH-R880 Acclaim,113.0,Samsung
+3435,Samsung SGH-i897 Galaxy S Captivate,113.0,Samsung
+3437,Samsung SGH-i897 Galaxy S Captivate ,113.0,Samsung
+3439,Samsung SGH-T959 Galaxy S Vibrant,113.0,Samsung
+3441,Samsung SPH-M910 Intercept,113.0,Samsung
+3445,TMN Soft Stone (ZTE Link),156.0,ZTE
+3447,WellcoM A66,62.0,Huawei
+3449,WellcoM A69,62.0,Huawei
+3451,ZTE N600 Racer (ZTE Link),156.0,ZTE
+3453,Acer beTouch E120 (Acer K2),3.0,Acer
+3455,Acer beTouch E130 (Acer K3),3.0,Acer
+3457,Acer Liquid E Ferrari Special Edition (Acer A1F),3.0,Acer
+3459,Dell Streak US (Dell Mini 5),39.0,Dell
+3461,Dopod T5588 (HTC HengShan),61.0,HTC
+3463,Garmin-Asus nuvifone M10 NA,51.0,Garmin Ltd
+3465,HTC Triumph / Desire US A8182 (HTC Bravo),61.0,HTC
+3467,M3Mobile M3 Orange AlphaNumeric M3-20,85.0,Mobile Compia
+3469,M3Mobile M3 Orange QWERTY M3-20,85.0,Mobile Compia
+3471,Motorola FLIPOUT MB511 A,87.0,Motorola
+3473,Motorola ZN4 Android,87.0,Motorola
+3475,Nokia E5-00 (Nokia Mystic),92.0,Nokia Corporation
+3477,Red Bull Mobile RBMK (Huawei U8110),62.0,Huawei
+3479,RIM BlackBerry Curve 3G 9300  (RIM Kepler),21.0,BlackBerry Limited
+3481,RIM BlackBerry Torch Slider 9800,21.0,BlackBerry Limited
+3483,Samsung GT-B5620 OmniaPRO 5 / GT-B6520 Omnia 652,113.0,Samsung
+3485,Samsung GT-B7350 OmniaPRO 4,113.0,Samsung
+3487,Samsung GT-i5500 Galaxy 5 / Corby Smartphone,113.0,Samsung
+3489,Samsung GT-i5800 Galaxy 3 / Galaxy Taos,113.0,Samsung
+3491,Samsung SPH-D700 Galaxy S Epic 4G,113.0,Samsung
+3493,Spice Mi-300 (Commtiva Z71),125.0,Spice Digital
+3495,T-Mobile BlackBerry Curve 3G 9300  (RIM Kepler),128.0,T-Mobile
+3497,Telstra HTC Wildfire A3335 (HTC Buzz),61.0,HTC
+3499,Unitech PA968II,140.0,Unitech Electronics Co Ltd
+3501,Unitech PA968II Phone Edition,140.0,Unitech Electronics Co Ltd
+3503,Viliv P3 Prime 16GB Android,151.0,Yukyung Technologies Ltd
+3505,Viliv P3 Prime 32GB DMB,151.0,Yukyung Technologies Ltd
+3507,Viliv P3 Prime 32GB DMB Android,151.0,Yukyung Technologies Ltd
+3509,Viliv P3 Prime 8GB,151.0,Yukyung Technologies Ltd
+3511,WellcoM WePAD A800,62.0,Huawei
+3513,Acer Stream / Liquid S110,3.0,Acer
+3515,Alcatel One Touch OT-980A,6.0,Alcatel-Lucent
+3517,Alcatel One Touch OT-981A,6.0,Alcatel-Lucent
+3519,Athesi RP1000 QVGA,85.0,Mobile Compia
+3521,Athesi RP1000 VGA,85.0,Mobile Compia
+3523,Eken M005,44.0,EKEN Electronic
+3525,HTC Desire ADR6200 / ADR6275 (HTC Bravo C),61.0,HTC
+3527,HTC Tianxi T9188 (HTC HuaShan),61.0,HTC
+3529,HTC Wildfire A3360 (HTC TianShan),61.0,HTC
+3531,Interpad 10 Home Edition,42.0,E-noa
+3533,Motorola CHARM ME502,87.0,Motorola
+3535,Motorola ES400,87.0,Motorola
+3537,Motorola MC65,87.0,Motorola
+3539,Motorola Quench XT3 (Commtiva Z71),87.0,Motorola
+3541,Motorola Quench XT5 XT502 / Greco (Commtiva Z71),87.0,Motorola
+3543,Nokia 5228,92.0,Nokia Corporation
+3545,Nokia N8-00 (Nokia Vasco),92.0,Nokia Corporation
+3547,Nokia X5-01,92.0,Nokia Corporation
+3549,Optima OP5-E,99.0,Optima Technology 
+3551,RIM BlackBerry Curve 3G 9330 ,21.0,BlackBerry Limited
+3553,RoverPC RoverPad 3W G70,111.0,RoverComputers
+3555,Samsung GT-i5800 Galaxy 580,113.0,Samsung
+3557,Samsung GT-P1000 Galaxy Tab 7.0 16GB,113.0,Samsung
+3559,Samsung GT-P1000 Galaxy Tab 7.0 32GB,113.0,Samsung
+3561,Samsung SCH-I500 Galaxy S Fascinate,113.0,Samsung
+3563,Samsung YP-G50CW Galaxy Player 50 8GB,113.0,Samsung
+3565,Samsung YP-G50EW Galaxy Player 50 16GB,113.0,Samsung
+3567,SoftBank HTC Desire X06HT / X06HT II (HTC Bravo),122.0,SoftBank
+3573,Toshiba AC-100-10Z / Dynabook AZ,136.0,Toshiba Corporation
+3575,Acer beTouch E120 B (Acer K2),3.0,Acer
+3577,Archos Arnova 10,11.0,Archos
+3579,BN NOOK Color,18.0,Barnes & Noble
+3581,HTC 7 Mozart T8698 (HTC Mozart),61.0,HTC
+3583,HTC Desire HD A9191 (HTC Ace),61.0,HTC
+3585,HTC Desire Z A7272 (HTC Vision),61.0,HTC
+3587,HTC HD7 T9292 16GB,61.0,HTC
+3589,HTC HD7 T9292 8GB / HD3,61.0,HTC
+3591,HTC Wildfire 6225 / ADR6225 (HTC Bee),61.0,HTC
+3593,LG C900 Optimus 7Q (LG Pacific),77.0,LG Electronics
+3595,LG E900 Optimus 7,77.0,LG Electronics
+3597,Motorola Milestone 2 A953,87.0,Motorola
+3599,Nokia C7-00,92.0,Nokia Corporation
+3601,Nokia E5-00.1 (Nokia Mystic),92.0,Nokia Corporation
+3603,NTT DoCoMo Galaxy S SC-02B,94.0,"NTT DOCOMO, Inc"
+3605,Orange San Francisco B05 (ZTE Blade),100.0,Orange UK
+3607,Orange San Francisco B08 (ZTE Blade),100.0,Orange UK
+3609,Palm Pre 2 GSM EU,102.0,Palm
+3611,QiGi V800,107.0,QiGi
+3613,QiGi V880,107.0,QiGi
+3615,Samsung GT-i5500 Galaxy Europa,113.0,Samsung
+3617,Samsung SCH-I500 Galaxy S Mesmerize,113.0,Samsung
+3619,Samsung SPH-M920 Transform,113.0,Samsung
+3621,Samsung YP-GP50 Galaxy Play 50 / Galaxy Rossi 8GB,113.0,Samsung
+3623,Samsung YP-GP50 Galaxy Player 50 / Galaxy Rossi 16GB,113.0,Samsung
+3625,Samsung YP-MB2 Yepp / Galaxy Touch 32GB,113.0,Samsung
+3629,T-Mobile G2 (HTC Vision),128.0,T-Mobile
+3631,Telstra HTC 7 Mozart (HTC Mozart),61.0,HTC
+3633,Vodafone 945,146.0,Vodafone
+3635,ZTE Lutea (ZTE Blade),156.0,ZTE
+3637,Acer Liquid Metal S120 / Liquid mt,3.0,Acer
+3639,Archos 101 G8 Internet Tablet 16GB,11.0,Archos
+3641,Archos 101 G8 Internet Tablet 8GB,11.0,Archos
+3643,Commtiva Linx N700,31.0,Commtiva
+3645,Dell Venue Pro EU (Dell Lightning),39.0,Dell
+3647,HTC 7 Surround T8788 (HTC Mondrian),61.0,HTC
+3649,HTC 7 Trophy T8686 (HTC Spark),61.0,HTC
+3651,HTC Desire Z US (HTC Vision),61.0,HTC
+3653,HTC Gratia (HTC Liberty),61.0,HTC
+3655,HTC T9199 (HTC Oboe),61.0,HTC
+3657,LG C900k Quantum (LG Pacific),77.0,LG Electronics
+3659,LG LS670 Optimus S,77.0,LG Electronics
+3661,LG US740 Apex,77.0,LG Electronics
+3663,LG VS660 Vortex,77.0,LG Electronics
+3665,MAG iMiTO iM7S,78.0,MAG Digital
+3667,Motorola Citrus WX445 (Motorola Ciena),87.0,Motorola
+3669,Motorola DEFY MB525 (Motorola Jordan),87.0,Motorola
+3671,Motorola DROID 2 Global A956,87.0,Motorola
+3673,Motorola DROID Pro XT610 (Motorola Venus),87.0,Motorola
+3675,Motorola Milestone 2 A954,87.0,Motorola
+3677,Motorola MING A1260,87.0,Motorola
+3679,Motorola Spice XT300,87.0,Motorola
+3681,Nokia C5-03,92.0,Nokia Corporation
+3683,Notion Ink Adam Variant A 32GB,93.0,Notion Ink
+3685,Notion Ink Adam Variant B 32GB,93.0,Notion Ink
+3687,NTT DoCoMo Galaxy Tab 7.0 SC-01C,94.0,"NTT DOCOMO, Inc"
+3689,Palm Pre 2 GSM NA,102.0,Palm
+3691,QiGi T900 ,107.0,QiGi
+3693,QiGi U700 / U700D,107.0,QiGi
+3695,RIM BlackBerry Bold 9780 (RIM Onyx Delta),21.0,BlackBerry Limited
+3697,Samsung GT-i5500M Galaxy Europa,113.0,Samsung
+3699,Samsung GT-i5510 Galaxy 551,113.0,Samsung
+3701,Samsung GT-i9000M Galaxy S Vibrant,113.0,Samsung
+3703,Samsung GT-P1000N Galaxy Tab 7.0,113.0,Samsung
+3705,Samsung SCH-I400 Galaxy S Continuum,113.0,Samsung
+3707,Samsung SGH-i917 Focus (Samsung Cetus),113.0,Samsung
+3709,Samsung SGH-i987 Galaxy Tab 7.0,113.0,Samsung
+3711,Samsung SGH-T959D Galaxy S Fascinate 3G+,113.0,Samsung
+3713,Sharp IS03,115.0,Sharp Corporation
+3715,Sprint Samsung SPH-P100 Galaxy Tab 7.0,126.0,Sprint Corporation
+3717,T-Mobile BlackBerry Bold 9780 (RIM Onyx Delta),128.0,T-Mobile
+3719,T-Mobile Comet U8150-B (Huawei Ideos U8150),128.0,T-Mobile
+3721,T-Mobile HTC HD7,128.0,T-Mobile
+3723,T-Mobile myTouch HD / myTouch 4G (HTC Glacier),128.0,T-Mobile
+3725,T-Mobile Samsung SGH-T849 Galaxy Tab 7.0,128.0,T-Mobile
+3727,Toshiba TG02,136.0,Toshiba Corporation
+3729,Verizon Samsung SCH-i800 Galaxy Tab 7.0,143.0,Verizon Communications
+3731,ViewSonic gTablet,145.0,ViewSonic
+3733,ViewSonic ViewPad 7,145.0,ViewSonic
+3735,Acer beTouch E140,3.0,Acer
+3737,Blu Tango D100,69.0,Into Blu
+3739,Creative ZiiO 10,36.0,Creative Technology Ltd
+3741,HTC Aria S31HT (HTC Liberty),61.0,HTC
+3743,HTC Tianxi A9188,61.0,HTC
+3745,HTC Wildfire A3380 (HTC Tianyi),61.0,HTC
+3747,Huawei Ideos S7-104,62.0,Huawei
+3749,LG E720 Optimus Chic,77.0,LG Electronics
+3751,LG US670 Optimus U,77.0,LG Electronics
+3753,Samsung GT-i9020T Nexus S (Samsung Soju),113.0,Samsung
+3755,SoftBank 001HT Desire HD (HTC Ace),122.0,SoftBank
+3757,SoftBank 003SH Galapagos,122.0,SoftBank
+3759,SoftBank 003Z (ZTE Blade),122.0,SoftBank
+3761,T-Mobile Blade (ZTE Blade),128.0,T-Mobile
+3763,T-Mobile Dell Venue Pro 16GB (Dell Lightning),128.0,T-Mobile
+3765,T-Mobile Dell Venue Pro 8GB (Dell Lightning),128.0,T-Mobile
+3767,Toshiba FOLIO 100,136.0,Toshiba Corporation
+3769,ZTE Light Tab (ZTE V9),156.0,ZTE
+3771,ZTE V880 (ZTE Blade),156.0,ZTE
+3773,Dell Venue Pro NA (Dell Lightning),39.0,Dell
+3775,HTC 7 Pro (HTC Gold),61.0,HTC
+3777,Huawei Ideos X5 U8800H,62.0,Huawei
+3779,LG AS740 Axis,77.0,LG Electronics
+3781,LG LU3000 Optimus Mach,77.0,LG Electronics
+3783,LG P990 Optimus 2X (LG Star),77.0,LG Electronics
+3785,Meizu M9,80.0,"Meizu Technology Co., Ltd"
+3787,Onkyo TA117C1,97.0,Onkyo Corporation
+3789,Onkyo TA117C3,97.0,Onkyo Corporation
+3791,Optimus San Francisco (ZTE Blade),31.0,Commtiva
+3793,Samsung GT-i5510M Galaxy 551,113.0,Samsung
+3795,Samsung GT-i9010 Giorgio Armani Galaxy S,113.0,Samsung
+3797,Samsung GT-S5830T Galaxy Ace (Samsung Cooper),113.0,Samsung
+3799,Samsung SCH-i559 Galaxy Mini / Galaxy Pop,113.0,Samsung
+3801,Sprint HTC EVO Shift 4G (HTC Knight),126.0,Sprint Corporation
+3803,WellcoM A86,62.0,Huawei
+3805,"Apple iPhone 4 CDMA 16GB (Apple iPhone 3,2)",10.0,Apple Inc
+3807,Dell Streak 7 4G / Looking Glass (Dell Opus One),39.0,Dell
+3809,Dell Venue (Dell Thunder),39.0,Dell
+3811,Dell Venue NA (Dell Thunder),39.0,Dell
+3813,HTC Inspire 4G A9192 (HTC Stallion),61.0,HTC
+3815,LG VM670 Optimus V,77.0,LG Electronics
+3817,Motorola Atrix 4G MB860 (Motorola Olympus),87.0,Motorola
+3819,Nokia C6-02,92.0,Nokia Corporation
+3821,Nokia E7-00,92.0,Nokia Corporation
+3823,NTT DoCoMo Optimus Chat L-04C,94.0,"NTT DOCOMO, Inc"
+3825,Palm Pre 2,102.0,Palm
+3827,Samsung GT-i9003 Galaxy SL,113.0,Samsung
+3829,Samsung GT-S5570 Galaxy Mini,113.0,Samsung
+3831,Samsung GT-S5660 Galaxy Gio,113.0,Samsung
+3833,Samsung GT-S5670 Galaxy Fit,113.0,Samsung
+3835,Samsung SCH-i100 Gem,113.0,Samsung
+3837,Samsung SCH-R910 Galaxy Indulge / Forte,113.0,Samsung
+3839,Samsung SGH-T959V Galaxy S 4G,113.0,Samsung
+3841,Samsung YP-GB1EW / YP-GB1EB Galaxy Player 16GB,113.0,Samsung
+3843,Sprint ZTE Optik (ZTE V55),126.0,Sprint Corporation
+3845,WellcoM A99 (Huawei U9000),62.0,Huawei
+3847,Ziss Pub,154.0,Ziss HongKong
+3849,Acer beTouch E210,3.0,Acer
+3851,Alcatel One Touch OT-890,6.0,Alcatel-Lucent
+3853,"Apple iPad 2 3G 64GB (Apple iPad 2, 4)",10.0,Apple Inc
+3855,Dell Streak 7 Wi-Fi (Dell Opus One),39.0,Dell
+3857,Geeksphone Zero,49.0,Foxconn Technology Group
+3859,Gigabyte GSmart G1310 / G1310D,53.0,Gigabyte Technology
+3861,Huawei Ideos S7-105,62.0,Huawei
+3863,Motorola PRO XT610 (Motorola Elway),87.0,Motorola
+3865,Motorola XOOM MZ600,87.0,Motorola
+3867,NEC Medias N-04C,91.0,NEC Corporationæ
+3869,NTT DoCoMo Xperia arc SO-01C (SE Anzu),94.0,"NTT DOCOMO, Inc"
+3871,Samsung GT-i9023 Nexus S (Samsung Soju),113.0,Samsung
+3873,Samsung YP-GB70EW / YP-GB70EB Galaxy Player 70 16GB,113.0,Samsung
+3875,Samsung YP-GB70NW / YP-GB70NB Galaxy Player 70 32GB,113.0,Samsung
+3877,Sharp SH7218U,115.0,Sharp Corporation
+3879,Sharp SH7228U,115.0,Sharp Corporation
+3885,Spice Mi-310,125.0,Spice Digital
+3887,Sprint HTC Arrive (HTC Gold C),126.0,Sprint Corporation
+3889,Telstra HTC HD7,61.0,HTC
+3891,Verizon HTC ThunderBolt 4G ADR6400 (HTC Mecha),143.0,Verizon Communications
+3893,Yarvik TAB210,150.0,Yarvik Nextec
+3895,Acer liquidmini E310 B,3.0,Acer
+3897,Asus Eee Pad Transformer TF101 16GB,14.0,Asus
+3899,HTC Flyer Wi-Fi P512,61.0,HTC
+3901,HTC HD7S,61.0,HTC
+3903,HTC Incredible S CDMA,61.0,HTC
+3905,HTC Incredible S710e,61.0,HTC
+3907,HTC Wildfire A315c (HTC Bee),61.0,HTC
+3909,Huawei Ideos X3 (Huawei U8510),62.0,Huawei
+3911,INQ Cloud Touch,67.0,Inq Mobile
+3913,KDDI HTC EVO WiMAX ISW11HT,74.0,Kyocera Corporation
+3915,Kyocera Echo M9300,74.0,Kyocera Corporation
+3917,Motorola PRO XT610 A (Motorola Elway),87.0,Motorola
+3919,Motorola XOOM MZ601 / MZ603 / MZ605,87.0,Motorola
+3921,Nokia C7 Astound,92.0,Nokia Corporation
+3923,Olivetti OliPad 100,132.0,Telecom Italia
+3925,RIM BlackBerry PlayBook 16GB,21.0,BlackBerry Limited
+3927,RIM BlackBerry PlayBook 32GB,21.0,BlackBerry Limited
+3929,RIM BlackBerry PlayBook 64GB,21.0,BlackBerry Limited
+3931,Samsung GT-B7510 Galaxy Pro,113.0,Samsung
+3933,Samsung GT-P1010 Galaxy Tab 7.0 Wi-Fi 16GB,113.0,Samsung
+3935,Samsung GT-P7100 Galaxy Tab 10.1v 16GB,113.0,Samsung
+3937,Samsung SCH-R930 Galaxy S Aviator (Samsung Stealth),113.0,Samsung
+3939,Samsung SPH-M820 Galaxy Prevail,113.0,Samsung
+3941,T-Mobile P999 G2X (LG Star),128.0,T-Mobile
+3943,T-Mobile SGH-T839 Sidekick 4G,128.0,T-Mobile
+3945,Acer Iconia Smart S300,3.0,Acer
+3947,Ainol mini NOVO5 Basic,116.0,"Shenzhen Ainol Electronics Co., Ltd"
+3949,Alcatel One Touch OT-890D,6.0,Alcatel-Lucent
+3951,Cincinnati Bell Huawei Ascend X (Huawei U9000),28.0,Cincinnati Bell
+3953,Gigabyte GSmart G1317D Rola,53.0,Gigabyte Technology
+3955,HP Palm Veer 4G GSM NA,58.0,Hewlett-Packard
+3957,HTC Flyer 4G P515E,61.0,HTC
+3959,HTC Flyer P510E,61.0,HTC
+3961,HTC Merge ADR6325 (HTC Lexikon ),61.0,HTC
+3963,HTC Panache 4G / Emerald (HTC Glacier),61.0,HTC
+3965,HTC Salsa C510e,61.0,HTC
+3967,HTC Sensation (HTC Pyramid),61.0,HTC
+3969,HTC Wildfire S A510E (HTC Marvel),61.0,HTC
+3971,Huawei Ideos S7-201u Slim,62.0,Huawei
+3973,Huawei Ideos X6 (Huawei U9000),62.0,Huawei
+3975,LG P970 Optimus Black / Optimus Schwarz,77.0,LG Electronics
+3977,LG VS910 Revolution 4G,77.0,LG Electronics
+3979,Motorola DROID X2 MB870 / X 2 (Motorola Daytona),87.0,Motorola
+3981,Nokia E6-00,92.0,Nokia Corporation
+3983,Rogers LG V905 Optimus Pad,109.0,Rogers Wireless
+3985,Samsung GT-i9001 Galaxy S Plus / Galaxy S 2011 Edition,113.0,Samsung
+3987,Samsung GT-i9100 Galaxy S II 16GB,113.0,Samsung
+3989,Samsung GT-P7500 Galaxy Tab 10.1 16GB / Galaxy Tab 750 (Samsung Arnold),113.0,Samsung
+3991,Samsung GT-P7500 Galaxy Tab 10.1 32GB (Samsung Arnold),113.0,Samsung
+3993,Samsung GT-S5830I Galaxy Ace,113.0,Samsung
+3995,Samsung SCH-i510 Droid Charge 4G LTE (Samsung Stealth),113.0,Samsung
+3997,Samsung SGH-i997 Galaxy S Infuse 4G,113.0,Samsung
+3999,Samsung SHW-M250S Galaxy S II,113.0,Samsung
+4001,Samsung SPH-D720 Nexus S 4G (Samsung Soju),113.0,Samsung
+4003,Samsung SPH-M580 Replenish,113.0,Samsung
+4005,Samsung YP-G1CW / YP-G1CB Galaxy S WiFi 4.0 8GB,113.0,Samsung
+4007,Samsung YP-G1EW / YP-G1EB Galaxy S WiFi 4.0 16GB,113.0,Samsung
+4009,Samsung YP-G70CW / YP-G70CB Galaxy S WiFi 5.0 8GB,113.0,Samsung
+4013,T-Mobile LG V909 G-Slate,128.0,T-Mobile
+4015,ViewSonic ViewPad 10s,145.0,ViewSonic
+4017,ViewSonic ViewPad 10s 3G,145.0,ViewSonic
+4019,Ziss Jet Tablet,154.0,Ziss HongKong
+4021,ZTE Light Tab Pro (ZTE V9C),156.0,ZTE
+4023,Acer Iconia Tab A500 16GB,3.0,Acer
+4025,Alcatel One Touch OT-990A,6.0,Alcatel-Lucent
+4027,BN NOOK Simple Touch WiFi,18.0,Barnes & Noble
+4029,Gigabyte GSmart G1315 Skate,53.0,Gigabyte Technology
+4031,Hannspree HANNS pad SN-10T1,57.0,HannStar Display Corporation
+4033,HP Palm Veer GSM EU,58.0,Hewlett-Packard
+4035,HTC ChaCha A810e / ChaChaCha,61.0,HTC
+4037,Huawei Boulder U8350,62.0,Huawei
+4039,Huawei Ideos X1 U8180 (Huawei Gaga),62.0,Huawei
+4041,KDDI Xperia acro au IS11S,74.0,Kyocera Corporation
+4043,LG P920 Optimus 3D,77.0,LG Electronics
+4045,Motorola MOTO XT882,87.0,Motorola
+4047,NEC Medias WP N-06C,91.0,NEC Corporationæ
+4049,NTT DoCoMo Xperia acro SO-02C (SE Azusa),94.0,"NTT DOCOMO, Inc"
+4051,Optimus Stockholm U8180 (Huawei Gaga),31.0,Commtiva
+4053,Panasonic Sweety 003P,103.0,Panasonic
+4055,Samsung GT-i9100 Galaxy S II 32GB,113.0,Samsung
+4057,Samsung GT-P7510 Galaxy Tab 10.1 Wi-Fi 16GB,113.0,Samsung
+4059,Samsung SCH-R915 Indulge,113.0,Samsung
+4061,Samsung SGH-T499 Dart (Samsung Tass),113.0,Samsung
+4063,Samsung SGH-T589 Gravity SMART / Gravity Touch 2,113.0,Samsung
+4065,Samsung SGH-T759 Exhibit 4G,113.0,Samsung
+4067,Samsung SHW-M250K Galaxy S II,113.0,Samsung
+4069,Samsung SHW-M380K Galaxy Tab 10.1 3G 16GB,113.0,Samsung
+4077,Sprint HTC EVO 3D (HTC Shooter),126.0,Sprint Corporation
+4079,T-Mobile HTC Sensation 4G (HTC Pyramid),128.0,T-Mobile
+4081,T-Mobile Move,128.0,T-Mobile
+4083,Toshiba THRiVE AT100 32GB / AT105-T1032,136.0,Toshiba Corporation
+4085,Toshiba THRiVE AT100-100 16GB / AT105-T1016,136.0,Toshiba Corporation
+4087,ViewSonic ViewPhone 3 V350,145.0,ViewSonic
+4089,Vodafone 858 Smart (Huawei U8160),146.0,Vodafone
+4091,Yarvik TAB310,150.0,Yarvik Nextec
+4093,Ziss Jet Touch Tablet,154.0,Ziss HongKong
+4095,Alcatel One Touch OT-906,6.0,Alcatel-Lucent
+4097,Asus Eee Pad Transformer TF101G 32GB,14.0,Asus
+4099,HP Palm TouchPad 16GB (Palm Topaz),58.0,Hewlett-Packard
+4101,HP Palm TouchPad 32GB (Palm Topaz),58.0,Hewlett-Packard
+4103,HTC EVO 3D X515 (HTC Shooter),61.0,HTC
+4105,HTC Status,61.0,HTC
+4107,HTC Weike C510E,61.0,HTC
+4109,Huawei M835,62.0,Huawei
+4111,Huawei Sonic (Huawei U8650),62.0,Huawei
+4113,LG C660 Optimus Pro,77.0,LG Electronics
+4115,Motorola Atrix ME860 / MB861 (Motorola Olympus),87.0,Motorola
+4117,Motorola DROID3 XT862 / DROID 3 (Motorola Solana),87.0,Motorola
+4119,Motorola PHOTON 4G MB855,87.0,Motorola
+4121,Motorola SPICE Key XT316,87.0,Motorola
+4123,Motorola Titanium,87.0,Motorola
+4125,Nokia 702T,92.0,Nokia Corporation
+4127,Nokia T7-00,92.0,Nokia Corporation
+4129,Samsung GT-i9020A Nexus S (Samsung Soju),113.0,Samsung
+4133,T-Mobile HTC Wildfire S (HTC Marvel),128.0,T-Mobile
+4135,Verizon HTC Droid Incredible 2 ADR6350,143.0,Verizon Communications
+4137,Verizon Samsung SCH-i905 Galaxy Tab 10.1 4G 32GB,143.0,Verizon Communications
+4139,Vizio Via Tablet VTAB1008,27.0,Chi Mei Communication Systems
+4141,Acer Iconia Tab A100 16GB,3.0,Acer
+4143,Acer Iconia Tab A100 8GB,3.0,Acer
+4145,Alcatel One Touch OT-891 Soul,6.0,Alcatel-Lucent
+4147,Alcatel One Touch OT-908,6.0,Alcatel-Lucent
+4149,Alcatel One Touch OT-990 / OT-990M,6.0,Alcatel-Lucent
+4151,Apple iPad 2 CDMA 64GB,10.0,Apple Inc
+4153,Gigabyte GSmart G1345,53.0,Gigabyte Technology
+4155,HP Palm Pre3 16GB GSM EU,58.0,Hewlett-Packard
+4157,Huawei Ideos X5 Pro,62.0,Huawei
+4159,KDDI Fujitsu-Toshiba IS12T,74.0,Kyocera Corporation
+4161,Lenovo LePad A1-07 WiFi 16GB,76.0,Lenovo
+4163,Lenovo ThinkPad Tablet WiFi 16GB,76.0,Lenovo
+4165,LG P929 Thrill 4G,77.0,LG Electronics
+4167,M3Mobile M3 Edu MC-1100,85.0,Mobile Compia
+4169,M3Mobile M3 Smart,85.0,Mobile Compia
+4171,Nokia C5-00.1 5MP,92.0,Nokia Corporation
+4173,Orange Monte Carlo (ZTE Skate),100.0,Orange UK
+4175,RIM BlackBerry Bold Touch 9900 (RIM Pluto),21.0,BlackBerry Limited
+4177,RIM BlackBerry Bold Touch 9930 (RIM Montana),21.0,BlackBerry Limited
+4179,RIM BlackBerry Curve 9360 (RIM Apollo),21.0,BlackBerry Limited
+4181,RIM BlackBerry Torch 9810 (RIM Jennings),21.0,BlackBerry Limited
+4183,RIM BlackBerry Torch 9850 (RIM Monaco),21.0,BlackBerry Limited
+4185,RIM BlackBerry Torch 9860 (RIM Monza),21.0,BlackBerry Limited
+4187,Rogers HTC EVO 3D (HTC Shooter),109.0,Rogers Wireless
+4189,Samsung GT-i9103 Galaxy Z / Galaxy R,113.0,Samsung
+4191,Samsung SCH-M828C Galaxy Precedent,113.0,Samsung
+4193,Samsung SCH-R720 Admire,113.0,Samsung
+4195,Samsung SGH-i997R Galaxy S Infuse 4G,113.0,Samsung
+4197,Sharp Galapagos 7 A01SH Media Tablet,115.0,Sharp Corporation
+4213,T-Mobile LG P699 Optimus II (LG Gelato),128.0,T-Mobile
+4215,Yarvik TAB211,150.0,Yarvik Nextec
+4217,Yarvik TAB250,150.0,Yarvik Nextec
+4219,Yarvik TAB410,150.0,Yarvik Nextec
+4221,ZTE Light Tab 2 (ZTE V9 Plus),156.0,ZTE
+4223,Ainol NOVO8 Advanced,116.0,"Shenzhen Ainol Electronics Co., Ltd"
+4225,Archos 101 G9 16GB,11.0,Archos
+4227,Archos 101 G9 250GB,11.0,Archos
+4229,Archos 80 G9 16GB,11.0,Archos
+4231,Archos 80 G9 250GB,11.0,Archos
+4233,HP Palm Pre3 16GB,58.0,Hewlett-Packard
+4235,HP Palm TouchPad 4G 32GB (Palm Topaz),58.0,Hewlett-Packard
+4237,HTC Explorer (HTC Pico),61.0,HTC
+4239,HTC Jetstream (HTC Puccini),61.0,HTC
+4241,HTC Rhyme (HTC Bliss),61.0,HTC
+4243,HTC Rhyme S510b (HTC Bliss),61.0,HTC
+4245,HTC Sensation Z710T,61.0,HTC
+4247,Huawei Ascend II M865,62.0,Huawei
+4249,Huawei Deuce U8520,62.0,Huawei
+4251,Huawei U8800 Impulse 4G,62.0,Huawei
+4253,LG P920H Optimus 3D,77.0,LG Electronics
+4255,M3Mobile M3 Sky+,85.0,Mobile Compia
+4257,Motorola Atrix (Motorola Olympus),87.0,Motorola
+4259,Motorola DROID Bionic XT875 (Motorola Targa),87.0,Motorola
+4261,Nokia 700 (Nokia Zeta),92.0,Nokia Corporation
+4263,Nokia 701 (Nokia Helen),92.0,Nokia Corporation
+4265,Nokia N9 16GB (Nokia Lankku),92.0,Nokia Corporation
+4267,Nokia N9 64GB (Nokia Lankku),92.0,Nokia Corporation
+4269,Pantech Breakout,104.0,Pantech
+4271,RIM BlackBerry Curve 9370,21.0,BlackBerry Limited
+4273,Samsung GT-P7310 Galaxy Tab 8.9 Wi-Fi 16GB,113.0,Samsung
+4275,Samsung SCH-i919,113.0,Samsung
+4277,Samsung SPH-D710 Galaxy S2 Epic Touch 4G (Samsung Within),113.0,Samsung
+4279,SoftBank 007HW Vision (Huawei U8850),122.0,SoftBank
+4291,Sony Tablet S 3G 16GB (Sony S1),123.0,Sony Corporation
+4293,Sony Tablet S WiFi 32GB (Sony S1),123.0,Sony Corporation
+4295,T-Mobile BlackBerry Bold Touch 9900 4G (RIM Pluto),128.0,T-Mobile
+4297,Verizon HTC Rhyme ADR6330,143.0,Verizon Communications
+4299,ZTE Libra,156.0,ZTE
+4301,ZTE Skate,156.0,ZTE
+4303,Apple iPhone 4S 16GB,10.0,Apple Inc
+4305,Asus Eee Pad Slider SL101 16GB,14.0,Asus
+4307,DataWind Aakash UbiSlate 7,38.0,DataWind
+4309,HTC EVO Design 4G / Acquire (HTC Kingdom),61.0,HTC
+4311,HTC Hero S (HTC Kingdom),61.0,HTC
+4313,HTC Radar C110E (HTC Omega),61.0,HTC
+4315,HTC Sensation XE,61.0,HTC
+4317,HTC Sensation XL X315 / Bass (HTC Runnymede),61.0,HTC
+4319,HTC Titan X310E (HTC Eternity),61.0,HTC
+4321,Huawei S7-301u MediaPad,62.0,Huawei
+4323,KDDI HTC EVO 3D ISW12HT (HTC Shooter),74.0,Kyocera Corporation
+4325,Kyocera Milano (Kyocera Oblique),74.0,Kyocera Corporation
+4327,Kyocera Milano (Kyocera Oblique) ,74.0,Kyocera Corporation
+4329,LG E510 Optimus Hub (LG Univa),77.0,LG Electronics
+4331,LG LS855 Marquee,77.0,LG Electronics
+4333,LG SU640 Optimus LTE,77.0,LG Electronics
+4335,Motorola Atrix 2 MB865 A (Motorola Fuath),87.0,Motorola
+4337,Motorola ELECTRIFY,87.0,Motorola
+4339,Motorola ET1 Enterprise Tablet,87.0,Motorola
+4341,Motorola MOTO XT319,87.0,Motorola
+4343,Motorola Pro+ MB632 (Motorola Elway Plus),87.0,Motorola
+4345,Motorola XOOM MZ505 Family Edition,87.0,Motorola
+4347,Motorola XOOM MZ602 4G LTE,87.0,Motorola
+4349,Nokia C5-05,92.0,Nokia Corporation
+4351,Nokia C5-06,92.0,Nokia Corporation
+4353,Pantech Vega LTE IM-A800S SKY,104.0,Pantech
+4355,RIM BlackBerry Curve 9350 (RIM Sedona),21.0,BlackBerry Limited
+4357,Rogers HTC Raider (HTC Holiday),109.0,Rogers Wireless
+4359,Samsung GT-i8150 Galaxy W (Samsung Ancora),113.0,Samsung
+4361,Samsung GT-i8350 Omnia W,113.0,Samsung
+4363,Samsung GT-i9220 Galaxy Note 16GB,113.0,Samsung
+4365,Samsung GT-i9220 Galaxy Note 32GB,113.0,Samsung
+4367,Samsung GT-N7000 / GT-N7000B Galaxy Note 16GB,113.0,Samsung
+4369,Samsung GT-N7000 Galaxy Note 32GB,113.0,Samsung
+4371,Samsung GT-P7560 Galaxy Tab 7.0 Plus 16GB,113.0,Samsung
+4373,Samsung GT-P7560 Galaxy Tab 7.0 Plus 32GB,113.0,Samsung
+4375,Samsung GT-S5360 Galaxy Y,113.0,Samsung
+4377,Samsung GT-S5690 Galaxy Xcover / Xtreme,113.0,Samsung
+4379,Samsung SCH-i405 Stratosphere 4G (Samsung Aegis),113.0,Samsung
+4381,Samsung SGH-i777 Galaxy S II (Samsung Singa),113.0,Samsung
+4383,Samsung SGH-T989D Galaxy S II X (Samsung Hercules),113.0,Samsung
+4385,Samsung SHV-E110S Galaxy S II LTE (Samsung Celox),113.0,Samsung
+4387,Samsung YP-GS1CB / YP-GS1CW / Galaxy Player 3.6 / Galaxy S WiFi 3.6 8GB ,113.0,Samsung
+4389,Samsung YP-GS1EB / YP-GS1EW Galaxy Player 3.6 16GB ,113.0,Samsung
+4393,T-Mobile HTC Amaze 4G (HTC Ruby),128.0,T-Mobile
+4395,T-Mobile Rapport (Huawei Gaga),128.0,T-Mobile
+4397,T-Mobile Samsung SGH-T989 Galaxy S II (Samsung Hercules),128.0,T-Mobile
+4399,Toshiba Regza Tablet AT3S0 35D,136.0,Toshiba Corporation
+4401,ViewSonic ViewPad 10e,145.0,ViewSonic
+4403,ViewSonic ViewPad 7e,145.0,ViewSonic
+4405,Xiaomi Mi-One / MI-1,149.0,Xiaomi Inc
+4407,ZTE Tureis,156.0,ZTE
+4409,Acer Liquid Express E320 (Acer C6),3.0,Acer
+4411,Amazon Kindle Fire,7.0,Amazon
+4413,BN NOOK Tablet 16GB,18.0,Barnes & Noble
+4415,HTC Raider 4G (HTC Holiday),61.0,HTC
+4417,HTC Vivid (HTC Holiday),61.0,HTC
+4419,Lenovo IdeaPad Tablet A1 WiFi 16GB,76.0,Lenovo
+4421,Lenovo IdeaPad Tablet A1 WiFi 2GB,76.0,Lenovo
+4423,Lenovo S2 16GB,76.0,Lenovo
+4425,LG C729 DoublePlay ,77.0,LG Electronics
+4427,LG P935 Optimus 4G LTE / P930,77.0,LG Electronics
+4429,Motorola Atrix 2 ME865 / MB865 (Motorola Edison),87.0,Motorola
+4431,Motorola DROID RAZR XT912 (Motorola Spyder),87.0,Motorola
+4433,Motorola Pro+ 4G MB632 (Motorola Elway Plus),87.0,Motorola
+4435,Motorola XOOM2 Media Edition WiFi MZ607 32GB / XOOM 2 ME,87.0,Motorola
+4437,Nokia 603,92.0,Nokia Corporation
+4439,Nokia Lumia 710  (Nokia Sabre),92.0,Nokia Corporation
+4441,Nokia Lumia 800  (Nokia Sea Ray),92.0,Nokia Corporation
+4443,NTT DoCoMo LG Optimus LTE L-01D,94.0,"NTT DOCOMO, Inc"
+4445,NTT DoCoMo SC-03D Galaxy S II LTE (Samsung Celox),94.0,"NTT DOCOMO, Inc"
+4447,Pantech Pocket,104.0,Pantech
+4449,RIM BlackBerry Bold 9790 (RIM Bellagio),21.0,BlackBerry Limited
+4451,Samsung GT-i9250 Galaxy Nexus 16 GB / Prime (Samsung Yakju),113.0,Samsung
+4453,Samsung GT-P6210 Galaxy Tab 7.0 Plus WiFi 16GB,113.0,Samsung
+4455,Samsung SCH-i110 Illusion,113.0,Samsung
+4457,Samsung SCH-R680 Repp,113.0,Samsung
+4459,Samsung SGH-i677 Focus Flash,113.0,Samsung
+4461,Samsung SGH-i727R Galaxy SII LTE (Samsung Celox),113.0,Samsung
+4463,Samsung SGH-i857 DoubleTime (Samsung Habrok),113.0,Samsung
+4465,Samsung SGH-i927 Captivate Glide (Samsung Gidim),113.0,Samsung
+4467,Samsung SGH-i957 Galaxy Tab 8.9 4G LTE 64GB,113.0,Samsung
+4469,Samsung SGH-T679M Galaxy W 4G (Samsung Ancora),113.0,Samsung
+4479,T-Mobile BlackBerry Torch 9810 (RIM Jennings),128.0,T-Mobile
+4481,T-Mobile HTC Radar 4G (HTC Omega),128.0,T-Mobile
+4483,T-Mobile LG C800 myTouch Q,128.0,T-Mobile
+4485,T-Mobile LG E739 myTouch,128.0,T-Mobile
+4487,T-Mobile Samsung SGH-T869 Galaxy Tab 7.0 Plus 4G,128.0,T-Mobile
+4489,TMN Smart A7 (ZTE V875),156.0,ZTE
+4491,Verizon HTC Rezound ADR6425 (HTC Vigor),143.0,Verizon Communications
+4493,Vertu Constellation T,92.0,Nokia Corporation
+4495,ZTE Racer II (ZTE Arizona),156.0,ZTE
+4497,ZTE Style Q,156.0,ZTE
+4499,ZTE Warp,156.0,ZTE
+4501,Acer Allegro M310 (Acer W4),3.0,Acer
+4503,Ainol NOVO7 Advanced,116.0,"Shenzhen Ainol Electronics Co., Ltd"
+4505,Ainol NOVO7 Basic,116.0,"Shenzhen Ainol Electronics Co., Ltd"
+4507,Alcatel One Touch OT-909S / OT-909A,6.0,Alcatel-Lucent
+4509,Alcatel One Touch OT-918,6.0,Alcatel-Lucent
+4511,Huawei Honor (Huawei U8860),62.0,Huawei
+4513,Huawei Mercury M886 (Huawei Glory),62.0,Huawei
+4515,Lenovo LePad S2005,76.0,Lenovo
+4517,Lenovo LePad S2007,76.0,Lenovo
+4519,Lenovo LePad S2010,76.0,Lenovo
+4521,LG AS680 Optimus 2,77.0,LG Electronics
+4523,LG KU5400 Prada 3.0 (LG K2),77.0,LG Electronics
+4525,LG LS700 Optimus Slider (LG Gelato Q),77.0,LG Electronics
+4527,LG LU6200 Optimus LTE,77.0,LG Electronics
+4529,LG P930 Nitro HD,77.0,LG Electronics
+4531,LG P940 Prada 3.0 (LG K2),77.0,LG Electronics
+4533,LG SU540 Prada 3.0 (LG K2),77.0,LG Electronics
+4535,LG SU880 Optimus EX,77.0,LG Electronics
+4537,Motorola DROID XYBOARD 8.2 MZ609 32GB,87.0,Motorola
+4539,Motorola MOTOLUXE XT615,87.0,Motorola
+4541,Motorola RAZR XT910 (Motorola Spyder),87.0,Motorola
+4543,Motorola XOOM2 Media Edition MZ608 16GB / XOOM 2 ME,87.0,Motorola
+4545,Motorola XOOM2 MZ616 32GB / XOOM 2,87.0,Motorola
+4547,Motorola XOOM2 WiFi MZ615 32GB / XOOM 2,87.0,Motorola
+4549,RIM BlackBerry Curve Touch 9380 (RIM Orlando),21.0,BlackBerry Limited
+4551,Samsung GT-P6200 Galaxy Tab 7.0 Plus 16GB,113.0,Samsung
+4553,Samsung GT-P6800 Galaxy Tab 7.7 64GB,113.0,Samsung
+4555,Samsung GT-P6810 Galaxy Tab 7.7 WiFi 16GB,113.0,Samsung
+4557,Samsung SCH-i515 Galaxy Nexus (Samsung Prime),113.0,Samsung
+4559,Samsung SCH-R720 Vitality,113.0,Samsung
+4561,Samsung SGH-i727 Galaxy S II Skyrocket,113.0,Samsung
+4563,Samsung SGH-T859 Galaxy Tab 10.1 4G 16GB (Samsung Arnold),113.0,Samsung
+4565,Samsung SHV-E120K Galaxy S II HD (Samsung Dali),113.0,Samsung
+4567,Samsung SHV-E120S Galaxy S II HD LTE (Samsung Dali),113.0,Samsung
+4569,Samsung SHV-E160L Galaxy Note LTE,113.0,Samsung
+4571,Samsung SHV-E160S Galaxy Note LTE,113.0,Samsung
+4573,Sharp Aquos SH8298U,115.0,Sharp Corporation
+4575,SoftBank 008Z (ZTE Aglaia),122.0,SoftBank
+4577,SoftBank Sharp Aquos 102SH,122.0,SoftBank
+4579,Sony Walkman NW-Z1070 64GB,123.0,Sony Corporation
+4581,Toshiba THRiVE 7 32GB,136.0,Toshiba Corporation
+4583,Vodafone Smart Tab 7 (ZTE Web Tab 7),146.0,Vodafone
+4585,Yarvik GoTab Gravity TAB360,150.0,Yarvik Nextec
+4587,Yarvik GoTab Slimline TAB411,150.0,Yarvik Nextec
+4589,Yarvik GoTab Velocity TAB220,150.0,Yarvik Nextec
+4591,Yarvik GoTab Velocity TAB260,150.0,Yarvik Nextec
+4593,ZTE Blade S (ZTE Crescent),156.0,ZTE
+4595,ZTE V881 (ZTE Aglaia),156.0,ZTE
+4597,Acer Iconia Tab A200 8GB,3.0,Acer
+4599,Alcatel One Touch OT-910,6.0,Alcatel-Lucent
+4601,Asus Eee Pad Transformer Prime TF201 64GB,14.0,Asus
+4603,KDDI Fujitsu Arrows ES IS12F,74.0,Kyocera Corporation
+4605,LG E906 Jil Sander,77.0,LG Electronics
+4607,LG VS920 Spectrum 4G,77.0,LG Electronics
+4609,Meizu MX,80.0,"Meizu Technology Co., Ltd"
+4611,Mobile In Style ET-701 eden TAB,61.0,HTC
+4613,Motorola DROID RAZR MAXX XT912 (Motorola Spyder Max),87.0,Motorola
+4615,Motorola i940,87.0,Motorola
+4617,NTT DoCoMo Fujitsu Arrows Micro F-07D,94.0,"NTT DOCOMO, Inc"
+4619,Orange Tahiti,100.0,Orange UK
+4621,Pantech Element P4100,104.0,Pantech
+4623,Samsung GT-i9228 Galaxy Note,113.0,Samsung
+4625,Samsung GT-S6102 Galaxy Y Duos,113.0,Samsung
+4627,Samsung SHV-E120L Galaxy S II HD (Samsung Dali),113.0,Samsung
+4629,Samsung SHV-E160K Galaxy Note LTE,113.0,Samsung
+4631,Spice Mi-350n,125.0,Spice Digital
+4633,T-Mobile Nokia Lumia 710  (Nokia Sabre),128.0,T-Mobile
+4635,Yarvik GoTab Slimline TAB450,150.0,Yarvik Nextec
+4637,Yarvik GoTab Xerios TAB420,150.0,Yarvik Nextec
+4639,Yarvik GoTab Xerios TAB460,150.0,Yarvik Nextec
+4641,Alcatel One Touch OT-908F,6.0,Alcatel-Lucent
+4643,BN NOOK Tablet 8GB,18.0,Barnes & Noble
+4645,Fujitsu Stylistic M350/CA2,50.0,Fujitsu Ltd
+4647,HTC Radar NA (HTC Omega),61.0,HTC
+4649,Huawei Honor U8860-51 (Huawei U8860),62.0,Huawei
+4651,Lenovo LePhone S2-38AH0,76.0,Lenovo
+4653,LG E400 Optimus L3,77.0,LG Electronics
+4655,LG F100S Optimus Vu,77.0,LG Electronics
+4657,Motorola Defy Mini XT320,87.0,Motorola
+4659,Motorola MOTOSMART PLUS XT615,87.0,Motorola
+4661,NEC Medias LTE N-04D,91.0,NEC Corporationæ
+4663,RIM BlackBerry Porsche Design P'9981 ,21.0,BlackBerry Limited
+4665,Samsung GT-i9250 Galaxy Nexus 32GB / Prime (Samsung Yakju),113.0,Samsung
+4667,Samsung GT-P6201 Galaxy Tab 7.0 Plus N 16GB,113.0,Samsung
+4669,Samsung GT-S6108 Galaxy Y Pop,113.0,Samsung
+4671,Samsung SCH-i579 Galaxy Ace Duos,113.0,Samsung
+4673,Samsung SCH-R920 Galaxy Attain 4G,113.0,Samsung
+4675,Samsung SGH-i717 Galaxy Note LTE,113.0,Samsung
+4679,Sony Xperia NX SO-02D (Sony Nozomi),123.0,Sony Corporation
+4681,Telstra HTC Velocity 4G (HTC Holiday),61.0,HTC
+4683,Toshiba Excite 10 LE AT205 16GB,136.0,Toshiba Corporation
+4685,Toshiba Excite X10 AT200 16GB,136.0,Toshiba Corporation
+4687,Verizon Samsung SCH-i815 Galaxy Tab 7.7 LTE,143.0,Verizon Communications
+4689,Yarvik GoTab Exxa TAB465EUK / GoTab Zetta TAB467EUK,150.0,Yarvik Nextec
+4691,Yarvik GoTab Gravity TAB364,150.0,Yarvik Nextec
+4693,Yarvik GoTab Velocity TAB224,150.0,Yarvik Nextec
+4695,Yarvik GoTab Xerios TAB424,150.0,Yarvik Nextec
+4697,Yarvik GoTab Xerios TAB464,150.0,Yarvik Nextec
+4699,ZTE Blade II,156.0,ZTE
+4701,ZTE Light Tab 2 (ZTE V9A),156.0,ZTE
+4703,ZTE T72,156.0,ZTE
+4705,ZTE Tania (ZTE Spirit),156.0,ZTE
+4707,Alcatel One Touch OT-995,6.0,Alcatel-Lucent
+4709,Alcatel Venture,6.0,Alcatel-Lucent
+4711,Apple  iPad 3 4G LTE 16GB / New iPad / iPad 3rd generation,10.0,Apple Inc
+4713,Apple  iPad 3 4G LTE 32GB / New iPad / iPad 3rd generation,10.0,Apple Inc
+4715,Apple  iPad 3 4G LTE 64GB / New iPad / iPad 3rd generation,10.0,Apple Inc
+4717,Apple  iPad 3 WiFi 16GB / New iPad / iPad 3rd generation,10.0,Apple Inc
+4719,Apple iPad 3 CDMA 64GB / New iPad / iPad 3rd generation,10.0,Apple Inc
+4721,Apple iPhone 4S CT 64GB,10.0,Apple Inc
+4723,Asus Eee Pad MeMO 171 ME370T 16GB,14.0,Asus
+4725,Gigabyte GSmart G1355,53.0,Gigabyte Technology
+4727,Huawei Ascend G300 (Huawei U8815),62.0,Huawei
+4729,Huawei Ascend G300 NFC (Huawei U8815N),62.0,Huawei
+4731,Lenovo LePhone S2-38AT0 16GB,76.0,Lenovo
+4733,LG F100L Optimus Vu / Optimus Sketch,77.0,LG Electronics
+4735,LG VS840 Lucid 4G (LG Cayman),77.0,LG Electronics
+4737,Motorola RAZR IS12M XT909,87.0,Motorola
+4739,Motorola RAZR MAXX XT910 (Motorola Spyder Max),87.0,Motorola
+4741,NEC Medias ES N-05D,91.0,NEC Corporationæ
+4743,NTT DoCoMo Samsung SC-05D Galaxy Note LTE,94.0,"NTT DOCOMO, Inc"
+4745,Panasonic LUMIX Phone 102P,103.0,Panasonic
+4747,Samsung GT-i9250M Galaxy Nexus (Samsung Yakju),113.0,Samsung
+4749,Samsung GT-P5100 Galaxy Tab 2 10.1 16GB,113.0,Samsung
+4751,Samsung GT-P5100 Galaxy Tab 2 10.1 32GB,113.0,Samsung
+4753,Samsung GT-P7320 Galaxy Tab 8.9 LTE 16GB,113.0,Samsung
+4755,Samsung GT-S5570i Galaxy Mini Plus / Galaxy Pop Plus,113.0,Samsung
+4757,Samsung GT-S6500 Galaxy Mini 2 (Samsung Jena),113.0,Samsung
+4759,Samsung SCH-R760 Galaxy S II CDMA,113.0,Samsung
+4761,Samsung SHV-E150S Galaxy Tab 7.7 LTE M16,113.0,Samsung
+4763,Sony Tablet P (Sony S2),123.0,Sony Corporation
+4765,Sony Xperia acro HD SO-03D (Sony Hikari),123.0,Sony Corporation
+4767,Sony Xperia S LT26 / LT26i / Arc HD (Sony Nozomi),123.0,Sony Corporation
+4769,T-Mobile Samsung SGH-T769 Galaxy S Blaze 4G,128.0,T-Mobile
+4771,Toshiba Excite 10 LE AT205 32GB,136.0,Toshiba Corporation
+4773,Xiaomi Mi-One C1 / MI-1 C1,149.0,Xiaomi Inc
+4775,ZTE Fury N850,156.0,ZTE
+4777,ZTE Score X500 M,156.0,ZTE
+4779,Acer Iconia Tab A510,3.0,Acer
+4781,Alcatel One Touch OT-985,6.0,Alcatel-Lucent
+4783,Alcatel One Touch OT-985N,6.0,Alcatel-Lucent
+4785,Asus Transformer Pad 300 3G / Eee Pad Transformer Prime TF300TG,14.0,Asus
+4787,Asus Transformer Pad 300 WiFi / Eee Pad Transformer Prime TF300T,14.0,Asus
+4789,DataWind Aakash 2 UbiSlate 7+,38.0,DataWind
+4791,Emobile GS03 (Huawei U9200),62.0,Huawei
+4793,HTC Desire VC T328d,61.0,HTC
+4795,HTC Desire VT T328t,61.0,HTC
+4797,HTC One S Z250E / Z320E / Z520E (HTC Ville),61.0,HTC
+4799,HTC One V T320e (HTC Primo),61.0,HTC
+4801,HTC One X LTE / One X X325A (HTC Evita),61.0,HTC
+4803,HTC One X S720e (HTC Endeavor),61.0,HTC
+4805,Huawei Ascend P1 (Huawei U9200),62.0,Huawei
+4807,Huawei Ascend P1 S (Huawei U9200S),62.0,Huawei
+4809,Lava Xolo X900 (Intel Black Ray),75.0,LavaæInternational Ltd
+4811,Lenovo IdeaTab S2109 16GB,76.0,Lenovo
+4813,Lenovo IdeaTab S2109 32GB,76.0,Lenovo
+4815,Lenovo IdeaTab S2109 8GB,76.0,Lenovo
+4817,LG E610 Optimus L5,77.0,LG Electronics
+4819,LG P720 Optimus 3D Max / P725 (LG CX2),77.0,LG Electronics
+4821,LG P720H Optimus 3D Max (LG CX2),77.0,LG Electronics
+4823,Motorola MOTOLUXE XT390,87.0,Motorola
+4825,NEC Medias 101S,91.0,NEC Corporationæ
+4827,NEC Medias Tab N-06D LTE,91.0,NEC Corporationæ
+4829,Nokia Lumia 610,92.0,Nokia Corporation
+4831,Nokia Lumia 900 (Nokia Ace),92.0,Nokia Corporation
+4833,Nokia Lumia 900 4G LTE (Nokia Eloko),92.0,Nokia Corporation
+4835,Panasonic ELUGA dL1,103.0,Panasonic
+4837,Samsung GT-i9070 Galaxy S Advance 16GB,113.0,Samsung
+4839,Samsung GT-P3100 Galaxy Tab 2 7.0 32GB,113.0,Samsung
+4841,Samsung GT-P3110 Galaxy Tab 2 7.0 WiFi 16GB,113.0,Samsung
+4843,Samsung GT-S5690M Galaxy Rugby,113.0,Samsung
+4845,Samsung GT-S6500D Galaxy Mini 2 (Samsung Jena),113.0,Samsung
+4847,Samsung GT-S7508 Galaxy Ace Plus,113.0,Samsung
+4849,Samsung SGH-i847 Rugby Smart,113.0,Samsung
+4851,Sony Xperia acro HD IS12S (Sony Hayate),123.0,Sony Corporation
+4853,T-Mobile HTC One S (HTC Ville),128.0,T-Mobile
+4855,Yarvik GoTab Velocity TAB264,150.0,Yarvik Nextec
+4857,Yarvik GoTab Xerios TAB461EUK,150.0,Yarvik Nextec
+4859,Yarvik GoTab Zetta TAB468EUK,150.0,Yarvik Nextec
+4861,ZTE Orbit,156.0,ZTE
+4863,Alcatel One Touch OT-916,6.0,Alcatel-Lucent
+4865,Alcatel One Touch OT-916D,6.0,Alcatel-Lucent
+4867,Alcatel One Touch OT-985D,6.0,Alcatel-Lucent
+4869,Alcatel One Touch OT-995 Ultra,6.0,Alcatel-Lucent
+4871,HTC Desire C NFC A320e (HTC Golf),61.0,HTC
+4873,HTC One XL AU X325E / X325S / Edge (HTC Evita),61.0,HTC
+4875,Huawei Ascend C8812,62.0,Huawei
+4877,Huawei Ascend G305T (Huawei T8828),62.0,Huawei
+4879,KDDI HTC J ISW13HT (HTC Nippon),74.0,Kyocera Corporation
+4881,KDDI Urbano Progresso au KYY04,74.0,Kyocera Corporation
+4883,LG F-160L Optimus LTE 2 / LTE2,77.0,LG Electronics
+4885,LG F-160S Optimus LTE2,77.0,LG Electronics
+4887,LG P936 Optimus True HD LTE,77.0,LG Electronics
+4889,LG P940H Prada 3.0 (LG K2),77.0,LG Electronics
+4891,LG SU870 Optimus 3D Cube / Optimus 3D 2 (LG CX2),77.0,LG Electronics
+4893,Motorola Motosmart Mix XT550,87.0,Motorola
+4895,Nokia 808 PureView / 803,92.0,Nokia Corporation
+4897,Panasonic Toughpad FZ-A1,103.0,Panasonic
+4899,Prestigio MultiPad 5080 PMP5080C PRO,11.0,Archos
+4901,RIM BlackBerry Curve 9320 SKU1 (RIM Armstrong),21.0,BlackBerry Limited
+4903,RIM BlackBerry Curve 9320 SKU2 (RIM Armstrong),21.0,BlackBerry Limited
+4905,Samsung GT-i8160 Galaxy Ace 2,113.0,Samsung
+4907,Samsung GT-i9070P Galaxy S Advance NFC,113.0,Samsung
+4909,Samsung GT-i9210T Galaxy S II 4G AU (Samsung Celox),113.0,Samsung
+4911,Samsung GT-i9300 Galaxy S III 16GB / Galaxy S3,113.0,Samsung
+4913,Samsung GT-i9300 Galaxy S III 32GB,113.0,Samsung
+4915,Samsung GT-P5110 Galaxy Tab 2 10.1 WiFi 16GB,113.0,Samsung
+4917,Samsung SCH-S720C Galaxy Proclaim,113.0,Samsung
+4919,Samsung SGH-i667 Focus 2 (Samsung Mandel),113.0,Samsung
+4921,Samsung SPH-L700 Galaxy Nexus 4G LTE (Samsung Prime),113.0,Samsung
+4923,Samsung YP-GI1CW / YP-GI1CB / Galaxy Player 4.2 / Galaxy S WiFi 4.2 8GB,113.0,Samsung
+4925,Samsung YP-GI1EW / YP-GI1EB Galaxy Player 4.2 16GB,113.0,Samsung
+4927,Sharp SH330U,115.0,Sharp Corporation
+4929,Sony Xperia P LT22 / LT22i (Sony Nyphon),123.0,Sony Corporation
+4931,Sony Xperia Sola MT27 / MT27i (Sony Pepper),123.0,Sony Corporation
+4933,Sony Xperia U ST25 / ST25i (Sony Kumquat),123.0,Sony Corporation
+4935,Sony Xperia U ST25a (Sony Kumquat),123.0,Sony Corporation
+4937,Sprint HTC EVO 4G LTE / EVO One (HTC Jet),126.0,Sprint Corporation
+4939,T-Mobile Prism U8651 (Huawei Astro),128.0,T-Mobile
+4941,ZTE Skate Kis,156.0,ZTE
+4943,Acer Iconia Tab A510 Olympic Edition,3.0,Acer
+4945,Acer Iconia Tab A700 32GB,3.0,Acer
+4947,Alcatel One Touch OT-986,6.0,Alcatel-Lucent
+4949,Alcatel One Touch OT-991,6.0,Alcatel-Lucent
+4951,Asus Padfone,14.0,Asus
+4953,Asus Padfone A66 32GB,14.0,Asus
+4955,Asus Padfone A66 64GB,14.0,Asus
+4957,Hannspree HANNS pad SN-70T3,57.0,HannStar Display Corporation
+4959,HTC One S Z560E (HTC Ville C),61.0,HTC
+4961,HTC One XL EU / Edge (HTC Evita),61.0,HTC
+4963,HTC One XT S720t (HTC Supreme),61.0,HTC
+4965,Huawei Activa 4G (Huawei M920),62.0,Huawei
+4967,Huawei Ascend D1 (Huawei U9500),62.0,Huawei
+4969,KDDI Sharp Aquos Phone Serie ISW16SH,74.0,Kyocera Corporation
+4971,LG P880 Optimus 4X HD (LG X3),77.0,LG Electronics
+4973,Meizu MX Quad-Core / MX 4-core 32GB,80.0,"Meizu Technology Co., Ltd"
+4975,Meizu MX Quad-Core 64GB,80.0,"Meizu Technology Co., Ltd"
+4977,Motorola MOTO RAZR V MT887 (Motorola Yangtze),87.0,Motorola
+4979,Motorola Motosmart Mix XT553,87.0,Motorola
+4981,Motorola MOTOSMART XT390,87.0,Motorola
+4983,Motorola RAZR V XT889 (Motorola Yangtze),87.0,Motorola
+4985,Nokia Lumia 800C,92.0,Nokia Corporation
+4987,Nokia Lumia 900 Batman The Dark Knight Rises Limited Edition (Nokia Ace),92.0,Nokia Corporation
+4989,NTT DoCoMo Sharp Aquos Phone st SH-07D,94.0,"NTT DOCOMO, Inc"
+4991,Orange Dublin P752V (ZTE Kis),100.0,Orange UK
+4993,Orange Santa Diego / Santa Clara (Intel Black Ray),100.0,Orange UK
+4995,Samsung GT-i9050,113.0,Samsung
+4997,Samsung GT-S5690L Galaxy Xcover Extreme,113.0,Samsung
+4999,Samsung GT-S6358 Galaxy Ace,113.0,Samsung
+5001,Samsung GT-S7530 Omnia M / GT-S7530E ,113.0,Samsung
+5003,Samsung GT-S7530L Omnia M,113.0,Samsung
+5005,Samsung SCH-i939 Galaxy S III (Samsung Midas),113.0,Samsung
+5007,Samsung SGH-i577 Galaxy Exhilarate,113.0,Samsung
+5009,Samsung SGH-i827 Galaxy Appeal,113.0,Samsung
+5011,Samsung SGH-iT999 Galaxy S III,113.0,Samsung
+5013,Samsung SHW-M440S Galaxy S 3,113.0,Samsung
+5015,Sony Xperia Ion LT28 / LT28i (Sony Aoba),123.0,Sony Corporation
+5017,Sony Xperia Ion LT28at (Sony Aoba),123.0,Sony Corporation
+5019,Spice Mi-425 Stellar,125.0,Spice Digital
+5021,T-Mobile Samsung SGH-T999V Galaxy S III,128.0,T-Mobile
+5023,Toshiba Excite 7 T AT270 / Excite 7.7 AT275 32GB,136.0,Toshiba Corporation
+5025,Toshiba Regza Tablet AT500 36F,136.0,Toshiba Corporation
+5027,Toshiba Regza Tablet AT500 46F,136.0,Toshiba Corporation
+5029,Toshiba Regza Tablet AT570 36F,136.0,Toshiba Corporation
+5031,Toshiba Regza Tablet AT570 46F,136.0,Toshiba Corporation
+5033,Toshiba Regza Tablet AT700 46F,136.0,Toshiba Corporation
+5035,Toshiba Regza Tablet AT830 T6F,136.0,Toshiba Corporation
+5037,Vodafone Smart II (TCL V860),146.0,Vodafone
+5039,ZTE Atlas W,156.0,ZTE
+5041,Acer Iconia Tab A210 WiFi 16GB,3.0,Acer
+5043,Acer Iconia Tab A211 3G 8GB,3.0,Acer
+5045,Acer Iconia Tab A701 64GB,3.0,Acer
+5047,Asus Transformer Pad Infinity / Eee Pad Transformer Prime TF700T,14.0,Asus
+5049,Asus Transformer Pad Infinity 3G TF700TG 64GB,14.0,Asus
+5051,Google Nexus 7 16GB (Asus Nakasi),54.0,Google
+5053,Google Nexus 7 8GB (Asus Nakasi),54.0,Google
+5055,HTC One XC X720d (HTC Jel),61.0,HTC
+5057,Huawei Ascend D1 XL (Huawei U9500E),62.0,Huawei
+5059,Huawei Ascend G500D U8832D (Huawei Panama),62.0,Huawei
+5061,Huawei Ascend Y201 Pro (Huawei U8666E),62.0,Huawei
+5063,KDDI Sharp Aquos Phone CL IS17SH,74.0,Kyocera Corporation
+5065,Kyocera Hydro C5170,74.0,Kyocera Corporation
+5067,Lenovo IdeaTab S2110A / S2-10 16GB,76.0,Lenovo
+5069,Lenovo IdeaTab S2110A 32GB,76.0,Lenovo
+5071,Meizu MX 2-core 16 GB,80.0,"Meizu Technology Co., Ltd"
+5073,Motorola Atrix HD MB886 / Atrix 3 (Motorola Dinara),87.0,Motorola
+5075,Motorola Defy Pro XT560,87.0,Motorola
+5077,NEC Medias X N-07D,91.0,NEC Corporationæ
+5079,NTT DoCoMo Regza T-02D,94.0,"NTT DOCOMO, Inc"
+5081,NTT DoCoMo Sharp Aquos Phone Zeta SH-09D,94.0,"NTT DOCOMO, Inc"
+5083,Panasonic ELUGA Power,103.0,Panasonic
+5085,Panasonic Eluga V P-06D,103.0,Panasonic
+5087,RIM BlackBerry Curve 9310,21.0,BlackBerry Limited
+5089,Samsung GT-B9120,113.0,Samsung
+5091,Samsung GT-i8530 Galaxy Beam,113.0,Samsung
+5093,Samsung SCH-R530 Galaxy S III LTE,113.0,Samsung
+5095,Samsung SGH-i747 Galaxy S III LTE,113.0,Samsung
+5097,Samsung SGH-i827D Galaxy Ace Q,113.0,Samsung
+5099,Samsung SGH-T989 Galaxy SII Plus (Samsung Hercules),113.0,Samsung
+5101,Samsung SHV-E170K Galaxy R Style (Samsung Jaguar),113.0,Samsung
+5103,Samsung SHV-E170L Galaxy R Style (Samsung Jaguar),113.0,Samsung
+5105,Samsung SHV-E170S Galaxy R Style (Samsung Jaguar),113.0,Samsung
+5107,Samsung SHV-E210K Galaxy S III LTE,113.0,Samsung
+5109,Samsung SHV-E210L Galaxy S III LTE,113.0,Samsung
+5111,Samsung SHV-E210S Galaxy S III LTE,113.0,Samsung
+5113,Samsung SHW-M340S Galaxy M Style,113.0,Samsung
+5115,Samsung SHW-M480S Galaxy Note 10.1,113.0,Samsung
+5117,Samsung SHW-M480W Galaxy Note 10.1 WiFi 32GB,113.0,Samsung
+5119,SoftBank Sharp Aquos Phone Xx 106SH,122.0,SoftBank
+5121,Sony Xperia Miro ST23 / ST23i (Sony Mesona),123.0,Sony Corporation
+5123,Sony Xperia Neo L MT25 / MT25i,123.0,Sony Corporation
+5125,Sony Xperia Tipo ST21 / ST21i (Sony Tapioca SS),123.0,Sony Corporation
+5127,Sprint Samsung SPH-L710 Galaxy S III LTE 32GB,126.0,Sprint Corporation
+5129,Toshiba Excite 13 T AT330 / Excite 13.3 AT335 64GB,136.0,Toshiba Corporation
+5131,Verizon HTC Droid Incredible 4G LTE ADR6410 (HTC Fireball),143.0,Verizon Communications
+5133,Verizon Samsung SCH-i535 Galaxy S3,143.0,Verizon Communications
+5135,ZTE Grand X U970,156.0,ZTE
+5137,ZTE N880E,156.0,ZTE
+5139,Acer Liquid Glow E330,3.0,Acer
+5141,Alcatel One Touch OT-993,6.0,Alcatel-Lucent
+5143,Archos Elements 97 Carbon,11.0,Archos
+5145,Casio V-T500-J,26.0,Casio
+5147,Casio V-T500-WJ,26.0,Casio
+5149,Detailed Technical Datasheet of Casio V-T500-WJ,23.0,Bluebird Soft Inc
+5151,Huawei Ascend G312 QWERTY U8730 (Huawei Buddy),62.0,Huawei
+5153,Huawei Ascend P1 TD (Huawei T9200),62.0,Huawei
+5155,Huawei Ascend Y200T (Huawei T8620),62.0,Huawei
+5157,Kyocera Rise C5155,74.0,Kyocera Corporation
+5159,Motorola Atrix HD LTE MB886 (Motorola Dinara),87.0,Motorola
+5161,Motorola Defy Pro XT560 A,87.0,Motorola
+5163,Motorola Defy XT XT556 / XT557,87.0,Motorola
+5165,Motorola ELECTRIFY 2 XT881 (Motorola Yangtze),87.0,Motorola
+5167,Motorola Photon Q 4G LTE XT897 (Motorola Asanti),87.0,Motorola
+5169,Motorola RAZR V XT885 (Motorola Yangtze),87.0,Motorola
+5171,NTT DoCoMo Fujitsu Arrows W F-04E,94.0,"NTT DOCOMO, Inc"
+5173,NTT DoCoMo Fujitsu F-09D Anteprima,94.0,"NTT DOCOMO, Inc"
+5175,NTT DoCoMo LG L-06D Optimus Vu / JOJO,94.0,"NTT DOCOMO, Inc"
+5177,NTT DoCoMo Samsung Galaxy S III LTE SC-06D,94.0,"NTT DOCOMO, Inc"
+5179,NTT DoCoMo Sharp Aquos Phone sv SH-10D,94.0,"NTT DOCOMO, Inc"
+5181,Pioneer P80w,63.0,Hunan Suning Pioneer Electronics
+5183,Samsung GT-N8000 Galaxy Note 10.1 32GB / Galaxy Note 800,113.0,Samsung
+5185,Samsung GT-N8000 Galaxy Note 10.1 64GB,113.0,Samsung
+5187,Samsung GT-N8010 Galaxy Note 10.1 WiFi 32GB,113.0,Samsung
+5189,Samsung GT-N8010 Galaxy Note 10.1 WiFi 64GB,113.0,Samsung
+5191,Sony Xperia acro S LT26w (Sony Hikari),123.0,Sony Corporation
+5193,Sony Xperia advance ST27a (Sony Lotus),123.0,Sony Corporation
+5195,Sony Xperia go ST27 / ST27i (Sony Lotus),123.0,Sony Corporation
+5197,Sony Xperia GX SO-04D (Sony Hayabusa),123.0,Sony Corporation
+5199,Sony Xperia Tipo Dual ST21i2 (Sony Tapioca DS),123.0,Sony Corporation
+5201,T-Mobile Ascend G312 U8680 (Huawei Phoenix),128.0,T-Mobile
+5203,T-Mobile myTouch Q U8730 (Huawei Buddy),128.0,T-Mobile
+5205,T-Mobile myTouch U8680 (Huawei Phoenix),128.0,T-Mobile
+5207,T-Mobile Samsung SGH-T879 Galaxy Note,128.0,T-Mobile
+5209,Verizon Samsung SCH-i705  Galaxy Tab 2 7.0 4G LTE,143.0,Verizon Communications
+5211,ZTE Anthem 4G N910,156.0,ZTE
+5213,Acer CloudMobile S500,3.0,Acer
+5215,Acer Liquid Gallant Duo AK330,3.0,Acer
+5217,Acer Liquid Gallant Duo E350,3.0,Acer
+5219,Alcatel One Touch OT-991D,6.0,Alcatel-Lucent
+5221,Alcatel One Touch OT-993D,6.0,Alcatel-Lucent
+5223,Alcatel One Touch T20,6.0,Alcatel-Lucent
+5225,Amazon Kindle Fire 7 HD 32GB,7.0,Amazon
+5227,Apple iPhone 5 16GB,10.0,Apple Inc
+5229,Apple iPhone 5 32GB,10.0,Apple Inc
+5231,Apple iPhone 5 64GB,10.0,Apple Inc
+5233,Apple iPhone 5 CDMA 16GB,10.0,Apple Inc
+5235,Apple iPhone 5 CDMA 32GB,10.0,Apple Inc
+5237,Apple iPhone 5 CDMA 64GB,10.0,Apple Inc
+5239,Archos Gen10 101 XS,11.0,Archos
+5241,Archos Gen10 101 XS ,11.0,Archos
+5243,Asus Transformer Pad Infinity 4G LTE 64 GB TF700KL / TF700TL,14.0,Asus
+5245,Coolpad 8950 MagView II,33.0,Coolpad Group Limited
+5247,Coolpad Quattro 4G 5860E ,33.0,Coolpad Group Limited
+5249,Fujitsu Stylistic M532,50.0,Fujitsu Ltd
+5251,HTC Desire X T328e (HTC Proto),61.0,HTC
+5253,HTC J Z321e (HTC Nippon),61.0,HTC
+5255,Huawei Ascend G330D (Huawei U8825D),62.0,Huawei
+5257,Huawei Ascend P LTE / P1 4G U9202L,62.0,Huawei
+5259,Huawei MediaPad 10 FHD S10-101u 16GB,62.0,Huawei
+5261,Huawei MediaPad 10 FHD S10-101u 64GB,62.0,Huawei
+5263,Huawei MediaPad 7 Lite S7-931u,62.0,Huawei
+5265,Lenovo IdeaPad A2107 / IdeaTab A2107 WiFi 16 GB,76.0,Lenovo
+5267,Lenovo IdeaPad A2107A / IdeaTab A2107A 16GB,76.0,Lenovo
+5269,Lenovo IdeaPad A2107A / IdeaTab A2107A 8GB,76.0,Lenovo
+5271,Lenovo IdeaPad A2109 / IdeaTab A2109 16GB,76.0,Lenovo
+5273,Lenovo IdeaPad A2109 / IdeaTab A2109 8GB,76.0,Lenovo
+5275,Lenovo IdeaPhone / LePhone K860,76.0,Lenovo
+5277,Lenovo IdeaPhone A60+ / LePhone A60+,76.0,Lenovo
+5279,Lenovo IdeaPhone S560 / LePhone S560,76.0,Lenovo
+5281,Lenovo IdeaPhone S880 / LePhone S880,76.0,Lenovo
+5283,Lenovo LePhone A530,76.0,Lenovo
+5285,Lenovo LePhone S686,76.0,Lenovo
+5287,LG E405 Optimus L3 Dual,77.0,LG Electronics
+5289,LG E615 Optimus L5 Dual,77.0,LG Electronics
+5291,LG F-180S Optimus G (LG Gee),77.0,LG Electronics
+5293,LG F180L Optimus G (LG Gee),77.0,LG Electronics
+5295,LG P895 Optimus Vu,77.0,LG Electronics
+5297,LG US730 Splendor,77.0,LG Electronics
+5299,LG VS950 Intuition / Optimus Vu,77.0,LG Electronics
+5301,Motorola DROID RAZR M 4G LTE XT907 (Motorola Scorpion Mini),87.0,Motorola
+5303,Prestigio MultiPhone PAP5000 DUO,11.0,Archos
+5305,RIM BlackBerry PlayBook 4G LTE 32GB,21.0,BlackBerry Limited
+5307,Samsung EK-GC100 Galaxy Camera,113.0,Samsung
+5309,Samsung GT-i9300T Galaxy S III,113.0,Samsung
+5311,Samsung GT-N7005 Galaxy Note LTE,113.0,Samsung
+5313,Samsung GT-N7100 Galaxy Note II 16GB,113.0,Samsung
+5315,Samsung GT-N7100 Galaxy Note II 32GB,113.0,Samsung
+5317,Samsung GT-N7100 Galaxy Note II 64GB,113.0,Samsung
+5319,Samsung SCH-i200 Galaxy Stellar 4G (Samsung Jasper),113.0,Samsung
+5321,Samsung SCH-i659 Galaxy Ace Plus,113.0,Samsung
+5323,Samsung SCH-i699 Galaxy Trend,113.0,Samsung
+5325,Samsung SHV-E250K Galaxy Note II LTE 32GB,113.0,Samsung
+5327,Samsung SHV-E250K Galaxy Note II LTE 64GB,113.0,Samsung
+5329,Samsung SHV-E250L Galaxy Note II LTE 32GB,113.0,Samsung
+5331,Samsung SHV-E250L Galaxy Note II LTE 64GB,113.0,Samsung
+5333,Samsung SHV-E250S Galaxy Note II LTE 32GB,113.0,Samsung
+5335,Samsung SHV-E250S Galaxy Note II LTE 64GB,113.0,Samsung
+5337,Samsung SPH-L300 Galaxy Victory 4G LTE (Samsung Gogh),113.0,Samsung
+5339,Samsung YP-GP1 Galaxy Player 5.8 32GB,113.0,Samsung
+5341,Sharp SH530U,115.0,Sharp Corporation
+5343,Sony Xperia J ST26 / ST26i (Sony JLo),123.0,Sony Corporation
+5345,Sony Xperia Miro ST23a (Sony Mesona),123.0,Sony Corporation
+5347,Sony Xperia SL LT26ii,123.0,Sony Corporation
+5349,Sony Xperia T LT30p (Sony Mint Rita),123.0,Sony Corporation
+5351,Sony Xperia Tablet S 3G 16GB,123.0,Sony Corporation
+5353,Sony Xperia Tablet S 3G 32GB,123.0,Sony Corporation
+5355,Sony Xperia Tablet S 3G 64GB,123.0,Sony Corporation
+5357,Sony Xperia Tablet S WiFi 16GB,123.0,Sony Corporation
+5359,Sony Xperia Tablet S WiFi 32GB,123.0,Sony Corporation
+5361,Sony Xperia Tablet S WiFi 64GB,123.0,Sony Corporation
+5363,Sony Xperia Tipo Dual ST21a2 (Sony Tapioca DS),123.0,Sony Corporation
+5365,Sony Xperia Tipo ST21a (Sony Tapioca SS),123.0,Sony Corporation
+5367,Sony Xperia TX LT29 / Xperia T LT29i (Sony Hayabusa),123.0,Sony Corporation
+5369,T-Mobile Samsung SGH-T699 Galaxy S Relay 4G / Blaze Q,128.0,T-Mobile
+5371,Xiaomi Mi-One S / MI-1S,149.0,Xiaomi Inc
+5373,ZTE Grand X IN P940 16GB,156.0,ZTE
+5375,ZTE Grand X IN P940 4GB,156.0,ZTE
+5377,ZTE Nova V6500,156.0,ZTE
+5379,ZTE Render,156.0,ZTE
+5381,ZTE Warp Sequent,156.0,ZTE
+5383,Acer Iconia Tab A110 8GB,3.0,Acer
+5385,Alcatel One Touch OT-997D,6.0,Alcatel-Lucent
+5387,Alcatel One Touch OT-998 Ultra,6.0,Alcatel-Lucent
+5389,Alcatel One Touch Shockwave,6.0,Alcatel-Lucent
+5391,Alcatel One Touch T10,6.0,Alcatel-Lucent
+5393,Apple  iPad 4 16GB,10.0,Apple Inc
+5395,Apple  iPad 4 64GB,10.0,Apple Inc
+5397,Apple  iPad 4 Wi-Fi 32GB,10.0,Apple Inc
+5399,Apple  iPad 4 Wi-Fi 64GB / iPad 4th generation,10.0,Apple Inc
+5401,Apple iPod touch 5th generation 64GB,10.0,Apple Inc
+5403,Asus Vivo Tab RT TF600T,14.0,Asus
+5405,HTC One S Special Edition (HTC Ville C),61.0,HTC
+5407,HTC One SC,61.0,HTC
+5409,HTC One ST,61.0,HTC
+5411,HTC One SU,61.0,HTC
+5413,HTC One X+ S728e (HTC Endeavor C2),61.0,HTC
+5415,HTC T329w (HTC Proto),61.0,HTC
+5417,Huawei Ascend D LTE (Huawei U9501L),62.0,Huawei
+5419,Huawei Ascend D1 Quad / Ascend D quad (Huawei U9510),62.0,Huawei
+5421,Huawei Ascend D1 Quad XL (Huawei T9510E),62.0,Huawei
+5423,Huawei Ascend D1 Quad XL / Ascend D quad XL (Huawei U9510E),62.0,Huawei
+5425,Huawei Ascend G306T (Huawei T8808D),62.0,Huawei
+5427,Huawei Ascend G309T Pro (Huawei T8830),62.0,Huawei
+5429,Huawei Ascend G600 (Huawei U8950D),62.0,Huawei
+5431,Huawei Honor+ (Huawei T8950),62.0,Huawei
+5433,Lenovo LePhone A660,76.0,Lenovo
+5435,LG LS970 Eclipse 4G LTE,77.0,LG Electronics
+5437,LG P760 Optimus L9,77.0,LG Electronics
+5439,LG P769 Optimus L9,77.0,LG Electronics
+5441,LG P870 Escape 4G,77.0,LG Electronics
+5443,Microsoft Surface Tablet 32GB,83.0,Microsoft
+5445,Microsoft Surface Tablet 64GB,83.0,Microsoft
+5447,Motorola DROID RAZR HD XT926 (Motorola Vanquish),87.0,Motorola
+5449,Motorola DROID RAZR MAXX HD XT926 (Motorola Vanquish),87.0,Motorola
+5451,Motorola RAZR HD XT925 (Motorola Vanquish),87.0,Motorola
+5453,Motorola RAZR i XT890,87.0,Motorola
+5455,Motorola RAZR M XT905 (Motorola Scorpion Mini),87.0,Motorola
+5457,Oregon Scientific Meep Tablet,101.0,Oregon Scientific
+5459,Prestigio MultiPad 7.0 PMP3570C ULTRA PLUS,11.0,Archos
+5461,Prestigio MultiPhone PAP3500 DUO,11.0,Archos
+5463,Prestigio MultiPhone PAP4040 DUO,11.0,Archos
+5465,Prestigio MultiPhone PAP4300 DUO,11.0,Archos
+5467,Samsung EK-KC100S Galaxy Camera,113.0,Samsung
+5469,Samsung Galaxy Tab 7.7 Plus SC-01E,113.0,Samsung
+5471,Samsung GT-i8190 Galaxy S III Mini 8GB,113.0,Samsung
+5473,Samsung GT-i8190 Galaxy S III Mini NFC 16GB,113.0,Samsung
+5475,Samsung GT-i8190 Galaxy S III Mini NFC 8GB,113.0,Samsung
+5477,Samsung GT-i9300 Galaxy S III 64GB,113.0,Samsung
+5479,Samsung GT-S6010 Galaxy Music,113.0,Samsung
+5481,Samsung GT-S7562 Galaxy S Duos,113.0,Samsung
+5483,Samsung SCH-R530M Galaxy S III LTE,113.0,Samsung
+5485,Samsung SCH-R950 Galaxy Note II LTE,113.0,Samsung
+5487,Samsung SGH-i317 Galaxy Note II LTE,113.0,Samsung
+5489,Samsung SGH-i547 Galaxy Rugby Pro / Galaxy Rugby LTE,113.0,Samsung
+5491,Samsung SPH-L900 Galaxy Note II LTE,113.0,Samsung
+5493,Sharp SH630T / SH630E,115.0,Sharp Corporation
+5495,Sharp SH631W,115.0,Sharp Corporation
+5497,SoftBank Huawei Stream 201HW,122.0,SoftBank
+5499,Sony Xperia J ST26a (Sony JLo),123.0,Sony Corporation
+5501,Sony Xperia T LT30at (Sony Mint Amy),123.0,Sony Corporation
+5503,Sony Xperia V LT25 / LT25i (Sony Tsubasa),123.0,Sony Corporation
+5505,T-Mobile Samsung SGH-T889 Galaxy Note 2,128.0,T-Mobile
+5507,T-Mobile Summit U8651S,128.0,T-Mobile
+5509,Vodafone SmartTab II7 4GB,146.0,Vodafone
+5511,Zopo Field ZP300+,155.0,Zopo Mobile
+5513,Zopo Pilot ZP100,155.0,Zopo Mobile
+5515,ZTE Blade III,156.0,ZTE
+5517,ZTE Grand Era U985,156.0,ZTE
+5519,ZTE Grand Era V985,156.0,ZTE
+5521,ZTE Grand X LTE T82,156.0,ZTE
+5523,ZTE V882 (ZTE Lord),156.0,ZTE
+5525,Alcatel One Touch View,6.0,Alcatel-Lucent
+5527,Amazon Kindle Fire 8.9 HD 32GB,7.0,Amazon
+5529,Amazon Kindle Fire 8.9 HD 4G LTE 64GB,7.0,Amazon
+5531,Apple  iPad 4 CDMA 32GB,10.0,Apple Inc
+5533,Apple  iPad Mini 16GB,10.0,Apple Inc
+5535,Apple  iPad Mini 32GB,10.0,Apple Inc
+5537,Apple  iPad Mini 64GB,10.0,Apple Inc
+5539,Apple  iPad Mini CDMA 16GB,10.0,Apple Inc
+5541,Apple  iPad Mini CDMA 32GB,10.0,Apple Inc
+5543,Apple  iPad Mini CDMA 64GB,10.0,Apple Inc
+5545,Apple  iPad Mini Wi-Fi 16GB,10.0,Apple Inc
+5547,Apple  iPad Mini Wi-Fi 32GB,10.0,Apple Inc
+5549,Apple  iPad Mini Wi-Fi 64GB,10.0,Apple Inc
+5551,Archos Elements 97 Xenon,11.0,Archos
+5553,Archos Gen10 80 XS,11.0,Archos
+5555,Asus Vivo Tab RT TF600TG,14.0,Asus
+5557,Asus Vivo Tab RT TF600TL / Tablet 600,14.0,Asus
+5559,BN NOOK HD 16GB,18.0,Barnes & Noble
+5561,BN NOOK HD 8GB,18.0,Barnes & Noble
+5563,BN NOOK HD+ Slate 16GB,18.0,Barnes & Noble
+5565,BN NOOK HD+ Slate 32GB,18.0,Barnes & Noble
+5567,Casio GzOne Type-L CAL21,26.0,Casio
+5569,Coolpad 9120,33.0,Coolpad Group Limited
+5571,Google Nexus 10 16GB,54.0,Google
+5573,Google Nexus 10 32GB,54.0,Google
+5575,Google Nexus 7 32GB (Asus Nakasi),54.0,Google
+5577,Google Nexus 7C 32GB,54.0,Google
+5579,HTC One X+ LTE (HTC Evitare),61.0,HTC
+5581,HTC T329t (HTC Proto),61.0,HTC
+5583,HTC Windows Phone 8S A620e (HTC Rio),61.0,HTC
+5585,HTC Windows Phone 8X C620e (HTC Accord),61.0,HTC
+5587,HTC Windows Phone 8X LTE 16GB,61.0,HTC
+5589,Huawei Ascend Y201 (Huawei U8666),62.0,Huawei
+5591,KDDI Fujitsu Arrows ef FJL21,74.0,Kyocera Corporation
+5593,KDDI Sharp Aquos Phone Serie SHL21,74.0,Kyocera Corporation
+5595,Kyocera Digno S KYL21,74.0,Kyocera Corporation
+5597,Lenovo IdeaPhone P700i / LePhone P700i,76.0,Lenovo
+5599,Lenovo LePhone S890,76.0,Lenovo
+5601,LG E960 Nexus 4 (LG Mako),77.0,LG Electronics
+5603,LG E960 Nexus 4 16GB (LG Mako),77.0,LG Electronics
+5605,LG F-200L Optimus Vu II,77.0,LG Electronics
+5607,LG F200K Optimus Vu II,77.0,LG Electronics
+5609,LG F200S Optimus Vu II,77.0,LG Electronics
+5611,LG P880G Optimus 4X HD (LG X3),77.0,LG Electronics
+5613,LG VS930 Spectrum 2 / Optimus LTE 2,77.0,LG Electronics
+5615,Micromax A110 Canvas 2,82.0,Micromax Informatics
+5617,Micromax A90S Pixel,82.0,Micromax Informatics
+5619,Motorola MOTOLUXE XT XT788,87.0,Motorola
+5621,Motorola RAZR i MT788,87.0,Motorola
+5623,NEC LaVie Y LY750 32GB,91.0,NEC Corporationæ
+5625,NEC LaVie Y LY750 64GB,91.0,NEC Corporationæ
+5627,Nokia Lumia 510 (Nokia Glory),92.0,Nokia Corporation
+5629,Nokia Lumia 820 (Nokia Arrow),92.0,Nokia Corporation
+5631,Nokia Lumia 820.2 (Nokia Arrow),92.0,Nokia Corporation
+5633,Nokia Lumia 920 (Nokia Phi),92.0,Nokia Corporation
+5635,Nokia Lumia 920.2 (Nokia Phi),92.0,Nokia Corporation
+5637,Prestigio MultiPad 7.0 PMP3370B ULTRA,11.0,Archos
+5639,Prestigio MultiPad 7.0 PMP5770D PRIME DUO,11.0,Archos
+5641,Prestigio MultiPad 7.0 PMP7170B PRIME 3G,11.0,Archos
+5643,Prestigio MultiPhone PAP4000 DUO,11.0,Archos
+5645,Prestigio MultiPhone PAP4020 DUO,11.0,Archos
+5647,Prestigio MultiPhone PAP4500 DUO,11.0,Archos
+5649,Samsung GT-N7108 Galaxy Note II,113.0,Samsung
+5651,Samsung GT-S6012 Galaxy Music Duos,113.0,Samsung
+5653,Samsung GT-S7568 Galaxy S Duos,113.0,Samsung
+5655,Samsung SCH-i415 Galaxy Stratosphere II,113.0,Samsung
+5657,Samsung SCH-i605 Galaxy Note II LTE,113.0,Samsung
+5659,Samsung SGH-i317M Galaxy Note II LTE,113.0,Samsung
+5661,Samsung SGH-i437 Galaxy Express,113.0,Samsung
+5663,Samsung SGH-i497 Galaxy Tab 2 10.1,113.0,Samsung
+5665,Samsung SGH-N025 Galaxy Note II SC-02E (Samsung Sailor),113.0,Samsung
+5667,Samsung SHW-M460D Galaxy Ace Plus,113.0,Samsung
+5669,Sharp Aquos Phone SH930W,115.0,Sharp Corporation
+5671,Sony Xperia AX SO-01E  (Sony Tsubasa),123.0,Sony Corporation
+5673,Sony Xperia TL LT30a (Sony Mint),123.0,Sony Corporation
+5675,Sony Xperia V LT25c (Sony Tsubasa Xin),123.0,Sony Corporation
+5677,Sony Xperia VL SOL21 (Sony Tsubasa),123.0,Sony Corporation
+5679,T-Mobile Nokia Lumia 810,128.0,T-Mobile
+5681,UMI X1,138.0,UMI DIGI
+5683,Verizon HTC Droid DNA ADR6435 / Droid Incredible X HTC6435LVW (HTC DLX),143.0,Verizon Communications
+5685,Vodafone SmartTab II7 8GB,146.0,Vodafone
+5687,ZTE EasyTouch 4G T82,156.0,ZTE
+5689,ZTE Flash N9500,156.0,ZTE
+5691,ZTE V790 / Viettel V8403,156.0,ZTE
+5693,ZTE V889M,156.0,ZTE
+5695,Acer Liquid Z110,3.0,Acer
+5697,Acer Liquid Z110 Duo,3.0,Acer
+5699,Alcatel One Touch OT-992D,6.0,Alcatel-Lucent
+5701,Archos GamePad A70GP,11.0,Archos
+5703,Asus Padfone 2 A68 16GB,14.0,Asus
+5705,Asus Padfone 2 A68 32GB,14.0,Asus
+5707,Asus Padfone 2 A68 64GB,14.0,Asus
+5709,HTC Deluxe X920e (HTC DLX),61.0,HTC
+5711,HTC One SV AU,61.0,HTC
+5713,HTC One VX (HTC Totem C2),61.0,HTC
+5715,HTC Windows Phone 8S A620t (HTC Rio),61.0,HTC
+5717,Huawei Ascend Y210 (Huawei U8685D),62.0,Huawei
+5719,KDDI HTC J Butterfly HTL21,74.0,Kyocera Corporation
+5721,KDDI Sharp Aquos Pad SHT21,74.0,Kyocera Corporation
+5723,Kogan Agora 10 Dual Core Tablet 16GB,20.0,BenQ
+5725,Kogan Agora Mini 8 Dual Core Tablet 16GB,20.0,BenQ
+5727,Lava Xolo A800,75.0,LavaæInternational Ltd
+5729,Lenovo IdeaPad Yoga 11 64GB,76.0,Lenovo
+5731,LG E970 Optimus G (LG Gee),77.0,LG Electronics
+5733,LG E971 Optimus G 2600 (LG Gee),77.0,LG Electronics
+5735,Meizu MX 2 64GB,80.0,"Meizu Technology Co., Ltd"
+5737,Meizu MX2 16GB,80.0,"Meizu Technology Co., Ltd"
+5739,Meizu MX2 32GB,80.0,"Meizu Technology Co., Ltd"
+5741,Micromax A68 Smarty 4.0,82.0,Micromax Informatics
+5743,Motorola Atrix TV XT682,87.0,Motorola
+5745,NEC Disney Mobile on docomo N-03E,91.0,NEC Corporationæ
+5747,NEC Medias U N-02E / N-02E One Piece,91.0,NEC Corporationæ
+5749,Nokia Lumia 510.2 (Nokia Glory),92.0,Nokia Corporation
+5751,Nokia Lumia 822 (Nokia Atlas),92.0,Nokia Corporation
+5753,Nokia Lumia 920T,92.0,Nokia Corporation
+5755,NTT DoCoMo Fujitsu Arrows Kiss F-03E,94.0,"NTT DOCOMO, Inc"
+5757,NTT DoCoMo Fujitsu Arrows Tab F-05E,94.0,"NTT DOCOMO, Inc"
+5759,NTT DoCoMo LG Optimus Life L-02E,94.0,"NTT DOCOMO, Inc"
+5761,NTT DoCoMo Sharp Aquos Phone Zeta SH-02E,94.0,"NTT DOCOMO, Inc"
+5763,Prestigio MultiPad 7.0 PMP5570C PRO DUO,11.0,Archos
+5765,Prestigio MultiPad 8.0 PMP5580C PRO DUO ,11.0,Archos
+5767,Prestigio MultiPad 8.0 PMP5780D PRIME DUO,11.0,Archos
+5769,Prestigio MultiPad 8.0 PMP5880D ULTRA DUO ,11.0,Archos
+5771,Samsung GT-i8750 Ativ S 32GB (Samsung Odyssey),113.0,Samsung
+5773,Samsung GT-N7102 Galaxy Note II,113.0,Samsung
+5775,Samsung GT-P8510 Ativ Tab 32GB,113.0,Samsung
+5777,Samsung SCH-N719 Galaxy Note 2 CDMA,113.0,Samsung
+5779,Samsung SCH-R820 Galaxy Admire 4G,113.0,Samsung
+5781,Samsung SCH-R830 Galaxy Axiom,113.0,Samsung
+5783,Samsung SCH-W2013,113.0,Samsung
+5785,Samsung SGH-N035 Galaxy S III Alpha SC-03E (Samsung Gravity Quad),113.0,Samsung
+5787,Samsung SHV-E230L Galaxy Note 10.1 LTE 32GB,113.0,Samsung
+5789,SoftBank Pantone 6 200SH,122.0,SoftBank
+5791,Toshiba Excite 10 SE AT300SE,136.0,Toshiba Corporation
+5793,Verizon HTC Windows Phone 8X LTE ADR6990,143.0,Verizon Communications
+5795,Vivo X1,19.0,BBK Electronics Corporation
+5797,Xiaomi Mi-Two / MI-2,149.0,Xiaomi Inc
+5799,Xiaomi Mi-Two / MI-2 32GB,149.0,Xiaomi Inc
+5801,ZTE N9120 Avid 4G ,156.0,ZTE
+5803,ZTE U930HD,156.0,ZTE
+5805,ZTE V887,156.0,ZTE
