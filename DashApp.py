@@ -28,7 +28,6 @@ app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 #This header specifies which dashboard objects are considered as input and output for our next function
 @app.callback(
     [Output('scatterPlot', 'figure'),
-    Output('paracoorPlot', 'figure'),
     Output('table','data')],
     [Input('attOptions', 'value'),
     Input('yearSlider', 'value')])
@@ -132,16 +131,25 @@ scatterContent = dbc.Container([
 
 #========================================== Code for Parallel Coordinates Page ======================================
 
+# @app.callback(
+#     [Output('paracoorContent', 'figure')])
+
+cols = ['RAM Capacity (Mb)', 'Storage (Mb)', 'CPU Clock (MHz)', 'Display Diagonal (in)', 'Volume (cubic cm)', 'Mass (grams)']
+
+dataFrame['Release Year 01'] = pd.DatetimeIndex(dataFrame['Release Date']).year
+
+pc_fig = px.parallel_coordinates(dataFrame, dimensions=cols, color='Release Year 01',      color_continuous_scale=px.colors.sequential.Rainbow)
+
 paracoorContent = dbc.Container([
     html.H1('Features of Phones through Years'),
     html.Hr(),
     dbc.Row([
-        dbc.Col(dcc.Graph(id='paracoorPlot'), md=8)
+        dbc.Col(dcc.Graph(figure=pc_fig), md=8)
     ])
 ])
 
 
-#================================Main App and Sidebar =========================================================
+#================================Main App and Sidebar  =========================================================
 #Define the style of the sidebar used for navigation
 sidebarStyle = {
     "position": "fixed",
