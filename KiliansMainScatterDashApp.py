@@ -168,7 +168,7 @@ def update_bar_chart(i, yearRange, selectedCompanies):
     companyScores = np.array(companyScores)
     companyPhoneCount = np.array(companyPhoneCount)
     compNames = np.array(compNames)
-    companyFinalScore = companyScores #/ companyPhoneCount
+    companyFinalScore = companyScores# / companyPhoneCount
     
     sortedZip = sorted(zip(companyFinalScore, compNames), reverse=True)
     namesSorted = [name for _, name in sortedZip]
