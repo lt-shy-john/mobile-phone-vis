@@ -88,19 +88,28 @@ app = dash.Dash(__name__)
 
 #Create a card for our controls
 controls = dbc.Card([
+    dbc.Row([
+    dbc.Col(
+        dbc.FormGroup([
+            dbc.Label('Selected Attribute'),
+            dcc.Dropdown(
+                id = 'attOptions',
+                options = [{'label': attName, 'value': i} for i, attName in enumerate(scatterDatNames)],
+                value = 0)]),
+        width=6),
+    
+    dbc.Col(
+        dbc.FormGroup([
+            dbc.Label('Select Company'),
+            dcc.Dropdown(
+                id = 'companySelection',
+                options = dropDownOptions,
+                multi=True
+                )]),
+        width=6)]),
+    
     dbc.FormGroup([
-        dbc.Label('Selected Attribute'),
-        dcc.Dropdown(
-            id = 'attOptions',
-            options = [{'label': attName, 'value': i} for i, attName in enumerate(scatterDatNames)],
-            value = 0),
-        dbc.Label('Select Company'),
-        dcc.Dropdown(
-            id = 'companySelection',
-            options = dropDownOptions,
-            multi=True
-            ),
-        html.Label('Select Year Range:'),
+        html.H3('Select Year Range:'),
         dcc.RangeSlider(
             id='yearSlider',
             min=releaseYear[0], 
@@ -112,10 +121,10 @@ controls = dbc.Card([
                 2005: '2005',
                 2010: '2010',
                 2012: '2012'}),
-        html.Label('Mode:'),
+        html.H3('Select Visualization Method:'),
         dcc.RadioItems(options=[
-            {'label': 'Discrete', 'value': 'discrete'},
-            {'label': 'Continuous', 'value': 'continuous'}],
+            {'label': 'Earliest Adapters', 'value': 'discrete'},
+            {'label': 'Beating the Trend', 'value': 'continuous'}],
             value='continuous')
     ])
 ])
@@ -123,7 +132,9 @@ controls = dbc.Card([
 app.layout = html.Div([
     html.Div(controls),
     html.Div([
+        #html.H3('Devices Beating the Trend'),
         dcc.Graph(id="bar-chart", figure={'layout': {"height": 700}}),
+        #html.H3('Company Scores'),
         dcc.Graph(id="scatter",  figure={'layout': {"height": 700}})]),
     html.Div(id='DebugText')
 ])
@@ -186,7 +197,13 @@ def update_bar_chart(i, yearRange, selectedCompanies):
         figBar.add_trace(go.Bar(x=namesSorted, y=scoreSorted,
             marker=dict(color=isSelected, colorscale='Blugrn')))
     #figBar.update_layout(hovermode="x unified")
-    figBar.update_layout(transition_duration=500, showlegend=False, hovermode="x unified")
+    figBar.update_layout(
+        title="Company Scores",
+        xaxis_title="Companies",
+        yaxis_title="Sum of Residuals",
+        transition_duration=500, 
+        showlegend=False, 
+        hovermode="x unified")
     figBar.update_xaxes(showticklabels=False)
     
     
@@ -223,7 +240,12 @@ def update_bar_chart(i, yearRange, selectedCompanies):
             marker=dict(size=8, color=detrendedAttributes[boolArray], colorscale='Bluered')))
     
     figScat.add_trace(go.Scatter(x=linearFitX, y=linearFitY, name='Fit'))
-    figScat.update_layout(transition_duration=500, showlegend=False)
+    figScat.update_layout(
+        title="Devices Beating the Trend",
+        xaxis_title="Year",
+        yaxis_title=scatterDatNames[i],
+        transition_duration=500, 
+        showlegend=False)
     
     #Use log scale if necessary
     if useLogScale[i]:
